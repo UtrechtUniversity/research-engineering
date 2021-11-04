@@ -1,5 +1,14 @@
 ## UU Research Engineering Team 
 
+### Quick start
+[Research Engineering support](#how-a-research-engineer-can-help-you)
+[Projects](docs/projects.md)
+[HPC support](docs/hpc.md)
+[Publications](docs/publications.md)
+
+
+### Introduction
+
 As a researcher you may want to know which technologies are available to answer your research question. Or you would like to use a specific technology or data source, but need guidance or support to do so. The research engineering team can help you with these issues.
 
 We support researchers at Utrecht University in applying digital technologies in various stages of their research. We can help you with technological challenges on, for example, data handling and computing, but we also consult on methodological issues, like the selection of the most suitable research approach or the validation of results.
