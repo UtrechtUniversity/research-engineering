@@ -1,10 +1,10 @@
 ## UU Research Engineering Team 
 
 ### Quick start
-[Research Engineering support](#how-a-research-engineer-can-help-you)
-[Projects](docs/projects.md)
-[HPC support](docs/hpc.md)
-[Publications](docs/publications.md)
+- [Research Engineering support](#how-a-research-engineer-can-help-you)
+- [Projects](docs/projects.md)
+- [HPC support](docs/hpc.md)
+- [Publications](docs/publications.md)
 
 
 ### Introduction
