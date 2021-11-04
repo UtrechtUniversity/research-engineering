@@ -54,4 +54,5 @@ In our engineering projects, we closely work together with researchersfor a spec
 
 We provide consultancy and engineering, both as free services. Consultancy in your project is always possible. Due to our limited capacity, our engineering support in your project cannot be guaranteed. Our aim is to help researchers throughout Utrecht University and to keep innovating as a team, so we select our projects accordingly.
 
-Would you like consultancy or support on research engineering in your project, you can contact [RDM Support](https://www.uu.nl/en/research/research-data-management/contact-us) or our email our team (research.engineering@uu.nl) directly.
+### Contact
+Would you like consultancy or support contact us via email research.engineering@uu.nl
