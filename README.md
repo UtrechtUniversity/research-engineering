@@ -5,6 +5,7 @@
 - [Projects](docs/projects.md)
 - [HPC support](docs/hpc.md)
 - [Publications](docs/publications.md)
+- [Manuals](docs/manuals.md)
 
 
 ### Introduction
