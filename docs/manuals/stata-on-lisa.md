@@ -33,8 +33,7 @@ Check [Transfer files between the HPC system and your PC](https://servicedesk.su
 ## Submitting jobs
 Once you have logged in to lisa, you are located on the login node. The login node is a computer where you manage your files and create job scripts. If you want to do something with Stata, you will have to submit a 'job'. Once you submit a job, it will enter the job queue and as soon as resources are available the job will be executed on a compute node. The output will be stored on the location that you specify in the do-file or the job script.
 
-You submit a job by creating and running a job script, see:
-https://servicedesk.surfsara.nl/wiki/display/WIKI/Creating+and+running+jobs
+You submit a job by [creating and running a job script](https://servicedesk.surfsara.nl/wiki/display/WIKI/Creating+and+running+jobs)
 
 
 
