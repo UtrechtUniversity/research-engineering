@@ -22,14 +22,14 @@ We collaborate with researchers from a wide variety of domains and faculties. In
 Our team of Research Engineers has extensive experience in software development and multidisciplinary research, ranging from social sciences to natural sciences.
 
 These Research engineers offer you their expertise:
-- [Roel Brouwer](https://www.uu.nl/medewerkers/RJJBrouwer)
-- [Shiva Nadi Najafabadi](https://www.uu.nl/medewerkers/SNadiNajafabadi)
-- [Haili Hu](https://www.uu.nl/medewerkers/HHu2)
-- Casper Kaandorp
-- Raoul Schram
-- [Jelle Treep](https://www.uu.nl/medewerkers/HJTreep)
-- [Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos)
-- [Parisa Zahedi](https://www.uu.nl/medewerkers/PZahedi)
+- [Roel Brouwer, MSc](https://www.uu.nl/medewerkers/RJJBrouwer)
+- [Shiva Nadi Najafabadi, MSc](https://www.uu.nl/medewerkers/SNadiNajafabadi)
+- [Dr. Haili Hu](https://www.uu.nl/medewerkers/HHu2)
+- Casper Kaandorp, MSc
+- Dr. Raoul Schram
+- [Dr. Jelle Treep](https://www.uu.nl/medewerkers/HJTreep)
+- [Dr. Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos)
+- [Parisa Zahedi, MSc](https://www.uu.nl/medewerkers/PZahedi)
 
 ### How a research engineer can help you
 
