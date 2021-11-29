@@ -21,7 +21,7 @@
 | 02/2021 - present |
 | Faculty of Veterinary Medicine, Veterinary Epidemiology |
 | Technologies: Semantic Web, Ontologies, RDF, Docker, Python, R | 
-| Research Engineers:[Martine de Vos](https://www.uu.nl/staff/MGdeVos) |
+| Research Engineers: [Martine de Vos](https://www.uu.nl/staff/MGdeVos) |
 | The summerFAIR project aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We have developed a pipeline based to map data to a shared vocabulary, convert them to linked data triples and perform integrated analyses.|
 
 | [Data privacy](https://github.com/UtrechtUniversity/dataprivacyhandbook) | 
@@ -29,7 +29,7 @@
 | 10/2021 - present |
 | Research Data Management Support|
 | Technologies: GDPR, de-identification, synthetic data, federated analysis| 
-| Research Engineers:[Martine de Vos](https://www.uu.nl/staff/MGdeVos)|
+| Research Engineers: [Martine de Vos](https://www.uu.nl/staff/MGdeVos)|
 | The Data Privacy Handbook is a guide to handling personal data in scientific research, in line with European data protection and privacy regulations. The handbook provides tips, guidelines but also concrete tools and approaches for researchers to handle sensitive data in their projects.|
 
 | [Crunchbase](https://github.com/UtrechtUniversity/ia-webscraping) | 
@@ -109,7 +109,7 @@
 | 2019 - 2020 |
 | Faculty of Social Sciences|
 | Technologies: Python, NLP, topic-modeling, network-analysis | 
-| Researc Engineers: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Martine de Vos]( https://www.uu.nl/medewerkers/MGdeVos)  |
+| Researc Engineers: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos)  |
 | This project aims to explore the potential of Twitter data in making sense of online debates. More specifically, the focus is on the online manifestation of the anti-Monsanto movement and assess tweets to investigate (1) activists’ behaviors and opinions, (2) the shape of their networks, (3) their organization and leadership, and (4) information diffusion patterns. Monsanto is one of the world’s largest producers of both agrochemicals and genetically modified crop seeds. |
 
 | [Global Goals](https://github.com/UtrechtUniversity/global-goals) | 
@@ -117,6 +117,6 @@
 | 10/2019 - 08/2020 |
 | Faculty of Geosciences, Global Sustainability Governance|
 | Technologies: Webscraping, Python, AWS, Terraform| 
-| Research Engineers:[Jelle Treep](https://www.uu.nl/staff/HJTreep),[Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
+| Research Engineers: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
 | The Global Goals project investigates the effect of the United Nations' Sustainable Development Goals (SDGs) on the global network of intergovernmental organizations. This network is represented by the hyperlinks on the organizations’ websites. We have retrieved the historical - from 2012 up to 2019- hyperlinks for a given set of international organizations via the Internet Archive. |
 

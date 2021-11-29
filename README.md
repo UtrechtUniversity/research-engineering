@@ -31,7 +31,7 @@ These Research Engineers offer you their expertise:
 - [Dr. Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos)
 - [Parisa Zahedi, MSc](https://www.uu.nl/medewerkers/PZahedi)
 
-### How we can help you
+### How a research engineer can help you
 
 We offer a broad range of skills and expertise including, but not limited to:
 - Data collection and analysis:
