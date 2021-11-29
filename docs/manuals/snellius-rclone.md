@@ -1,5 +1,4 @@
 ---
-description: >-
   Rclone is a command line program to manage files on cloud storage. It can be
   used to copy or synchronize files between a cloud storage platform (e.g.
   SURFdrive) and an HPC cluster (e.g. Cartesius).
