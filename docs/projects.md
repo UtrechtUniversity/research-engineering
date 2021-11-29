@@ -16,6 +16,14 @@
 | Research Engineers: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), Raoul Schram|
 | Changing behavior is necessary to tackle societal problems, such as obesity and financial problems. One way to change behavior is by nudging people. A nudge is a way to change behavior without prohibiting options or changing its costs. However, nudges are often one-size-fits-all techniques: everyone is offered the same nudge. The scientific aim of this project is to use open data to develop predictive models with Machine Learning, in order to determine the most effective nudge for persons, given the nudging goal and the individual personal circumstances.|
 
+| [Crunchbase](https://github.com/UtrechtUniversity/ia-webscraping) | 
+| --- | 
+| 05/2020- |
+| Faculty of Geosciences, Dynamics of Innovation Systems|
+| Technologies: Webscraping,Internet Archive,Pipeline,Internet,Python,AWS,Terraform| 
+| RSEs:Casper Kaandorp, [Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
+| The Crunchbase project assesses the sustainability of European startup-companies by analyzing their websites. As the researcher is interested in the pre-Corona situation, we scrape webpages from the Internet Archive. Together with [SURF](https://www.surf.nl/en/custom-cloud-solutions) we have developed a method to set up AWS workflow for collecting and analyzing these webpages.|
+
 | [Data Donation - proof of concept](https://github.com/eyra/port-poc) | 
 | --- | 
 | 04/2021-10/2021 |
@@ -23,7 +31,6 @@
 | Technologies: Python, WebAssembly, Pyodide, Data Faker | 
 | Research Engineers: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), Roos Voorvaart |
 | In this project, we collaborated with the [Human Data Science group](https://hds.sites.uu.nl/) and [Eyra](https://www.eyra.co/) to make data from social media platforms easily accessible to researchers, while preserving privacy. Respondents can voluntary donate their data download packages through an online platform (PORT), and researchers can provide custom data extraction scripts, which will be run locally on the respondent’s devices. A proof-of-concept PORT has been developed by Eyra, while data extraction scripts and fake data packages were provided by the Research Engineering team.|
-
 
 | [Ocean Parcels particle-particle interaction](https://github.com/OceanParcels/parcels) | 
 | --- | 
@@ -52,7 +59,7 @@
 | [Animal Sounds](https://github.com/UtrechtUniversity/animal-sounds) | 
 | --- | 
 | 2019-2021 |
-| Faculty of Science |
+| Faculty of Science, Ecology and Biodiversity Group |
 | Technologies: bioacoustics, audio, librosa, machine learning, deep learning, feature engineering | 
 | Research Engineers: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), Casper Kaandorp |
 | We developed algorithms and a data processing workflow to detect vocalizations of Chimpanzees in a large body of audio data from the African tropical rainforest. The workflow consists of: 1) a filtering step where irrelevant audio data is removed to speed up manual annotation, 2) a feature engineering and feature selection step, and 3) classification using support vector machines and convolutional neural networks |
@@ -60,7 +67,7 @@
 | [Porpoise Reproduction](https://github.com/lonnekeijsseldijk/porpoise-reproduction) | 
 | --- | 
 | 2020-2020 |
-| Faculty of Veterinary Medicine |
+| Faculty of Veterinary Medicine, Pathology |
 | Technologies: R, sf, raster, rgdal | 
 | Research Engineers: [Jelle Treep](https://www.uu.nl/staff/HJTreep), Roos Voorvaart |
 | Porpoise Reproduction studies how reproduction rates of harbour porpoises are affected by various factors. In this RSE project [marine regions](marineregions.org) were enriched with [Cumulative Human Impact model data](knb.ecoinformatics.org) |
@@ -81,4 +88,11 @@
 | Research Engineers: Raoul Schram, [Parisa Zahedi](https://www.uu.nl/medewerkers/PZahedi), Jonathan de Bruin |
 | ASReview is a machine learning tool to aid researchers in performing systematic reviews. It uses active learning to present users with more likely relevant papers. It has been written in Python 3.7+, and hyper parameters have been optimized using the hyperopt package. We have also contributed to the initial back-end for the user interface using flask. |
 
+| [Global Goals](https://github.com/UtrechtUniversity/global-goals) | 
+| --- | 
+| 10/2019-08/2020 |
+| Faculty of Geosciences, Global Sustainability Governance|
+| Technologies: Webscraping,Python,AWS,terraform| 
+| Research Engineers:[Jelle Treep](https://www.uu.nl/staff/HJTreep),[Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
+| The global goals project investigates the effect of the United Nations' Sustainable Development Goals (SDGs) on the global network of intergovernmental organizations. This network is represented by the hyperlinks on the organizations’ websites. We have retrieved the historical - from 2012 up to 2019- hyperlinks for a given set of international organizations via the Internet Archive.|
 
