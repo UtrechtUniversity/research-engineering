@@ -1,12 +1,10 @@
----
-  Rclone is a command line program to manage files on cloud storage. It can be
-  used to copy or synchronize files between a cloud storage platform (e.g.
-  SURFdrive) and an HPC cluster (e.g. Cartesius).
----
-
 # Cartesius - Rclone
 
 This manual aims to help setup Rclone for data transfer between SURFdrive and Cartesius. The assumptions is that the reader has some experience with HPC computing and knows how to [submit jobscripts](https://userinfo.surfsara.nl/systems/cartesius/getting-started#submitting).
+
+Rclone is a command line program to manage files on cloud storage. It can be
+used to copy or synchronize files between a cloud storage platform (e.g.
+SURFdrive) and an HPC cluster (e.g. Cartesius).
 
 Steps:
 
