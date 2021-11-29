@@ -4,7 +4,7 @@
 
 The instructions below describe the process of data transfer between Cartesius and Yoda using iCommands (recommended method). Transfer is also possible via the Webdav protocol using [Rclone](https://rclone.org). For large files iCommands is faster due to parallel transfer options.
 
-### ** Steps**
+### Steps
 
 1. Create a config file
 2. Load Icommands
@@ -146,6 +146,3 @@ irsync -rKv "$TMPDIR"/output/ i:my_yoda_output_directory
 
 echo "/bin/date: End "
 ```
-
-``
-
