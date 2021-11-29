@@ -1,5 +1,4 @@
 ---
-description: >-
   With Terraform you can setup your AWS infrastructure with a simple script.
   This produces reusable recipes and avoids the time-consuming process of
   setting up infrastructure by using the AWS website.
@@ -7,9 +6,7 @@ description: >-
 
 # Terraforming AWS Infrastructure
 
-{% hint style="info" %}
-Crunchbase is a research project to assess the sustainability of European startup-companies by analyzing their websites. **Terraform** is used to set up an AWS workflow for collecting and analyzing webpages from the Internet Archive. Check the [code](https://github.com/UtrechtUniversity/ia-webscraping) on Github for more information.&#x20;
-{% endhint %}
+Crunchbase is a research project to assess the sustainability of European startup-companies by analyzing their websites. **Terraform** is used to set up an AWS workflow for collecting and analyzing webpages from the Internet Archive. Check the [code](https://github.com/UtrechtUniversity/ia-webscraping) on Github for more information.
 
 ### Introduction
 
@@ -20,7 +17,7 @@ Crunchbase is a research project to assess the sustainability of European startu
 * [Install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started)
 * Set up your account at [AWS ](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)or an other cloud platform
 
-### &#x20;Workflow
+### Workflow
 
 Roughly, the terraform workflow can be described as
 
@@ -52,7 +49,7 @@ $ terraform destroy
 
 Once you no longer need infrastructure, you may want to destroy it to reduce your security exposure and costs. The terraform destroy command terminates resources managed by your Terraform project.
 
-### Configuration&#x20;
+### Configuration
 
 ![Simple terraform folder structure](<../.gitbook/assets/tf\_structure (3).png>)
 
@@ -68,6 +65,6 @@ $ terraform apply -var-file="testing.tfvars"
 
 To allow Terraform to automatically load the variables, the file should be named `terraform.tfvars` or `*.auto.tfvars` and placed in the same directory as your Terraform configuration file.
 
-#### Modules&#x20;
+#### Modules
 
 Modules in their simplest are containers for multiple resources that are often used together. You may compare them to function definitions in other programming languages. Modules can also be called multiple times, either within the same configuration or in separate configurations, allowing resource configurations to be packaged and re-used.
