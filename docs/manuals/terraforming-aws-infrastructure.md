@@ -1,14 +1,10 @@
----
-  With Terraform you can setup your AWS infrastructure with a simple script.
-  This produces reusable recipes and avoids the time-consuming process of
-  setting up infrastructure by using the AWS website.
----
-
 # Terraforming AWS Infrastructure
 
 Crunchbase is a research project to assess the sustainability of European startup-companies by analyzing their websites. **Terraform** is used to set up an AWS workflow for collecting and analyzing webpages from the Internet Archive. Check the [code](https://github.com/UtrechtUniversity/ia-webscraping) on Github for more information.
 
 ### Introduction
+
+With Terraform you can setup your AWS infrastructure with a simple script. This produces reusable recipes and avoids the time-consuming process of setting up infrastructure by using the AWS website.
 
 [Terraform](https://www.terraform.io/intro/index.html]) is an infrastructure as code (IaC) tool that allows you to define resources and infrastructure in human-readable, declarative configuration file. In that way you can build, change, version and reuse your infrastructure safely and efficiently. Terraform can manage infrastructure on multiple cloud platforms like Amazon Web Services (AWS), Azure, Google Cloud Platform (GCP) and Kubernetes.
 
