@@ -1,4 +1,4 @@
-## UU Research Engineering Team 
+## Research Engineering at Utrecht University
 
 ### Quick start
 - [Meet the team](#meet-the-team)
@@ -21,7 +21,7 @@ We collaborate with researchers from a wide variety of domains and faculties. In
 
 Our team of Research Engineers has extensive experience in software development and multidisciplinary research, ranging from social sciences to natural sciences.
 
-These Research engineers offer you their expertise:
+These Research Engineers offer you their expertise:
 - [Roel Brouwer, MSc](https://www.uu.nl/medewerkers/RJJBrouwer)
 - [Shiva Nadi Najafabadi, MSc](https://www.uu.nl/medewerkers/SNadiNajafabadi)
 - [Dr. Haili Hu](https://www.uu.nl/medewerkers/HHu2)
@@ -31,7 +31,7 @@ These Research engineers offer you their expertise:
 - [Dr. Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos)
 - [Parisa Zahedi, MSc](https://www.uu.nl/medewerkers/PZahedi)
 
-### How a research engineer can help you
+### How we can help you
 
 We offer a broad range of skills and expertise including, but not limited to:
 - Data collection and analysis:
