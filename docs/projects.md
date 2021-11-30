@@ -8,6 +8,14 @@
 | Research Engineers: [Roel Brouwer](uu.nl/staff/RJJBrouwer) and Raoul Schram |
 | Investigating the feasibility of speeding up existing Python code for [Parcels](https://oceanparcels.org) using Numba. The aim is to speed up the simulation enough to eliminate the need for a separate (partial) JIT/C path in the code. This should lead to a more flexible and maintainable code base. |
 
+| [Dynamiek in beeld]( https://github.com/sodascience/empathy-viz) | 
+| --- | 
+| 2021 |
+| ODISSEI Social Data Science Team (SoDa) |
+| Technologies: Shiny | 
+| RSEs: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi]( https://www.uu.nl/medewerkers/SNadiNajafabadi)  |
+| An application that can be used in a clinical setting to score dynamics in empathy. There are some questions to be asked whereafter the results are visualized. The visualization should help the clinician to ask the right questions immediately. |   
+
 | [Precision Nudging](https://github.com/UtrechtUniversity/nudging) | 
 | --- | 
 | 04/2021 - present |
@@ -31,6 +39,14 @@
 | Technologies: GDPR, de-identification, synthetic data, federated analysis| 
 | Research Engineers: [Martine de Vos](https://www.uu.nl/staff/MGdeVos)|
 | The Data Privacy Handbook is a guide to handling personal data in scientific research, in line with European data protection and privacy regulations. The handbook provides tips, guidelines but also concrete tools and approaches for researchers to handle sensitive data in their projects.|
+
+| [tweet_collector]( https://github.com/UtrechtUniversity/tweet_collector) | 
+| --- | 
+| 2021 - now |
+| Faculty of Humanities,  Media and Culture Studies |
+| Technologies: Python, searchtweets, elasticsearch/kibana | 
+| RSEs: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Roos Voorvaart]( https://github.com/RVoor)  |
+| Twitter forms a rich source of information for researchers interested in studying 'the public conversation'. The Academic Research product track is designed to serve the needs of the academic research community. It provides researchers with special levels of access to public Twitter data without any cost. This project is aimed to help researchers to use the Academic Research product track to collect tweets of their interest and analyze them. |   
 
 | [Crunchbase](https://github.com/UtrechtUniversity/ia-webscraping) | 
 | --- | 
@@ -63,6 +79,14 @@
 | Technologies: Temporal networks, Python, Numba, simulation | 
 | Research Engineers: Raoul Schram |
 | To improve the theoretical analysis and comparison of different temporal networks, we have invented a new metric to study them. The measure is called network entropy, and is applicable to any temporal network. We showed with simulations that processes on a network behave very differently, depending on the network entropy. |
+
+| [hist-aware]( https://github.com/UtrechtUniversity/hist-aware) | 
+| --- | 
+| 2020-2021 |
+| Faculty of Humanities, History and Art History |
+| Technologies: Python, NLP, Deep learning, Huggingface Transformers | 
+| RSEs:  [Leonardo Vida]( https://github.com/leonardovida) ,[Parisa Zahedi](https://www.uu.nl/staff/PZahedi)  |
+| This project makes use of the Delpher archive (delpher.nl/kranten), which is the largest public collection of digitized pages from Dutch historical newspapers. The research team is mining articles’ sentiments, as expressed by the author of the articles, extracting all the relevant Delpher articles around specific topics (i.e. energy) and is currently training natural language processing (NLP) models called Transformers to extract a sufficiently accurate representation of the sentiment of each article. Currently, the team is making use of the period 1960-1995 consisting of around 250.000 articles around the topics chosen. |   
 
 | [Protosc](https://github.com/UtrechtUniversity/protosc) |
 | --- | 
