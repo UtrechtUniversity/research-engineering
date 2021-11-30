@@ -133,7 +133,7 @@
 | 2019 - 2020 |
 | Faculty of Social Sciences|
 | Technologies: Python, NLP, topic-modeling, network-analysis | 
-| Researc Engineers: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos)  |
+| Research Engineers: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos)  |
 | This project aims to explore the potential of Twitter data in making sense of online debates. More specifically, the focus is on the online manifestation of the anti-Monsanto movement and assess tweets to investigate (1) activists’ behaviors and opinions, (2) the shape of their networks, (3) their organization and leadership, and (4) information diffusion patterns. Monsanto is one of the world’s largest producers of both agrochemicals and genetically modified crop seeds. |
 
 | [Global Goals](https://github.com/UtrechtUniversity/global-goals) | 
