@@ -29,7 +29,7 @@ These Research Engineers offer you their expertise:
 - Dr. Raoul Schram
 - [Dr. Jelle Treep](https://www.uu.nl/medewerkers/HJTreep)
 - [Dr. Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos)
-- [Parisa Zahedi, MSc](https://www.uu.nl/medewerkers/PZahedi)
+- [Parisa Zahedi, PDEng](https://www.uu.nl/medewerkers/PZahedi)
 
 ### How a research engineer can help you
 
