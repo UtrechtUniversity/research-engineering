@@ -1,7 +1,6 @@
 ## Research Engineering at Utrecht University
 Our goal is to increase the impact of research through advanced digital technologies. We do this by developing innovative research software and by helping build digital skills in academia.
 
-### Quick start
 - [Meet the team](#meet-the-team)
   - [What we do](#what-we-do)
   - [How we do it](#how-we-do-it)
@@ -10,9 +9,8 @@ Our goal is to increase the impact of research through advanced digital technolo
 - [Publications](docs/publications.md)
 - [Manuals](docs/manuals.md)
 
-
 ### Meet the team
-Our diverse team of Research Engineers has extensive experience in software development with close ties to academic research, ranging from social sciences to natural sciences.
+Our diverse team of Research Engineers has extensive experience in software development with close ties to academic research, ranging from social sciences to natural sciences. Our backgrounds are in e.g. computer science, software engineering, data science, and physics.
 
 These Research Engineers offer you their expertise:
 - [Roel Brouwer, MSc](https://www.uu.nl/medewerkers/RJJBrouwer)
