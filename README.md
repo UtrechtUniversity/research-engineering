@@ -37,10 +37,11 @@ Our skills and expertise include:
   - Python, R, MATLAB, FORTRAN, Docker, Shiny and much more.
 
 #### What we do
-We support UU researchers of all domains in various stages of their research; from social sciences to natural sciences, from PhD students to full professors, from planning to execution. We help with technological challenges on, for example, data handling and computing, but we also consult on methodological issues, like the selection of the most suitable research approach or the validation of results.
+We support UU researchers of all domains in various stages of their research; from social sciences to natural sciences, from students to professors, from planning to execution.
 
 We can help you with, for example:
 - finding the appropiate digital technology for your research;
+- setting up a data processing pipeline;
 - developing [FAIR](https://fair-software.nl/) research software to anwer your research question;
 - selecting and using [High Performance and Cloud computing](docs/hpc.md) facilities;
 - formulating the technical aspect of your research plan or grant proposal.
