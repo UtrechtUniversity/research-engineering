@@ -1,5 +1,5 @@
 ## Research Engineering at Utrecht University
-Our goal is to increase the impact of research through advanced digital technologies. We do this by developing innovative research software and by helping build digital skills in academia.
+We work together with researchers at Utrecht University to increase the impact of research through advanced digital technologies. We do this by developing innovative research software and by helping build digital skills in academia.
 
 - [Meet the team](#meet-the-team)
   - [What we do](#what-we-do)
@@ -24,11 +24,13 @@ These Research Engineers offer you their expertise:
 
 Our skills and expertise include:
   - machine learning;
-  - natural language processing;
+  - text mining;
+  - web scraping;
   - network analysis;
-  - simulations;
-  - geospatial data analysis;
-  - Python, R, MATLAB, Docker, Shiny and much more.
+  - geospatial analysis;
+  - high performance computing;
+  - computer modelling and simulations;
+  - Python, R, MATLAB, FORTRAN, Docker, Shiny and much more.
 
 ### What we do
 We support researchers at Utrecht University in applying digital technologies in various stages of their research. We can help you with technological challenges on, for example, data handling and computing, but we also consult on methodological issues, like the selection of the most suitable research approach or the validation of results.
@@ -37,7 +39,7 @@ We collaborate with researchers from a wide variety of domains and faculties. In
 
 We can help you with, for example:
 - finding the appropiate digital technology for your research;
-- developing [FAIR](https://fair-software.nl/) research software to answer your research question;
+- developing [FAIR](https://fair-software.nl/) research software to anwer your research question;
 - selecting and using [High Performance and Cloud computing](docs/hpc.md) facilities;
 - formulating the technical aspect of your research plan or grant proposal.
 
@@ -47,7 +49,7 @@ We provide consultancy and engineering in research projects in various formats:
 - We also offer **short-term engineering** support as a free service. During a period of a few months, you will have regular meetings with one or two Research Engineers, with the aim of developing a proof-of-concept or exploring a new method for your research.
 - **Long-term support** is possible and can be tailored to your project, provided that funding is available for our services. We can also help you write the technical aspect of your grant proposal, in which our support is included.
 
-Due to our limited capacity, our engineering support in your project cannot be guaranteed. Our aim is to help researchers throughout Utrecht University and to keep innovating as a team, so we select our projects accordingly. We give priority to projects that align with the Utrecht University [mission and vision](https://www.uu.nl/en/organisation/profile/mission-and-strategy) to work towards a better world. 
+Due to our limited capacity, our support in your project cannot be guaranteed. Our aim is to help researchers throughout Utrecht University and to keep innovating as a team, so we select our projects accordingly. We give priority to projects that align with the Utrecht University [mission and vision](https://www.uu.nl/en/organisation/profile/mission-and-strategy) to work towards a better world. 
 
 
 ### Contact
