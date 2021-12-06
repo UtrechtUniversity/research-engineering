@@ -1,0 +1,13 @@
+# Rclone
+
+[Rclone](https://rclone.org/) is a convenient tool for fast data transfer between computers (PC, HPC, cloud) and cloud based storage platforms such as Surfdrive, Researchdrive, onedrive, dropbox. 
+It is a command line tool, so the user would need some experience with using the command line in order to user Rclone.
+
+The following steps show how you can use rclone on Research cloud for data transfer to a Jupyterhub or Rstudio workspace application.
+
+## Step 1: [Install rclone](install-rclone.md)
+
+## Step 2: [Configure rclone](configure-rclone.md)
+
+## Step 3: [Data transfer using rclone](rclone-transferringdata.md)
+
