@@ -7,7 +7,7 @@ The following steps show how you can use rclone on Research cloud for data trans
 
 ## Step 1: [Install rclone](install-rclone.md)
 
-## Step 2: [Configure rclone](configure-rclone.md)
+## Step 2: [Configure rclone](config-rclone.md)
 
 ## Step 3: [Data transfer using rclone](rclone-transferringdata.md)
 
