@@ -14,4 +14,13 @@ It is a command line tool, so the user would need some experience with using the
 
 `curl https://rclone.org/install.sh | sudo bash`
 
+## Step 3: Check if installation was successful
+
+Type the following command. A version number will be displayed when installation was successful.
+
+```
+rclone version
+```
+
+
 ## Next: [Configure Rclone](docs/manuals/config-rclone.md)
