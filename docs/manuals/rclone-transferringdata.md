@@ -53,3 +53,7 @@ rclone sync surfdrive:my_source_folder ./my_destination_folder -cPv
 &#x20;`-c` skip files that are already present (compared using checksums)\
 &#x20;`-P` report progress of transfer\
 &#x20;`-v` verbose; increase the amount of information in the logs
+
+Further reading:
+- For all Rclone commands see: [https://rclone.org/commands/](https://rclone.org/commands/)  
+- When using rclone on Snellius or Lisa, read: [how to use rclone in jobscripts](rclone-jobscript.md)
