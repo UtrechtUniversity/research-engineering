@@ -42,3 +42,6 @@ rclone lsd surfdrive:
 Change `surfdrive:` to any other name chosen in step 2.
 
 If everything is setup correctly, you should see a list of files and folders that are present on your SURFdrive.
+
+## Next: [Using rclone for data transfer](rclone-transferringdata.md)
+
