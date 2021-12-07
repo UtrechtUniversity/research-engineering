@@ -1,25 +1,20 @@
 ## Research Engineering at Utrecht University
+Our goal is to increase research impact through advanced digital technologies. To achieve this, we work together with UU researchers to develop innovative research software and help build digital skills in academia.
 
-### Quick start
-- [Meet the team](#meet-the-team)
+- [About us](#about-us)
+  - [Who we are](#who-we-are)
+  - [What we do](#what-we-do)
+  - [How we work](#how-we-work)
+  - [Contact](#contact)
 - [Projects](docs/projects.md)
-- [HPC support](docs/hpc.md)
 - [Publications](docs/publications.md)
 - [Manuals](docs/manuals.md)
 
+### About us
+Researchers of all domains increasingly require the use of digital technologies in their work. Our team caters to this need by collaborating with researchers in projects and consulting them on research IT matters. By doing so, we act as a knowledge hub where expertise gained in temporary projects are safeguarded and used for cross-pollination across domains. At the same time, we provide a collaborative community for researchers and IT staff at Utrecht University.
 
-### Introduction
-
-As a researcher you may want to know which technologies are available to answer your research question. Or you would like to use a specific technology or data source but need guidance or support to do so. The Research Engineering team can help you with these issues.
-
-We support researchers at Utrecht University in applying digital technologies in various stages of their research. We can help you with technological challenges on, for example, data handling and computing, but we also consult on methodological issues, like the selection of the most suitable research approach or the validation of results.
-
-We collaborate with researchers from a wide variety of domains and faculties. In our engineering projects, we closely work together with researchers for a specific period of time. Our unique approach combines experience in both academic research and engineering. In each project we gain new knowledge and expertise, which we can apply in our following projects, often in other domains. Our mission is to increase the impact of research by facilitating and inspiring research teams with distinctive knowledge and solutions.
-
-
-### Meet the team
-
-Our team of Research Engineers has extensive experience in software development and multidisciplinary research, ranging from social sciences to natural sciences.
+#### Who we are
+We are a diverse team of Research Engineers with extensive experience in software development and academic research, with backgrounds in e.g. computer science, software engineering, data science, physics and geoscience. 
 
 These Research Engineers offer you their expertise:
 - [Roel Brouwer, MSc](https://www.uu.nl/medewerkers/RJJBrouwer)
@@ -31,36 +26,42 @@ These Research Engineers offer you their expertise:
 - [Dr. Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos)
 - [Parisa Zahedi, PDEng](https://www.uu.nl/medewerkers/PZahedi)
 
-### How a research engineer can help you
+Our skills and expertise include:
+  - machine learning;
+  - text mining;
+  - web scraping;
+  - data analysis;
+  - high performance computing;
+  - computer modelling and simulations;
+  - Python, R, MATLAB, FORTRAN, Docker, Shiny and much more.
 
-We offer a broad range of skills and expertise including, but not limited to:
-- Data collection and analysis:
-  - processing sensor data
-  - machine learning (e.g. neural networks)
-  - audio and video analysis
-  - text mining
-  - network analysis
-  - geospatial analyses
-- Computing:
-  - selection and use of [High Performance and Cloud computing](docs/hpc.md) and facilities
-  - parallelization and optimization
-- Software development:
-  - Findable, Accessible, Interoperable and Reusable (FAIR) software
-  - python, R, matlab
-  - version control (e.g. git)
-  - unit testing
-  - continuous integration
+#### What we do
+We support UU researchers of all domains in various stages of their research; from social sciences to natural sciences, from students to professors, from planning to execution.
 
-### How we work
+Our core activities are:
+- developing sustainable and robust research software;
+- training researchers in software best practices;
+- building a research software community at Utrecht University.
 
+We can help you with, for example:
+- defining technical implementation of your research plan or grant proposal;
+- assessing technical feasability of your research method;
+- finding the appropiate digital technology for your research;
+- developing [FAIR](https://fair-software.nl/) research software to anwer your research question;
+- setting up a data processing pipeline;
+- selecting and using [High Performance and Cloud computing](docs/hpc.md) facilities;
+- connecting to potential knowledge partners.
+
+#### How we work
 We provide consultancy and engineering in research projects in various formats:
 - **Consultancy** in your project is always possible. Typically, consultancy consists of one or two meetings where we discuss your project and offer technical advice free of charge.
 - We also offer **short-term engineering** support as a free service. During a period of a few months, you will have regular meetings with one or two Research Engineers, with the aim of developing a proof-of-concept or exploring a new method for your research.
-- **Long-term support** is possible and can be tailored to your project, when we are included in the project budget. We can also help you write the technical aspect of your research proposal, in which our support is included.
+- **Long-term support** is possible and can be tailored to your project, provided that funding is available for our services. We can also help you write the technical aspect of your grant proposal, in which our support is included.
 
-Due to our limited capacity, our engineering support in your project cannot be guaranteed. Our aim is to help researchers throughout Utrecht University and to keep innovating as a team, so we select our projects accordingly. We give priority to projects that align with the Utrecht University [mission and vision](https://www.uu.nl/en/organisation/profile/mission-and-strategy) to work towards a better world. 
+We do not merely produce software on behalf of researchers; we work collaboratively and iteratively, since we depend on the researcher's domain expertise to steer the project. Furthermore, a close collaboration enables researchers to build digital skills and thereby empowering them in their work. We therefore expect researchers to be committed to regular meetings for the duration of the project.
+
+Due to our limited capacity, support in your project cannot be guaranteed. Our aim is to help researchers throughout Utrecht University and to keep innovating as a team, so we select our projects accordingly. We give priority to projects that align with the Utrecht University [mission and vision](https://www.uu.nl/en/organisation/profile/mission-and-strategy) to work towards a better world. 
 
 
-### Contact
-
-If you like consultancy or engineering support in your project, you can contact us via email research.engineering@uu.nl
+#### Contact
+You can contact us via email research.engineering@uu.nl, or fill in [this form](https://forms.office.com/r/YBLk153rvK) to request our support directly.
