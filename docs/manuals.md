@@ -6,5 +6,6 @@ The manuals on this page are about installing software, transferring data or set
 ## Manuals
 - [Using Stata on Lisa](manuals/stata-on-lisa.md)
 - [Using iRODS icommands on Snellius](manuals/snellius-irods-icommands.md)
-- [Data transfer using Rclone](manuals/snellius-rclone.md)
+- [Data transfer using Rclone on HPC](manuals/snellius-rclone.md)
+- [Data transfer using Rclone on Researchcloud](manuals/rclone-researchcloud.md)
 - [Terraforming AWS Infrastructure](manuals/terraforming-aws-infrastructure.md)
