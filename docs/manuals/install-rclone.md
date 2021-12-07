@@ -24,4 +24,4 @@ rclone version
 ```
 
 
-## Next: [Configure Rclone](config-rclone.md)
+## Next: [Configure Rclone](rclone-config.md)
