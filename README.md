@@ -58,7 +58,7 @@ We provide consultancy and engineering in research projects in various formats:
 - We also offer **short-term engineering** support as a free service. During a period of a few months, you will have regular meetings with one or two Research Engineers, with the aim of developing a proof-of-concept or exploring a new method for your research.
 - **Long-term support** is possible and can be tailored to your project, provided that funding is available for our services. We can also help you write the technical aspect of your grant proposal, in which our support is included.
 
-We do not merely produce software on behalf of researchers; we work collaboratively and iteratively, since we depend on the researcher's domain expertise to steer the project. Furthermore, a close collaboration enables researchers to build digital skills and thereby empowering them. We therefore expect researchers to be committed to regular meetings for the duration of the project.
+We do not merely produce software on behalf of researchers; we work collaboratively and iteratively, since we depend on the researcher's domain expertise to steer the project. Furthermore, a close collaboration enables researchers to build digital skills and thereby empowering them in their work. We therefore expect researchers to be committed to regular meetings for the duration of the project.
 
 Due to our limited capacity, support in your project cannot be guaranteed. Our aim is to help researchers throughout Utrecht University and to keep innovating as a team, so we select our projects accordingly. We give priority to projects that align with the Utrecht University [mission and vision](https://www.uu.nl/en/organisation/profile/mission-and-strategy) to work towards a better world. 
 
