@@ -11,6 +11,8 @@ The steps below are used to install Rclone on Research Cloud.
 
 ## Step 2: Download and install rclone
 
+Type the following command in the terminal:
+
 `curl https://rclone.org/install.sh | sudo bash`
 
 ## Step 3: Check if installation was successful
