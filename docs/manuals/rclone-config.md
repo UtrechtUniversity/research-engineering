@@ -33,13 +33,11 @@ Now walk through the questions. For SURFdrive you need the following information
 12. Confirm your settings by typing `y`.
 13. Choose `q` to quit the menu.
 
-Test whether everything is setup correctly by typing:
+Test whether everything is setup correctly by typing the following command in the terminal, if necessary change `surfdrive:` to any other name chosen in step 2.:
 
 ```
 rclone lsd surfdrive:
 ```
-
-Change `surfdrive:` to any other name chosen in step 2.
 
 If everything is setup correctly, you should see a list of files and folders that are present on your SURFdrive.
 
