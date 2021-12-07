@@ -30,8 +30,7 @@ Our skills and expertise include:
   - machine learning;
   - text mining;
   - web scraping;
-  - network analysis;
-  - geospatial analysis;
+  - data analysis;
   - high performance computing;
   - computer modelling and simulations;
   - Python, R, MATLAB, FORTRAN, Docker, Shiny and much more.
@@ -39,12 +38,19 @@ Our skills and expertise include:
 #### What we do
 We support UU researchers of all domains in various stages of their research; from social sciences to natural sciences, from students to professors, from planning to execution.
 
+Our core activities are:
+- developing sustainable and robust research software;
+- training researchers in software best practices;
+- building a research software community at Utrecht University.
+
 We can help you with, for example:
+- defining technical implementation of your research plan or grant proposal;
+- assessing technical feasability of your research method;
 - finding the appropiate digital technology for your research;
-- setting up a data processing pipeline;
 - developing [FAIR](https://fair-software.nl/) research software to anwer your research question;
+- setting up a data processing pipeline;
 - selecting and using [High Performance and Cloud computing](docs/hpc.md) facilities;
-- formulating the technical aspect of your research plan or grant proposal.
+- connecting to potential knowledge partners.
 
 #### How we work
 We provide consultancy and engineering in research projects in various formats:
