@@ -1,5 +1,5 @@
 |[About us](#about-us)|[Projects](docs/projects.md)|[Publications](docs/publications.md)|[Manuals](docs/manuals.md)|[Contact](#contact)|
-|---|---|---|---|
+|---|---|---|---|---|
 
 Our goal is to increase research impact through advanced digital technologies. To achieve this, we work together with UU researchers to develop innovative research software and help build digital skills in academia.
 
