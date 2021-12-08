@@ -1,3 +1,6 @@
+|[About us](../README.md#about-us)|[Projects](projects.md)|[Publications](publications.md)|[Manuals](manuals.md)|[Contact](../README.md#contact)|
+|---|---|---|---|---|
+
 ## Publication list
 
 1. van de Schoot, R., de Bruin, J., Schram, R. et al. [An open source machine learning framework for efficient and transparent systematic reviews](https://doi.org/10.1038/s42256-020-00287-7). *Nat Mach Intell* **3**, 125–133 (2021).

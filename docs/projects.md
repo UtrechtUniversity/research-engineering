@@ -1,4 +1,7 @@
-# list of projects
+|[About us](../README.md#about-us)|[Projects](projects.md)|[Publications](publications.md)|[Manuals](manuals.md)|[Contact](../README.md#contact)|
+|---|---|---|---|---|
+
+## list of projects
 
 | [Ocean Parcels Numba](https://github.com/OceanParcels/parcels) | 
 | --- | 
