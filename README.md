@@ -1,8 +1,11 @@
 |[About us](#about-us)|[Projects](docs/projects.md)|[Publications](docs/publications.md)|[Manuals](docs/manuals.md)|
 |---|---|---|---|
 
-Our goal is to increase research impact through advanced digital technologies. To achieve this, we work together with UU researchers to develop innovative research software and help build digital skills in academia.
+Researchers of all domains increasingly require the use of digital technologies in their work. Our team caters to this need by collaborating with researchers in projects and consulting them on research IT matters. By doing so, we act as a knowledge hub where expertise gained in temporary projects are safeguarded and used for cross-pollination across domains. At the same time, we provide a collaborative community for researchers and IT staff at Utrecht University.
 
+---
+
+### About us
 <p><details><summary>Learn more about us</summary><br/>
 
 - [Who we are](#who-we-are)
@@ -11,9 +14,6 @@ Our goal is to increase research impact through advanced digital technologies. T
 - [Contact](#contact)
 </details>
 </p>
-
-### About us
-Researchers of all domains increasingly require the use of digital technologies in their work. Our team caters to this need by collaborating with researchers in projects and consulting them on research IT matters. By doing so, we act as a knowledge hub where expertise gained in temporary projects are safeguarded and used for cross-pollination across domains. At the same time, we provide a collaborative community for researchers and IT staff at Utrecht University.
 
 #### Who we are
 We are a diverse team of Research Engineers with extensive experience in software development and academic research, with backgrounds in e.g. computer science, software engineering, data science, physics and geoscience. 
