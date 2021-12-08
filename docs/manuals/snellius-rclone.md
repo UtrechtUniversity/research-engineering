@@ -1,4 +1,7 @@
-# Cartesius - Rclone
+|[About us](../../README.md#about-us)|[Projects](../projects.md)|[Publications](../publications.md)|[Manuals](../manuals.md)|[Contact](../../README.md#contact)|
+|---|---|---|---|---|
+
+## Cartesius - Rclone
 
 This manual aims to help setup Rclone for data transfer between SURFdrive and Cartesius. The assumptions is that the reader has some experience with HPC computing and knows how to [submit jobscripts](https://userinfo.surfsara.nl/systems/cartesius/getting-started#submitting).
 
@@ -12,8 +15,8 @@ Steps:
 2. Transfer files
 3. Use Rclone in jobscripts
 
-## Step 1. [Create an Rclone config file](rclone-config.md)
+### Step 1. [Create an Rclone config file](rclone-config.md)
 
-## Step 2: [Transfer files](rclone-transferringdata.md)
+### Step 2: [Transfer files](rclone-transferringdata.md)
 
-## Step 3: [Use Rclone in jobscripts](rclone-jobscript.md)
+### Step 3: [Use Rclone in jobscripts](rclone-jobscript.md)

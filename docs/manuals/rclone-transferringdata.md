@@ -1,4 +1,7 @@
-# Using Rclone
+|[About us](../../README.md#about-us)|[Projects](../projects.md)|[Publications](../publications.md)|[Manuals](../manuals.md)|[Contact](../../README.md#contact)|
+|---|---|---|---|---|
+
+## Using Rclone
 
 For all Rclone commands see: [https://rclone.org/commands/](https://rclone.org/commands/)
 Below are the most useful commands:
@@ -7,7 +10,7 @@ Below are the most useful commands:
 - copy (copying individual files)
 - sync (copying entire folders)
 
-## rclone lsd
+### rclone lsd
 
 The `lsd` commands is used to list all directories in the current directory.
 e.g. to list all directories in your surfdrive type:
@@ -21,7 +24,7 @@ e.g. to list all directories in a specific subfolder of a folder on surfdrive ty
 rclone lsd surfdrive:myfolder/mysubfolder
 ```
 
-## rclone ls
+### rclone ls
 
 The `ls` commands is used to list all files in the current directory.
 e.g. to list all files in a specific folder in your surfdrive type:
@@ -30,7 +33,7 @@ e.g. to list all files in a specific folder in your surfdrive type:
 rclone ls surfdrive:myfolder
 ```
 
-## rclone copy
+### rclone copy
 
 To copy a file from SURFdrive to a certain folder:
 
@@ -38,7 +41,7 @@ To copy a file from SURFdrive to a certain folder:
 rclone copy surfdrive:file.txt ./my_destination_folder
 ```
 
-## rclone sync
+### rclone sync
 
 To synchronize an entire folder from surfdrive use `rclone sync`:
 
