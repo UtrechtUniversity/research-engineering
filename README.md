@@ -31,6 +31,7 @@ Our goal is to increase research impact through advanced digital technologies. T
 <br/>
 <p align="center">
   <img src="assets/images/bestuursgebouw.jpg"/>
+  <figcaption> &copy;UU Dick Boetekees</figcaption>
 </p>
 <br/>
 
