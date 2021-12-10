@@ -1,6 +1,3 @@
-|[About us](../../README.md#about-us)|[Projects](../projects.md)|[Publications](../publications.md)|[Manuals](../manuals.md)|[Contact](../../README.md#contact)|
-|---|---|---|---|---|
-
 ## Install Rclone
 
 The steps below are used to install Rclone on Research Cloud.
