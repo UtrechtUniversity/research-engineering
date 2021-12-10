@@ -1,7 +1,5 @@
 Our goal is to increase research impact through advanced digital technologies. To achieve this, we work together with UU researchers to develop innovative research software and help build digital skills in academia.
 
----
-
 <p><details><summary>Learn more about us</summary><br/>
 
 - [Our mission](#Our-mission)
@@ -18,7 +16,6 @@ Our goal is to increase research impact through advanced digital technologies. T
 - [Contact us](#contact)
 </details>
 </p>
-
 
 <!-- <p><details><summary>Other research supporters</summary><br/>
 
