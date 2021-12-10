@@ -2,7 +2,7 @@ Our goal is to increase research impact through advanced digital technologies. T
 
 <p><details><summary>Learn more about us</summary><br/>
 
-- [Our mission](#Our-mission)
+- [Our mission](#our-mission)
 - [Who we are](#who-we-are)
 - [What we do](#what-we-do)
 - [How we work](#how-we-work)
