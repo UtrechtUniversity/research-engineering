@@ -1,6 +1,3 @@
-|[About us](../../README.md#about-us)|[Projects](../projects.md)|[Publications](../publications.md)|[Manuals](../manuals.md)|[Contact](../../README.md#contact)|
-|---|---|---|---|---|
-
 ## Using Rclone
 
 For all Rclone commands see: [https://rclone.org/commands/](https://rclone.org/commands/)

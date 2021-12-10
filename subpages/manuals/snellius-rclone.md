@@ -1,6 +1,3 @@
-|[About us](../../README.md#about-us)|[Projects](../projects.md)|[Publications](../publications.md)|[Manuals](../manuals.md)|[Contact](../../README.md#contact)|
-|---|---|---|---|---|
-
 ## Cartesius - Rclone
 
 This manual aims to help setup Rclone for data transfer between SURFdrive and Cartesius. The assumptions is that the reader has some experience with HPC computing and knows how to [submit jobscripts](https://userinfo.surfsara.nl/systems/cartesius/getting-started#submitting).

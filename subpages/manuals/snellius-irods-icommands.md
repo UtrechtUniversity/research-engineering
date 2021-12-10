@@ -1,6 +1,3 @@
-|[About us](../../README.md#about-us)|[Projects](../projects.md)|[Publications](../publications.md)|[Manuals](../manuals.md)|[Contact](../../README.md#contact)|
-|---|---|---|---|---|
-
 ## Cartesius - iRODS iCommands
 
 ### Instructions for synchronization of data on Yoda and HPC platforms

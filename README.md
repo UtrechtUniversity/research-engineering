@@ -1,20 +1,46 @@
-|[About us](#about-us)|[Projects](docs/projects.md)|[Publications](docs/publications.md)|[Manuals](docs/manuals.md)|[Contact](#contact)|
-|---|---|---|---|---|
-
 Our goal is to increase research impact through advanced digital technologies. To achieve this, we work together with UU researchers to develop innovative research software and help build digital skills in academia.
-
----
-
-### About us
-Researchers of all domains increasingly require the use of digital technologies in their work. Our team caters to this need by collaborating with researchers in projects and consulting them on research IT matters. By doing so, we act as a knowledge hub where expertise gained in temporary projects are safeguarded and used for cross-pollination across domains. At the same time, we provide a collaborative community for researchers and IT staff at Utrecht University.
 
 <p><details><summary>Learn more about us</summary><br/>
 
+- [Our mission](#our-mission)
 - [Who we are](#who-we-are)
 - [What we do](#what-we-do)
 - [How we work](#how-we-work)
 </details>
 </p>
+
+<p><details><summary>Get in touch</summary><br/>
+
+- [Request our support](https://forms.office.com/r/YBLk153rvK)
+- [Find us on GitHub](https://github.com/orgs/UtrechtUniversity/teams/research-engineering)
+- [Contact us](#contact)
+</details>
+</p>
+
+<!-- <p><details><summary>Other research supporters</summary><br/>
+
+- [Research Data Management Support (UU)](https://www.uu.nl/en/research/research-data-management)
+- [Information and Technology Services (UU)](https://www.uu.nl/en/organisation/information-and-technology-services-its)
+- [Digital Humanities Lab (UU)](https://dig.hum.uu.nl/)
+- [Netherlands eScience Center (national)](https://www.esciencecenter.nl/)
+- [SURFsara (national)](https://www.surf.nl/en/research-it)
+</details>
+</p> -->
+
+
+<br/>
+<p align="center">
+  <img src="assets/images/bestuursgebouw.jpg"/>
+  <figcaption> &copy;UU Dick Boetekees</figcaption>
+</p>
+<br/>
+
+
+#### Our mission
+Researchers of all domains increasingly require the use of digital technologies in their work. Our team caters to this need by collaborating with researchers in projects and consulting them on research IT matters. By doing so, we act as a knowledge hub where expertise gained in temporary projects are safeguarded and used for cross-pollination across domains. At the same time, we provide a collaborative community for researchers and IT staff at Utrecht University. 
+
+Our mission is to help researchers increase the impact of their work.
+
 
 #### Who we are
 We are a diverse team of Research Engineers with extensive experience in software development and academic research, with backgrounds in e.g. computer science, software engineering, data science, physics and geoscience. 
