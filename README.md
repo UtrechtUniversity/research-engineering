@@ -76,7 +76,7 @@ We can help you with, for example:
 - defining technical implementation of your research plan or grant proposal;
 - assessing technical feasability of your research method;
 - finding the appropiate digital technology for your research;
-- developing [FAIR](https://fair-software.nl/) research software to anwer your research question;
+- developing [FAIR](https://fair-software.nl/) research software to answer your research question;
 - setting up a data processing pipeline;
 - selecting and using [High Performance and Cloud computing](docs/hpc.md) facilities;
 - connecting to potential knowledge partners.
