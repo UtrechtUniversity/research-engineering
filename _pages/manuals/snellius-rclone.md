@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /manuals/snellius-rclone/
+---
 ## Cartesius - Rclone
 
 This manual aims to help setup Rclone for data transfer between SURFdrive and Cartesius. The assumptions is that the reader has some experience with HPC computing and knows how to [submit jobscripts](https://userinfo.surfsara.nl/systems/cartesius/getting-started#submitting).

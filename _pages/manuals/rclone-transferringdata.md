@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /manuals/rclone-transferringdata/
+---
 ## Using Rclone
 
 For all Rclone commands see: [https://rclone.org/commands/](https://rclone.org/commands/)

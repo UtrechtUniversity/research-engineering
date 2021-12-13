@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /manuals/rclone-researchcloud/
+---
 ## Using Rclone on Surf Research Cloud
 
 [Rclone](https://rclone.org/) is a convenient tool for fast data transfer between computers (PC, HPC, cloud) and cloud based storage platforms such as Surfdrive, Researchdrive, onedrive, dropbox. 

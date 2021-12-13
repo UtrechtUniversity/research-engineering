@@ -4,11 +4,28 @@
 @import "jekyll-theme-slate";
 
 #header_wrap {
-    background-image:url('../images/banner_rdm.jpg'); 
+    background-image:url('../images/banner_re.jpg')
   }
 
-figcaption {
-  font-size: 14px;
+  #project_title {
+    margin: 0;
+    color: #111;
+    font-size: 42px;
+    font-weight: 700;
+    text-shadow: #fff 0px 0px 10px;
+  }
+  
+  #project_tagline {
+    color: #111;
+    font-size: 24px;
+    font-weight: 300;
+    background: none;
+    text-shadow: #fff 0px 0px 10px;
+  }
+
+
+  figcaption {
+  font-size: 0.8em;
   font-style: italic;
   text-align: right;
     }

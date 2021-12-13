@@ -69,7 +69,7 @@ We support UU researchers of all domains in various stages of their research; fr
 
 Our core activities are:
 - developing sustainable and robust research software;
-- training researchers in software best practices;
+- promoting software best practices in research;
 - building a research software community at Utrecht University.
 
 We can help you with, for example:
