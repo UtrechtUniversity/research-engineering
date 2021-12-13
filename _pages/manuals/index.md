@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /manuals
+permalink: /manuals/
 ---
 
 ## Manuals

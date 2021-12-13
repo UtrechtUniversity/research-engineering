@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /manuals/snellius-irods-icommands
+permalink: /manuals/snellius-irods-icommands/
 ---
 ## Cartesius - iRODS iCommands
 

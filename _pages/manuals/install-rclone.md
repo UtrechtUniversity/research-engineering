@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /manuals/install-rclone
+permalink: /manuals/install-rclone/
 ---
 
 ## Install Rclone

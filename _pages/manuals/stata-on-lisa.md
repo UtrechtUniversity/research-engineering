@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /manuals/stata-on-lisa
+permalink: /manuals/stata-on-lisa/
 ---
 
 ## Using Stata on Lisa

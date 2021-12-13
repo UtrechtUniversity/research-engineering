@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /manuals/rclone-transferringdata
+permalink: /manuals/rclone-transferringdata/
 ---
 ## Using Rclone
 
