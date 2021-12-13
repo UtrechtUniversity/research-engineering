@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: publications
+permalink: /publications
 ---
 
 ## Publications

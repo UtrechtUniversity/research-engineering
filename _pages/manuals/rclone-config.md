@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: manuals/rclone-config
+permalink: /manuals/rclone-config
 ---
 
 ## Configuring Rclone for surfdrive

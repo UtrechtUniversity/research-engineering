@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: manuals/rclone-researchcloud
+permalink: /manuals/rclone-researchcloud
 ---
 ## Using Rclone on Surf Research Cloud
 

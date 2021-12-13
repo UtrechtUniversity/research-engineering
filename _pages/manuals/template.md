@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: manuals/template
+permalink: /manuals/template
 ---
 
 

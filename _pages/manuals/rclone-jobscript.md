@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: manuals/rclone-jobscript
+permalink: /manuals/rclone-jobscript
 ---
 
 ## Using rclone in jobscripts on Snellius and Lisa

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: manuals/snellius-rclone
+permalink: /manuals/snellius-rclone
 ---
 ## Cartesius - Rclone
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: manuals/terraforming-aws-infrastructure
+permalink: /manuals/terraforming-aws-infrastructure
 ---
 
 ## Terraforming AWS Infrastructure
