@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: manuals/install-rclone
+---
+
 ## Install Rclone
 
 The steps below are used to install Rclone on Research Cloud.

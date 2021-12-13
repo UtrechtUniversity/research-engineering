@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: manuals/terraforming-aws-infrastructure
+---
+
 ## Terraforming AWS Infrastructure
 
 Crunchbase is a research project to assess the sustainability of European startup-companies by analyzing their websites. **Terraform** is used to set up an AWS workflow for collecting and analyzing webpages from the Internet Archive. Check the [code](https://github.com/UtrechtUniversity/ia-webscraping) on Github for more information.

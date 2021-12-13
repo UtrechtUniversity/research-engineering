@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: manuals/snellius-irods-icommands
+---
 ## Cartesius - iRODS iCommands
 
 ### Instructions for synchronization of data on Yoda and HPC platforms

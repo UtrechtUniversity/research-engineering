@@ -1,8 +1,12 @@
 ---
-description: Briefly describe the aim of this guide and the tools involved.
+layout: default
+permalink: manuals/template
 ---
 
+
 ## Template Guide
+
+### Briefly describe the aim of this guide and the tools involved
 
 #### Step 1: Use \<Step X> to help readers move from one point to the next
 
