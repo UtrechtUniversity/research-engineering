@@ -17,7 +17,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Roel Brouwer](uu.nl/staff/RJJBrouwer) and Raoul Schram |
 | Investigating the feasibility of speeding up existing Python code for [Parcels](https://oceanparcels.org) using Numba. The aim is to speed up the simulation enough to eliminate the need for a separate (partial) JIT/C path in the code. This should lead to a more flexible and maintainable code base. |
 
-| [Dynamiek in beeld]| 
+| Dynamiek in beeld| 
 | --- | 
 | **Time frame**: 2021 - present |
 | **Research domain**: ODISSEI Social Data Science Team (SoDa) |
@@ -108,7 +108,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: Raoul Schram, [Roos Voorvaart](https://github.com/RVoor) |
 | Protosc is a Python library that aims to determine which features are relevant to a given classification problem. It does so by using wrapper/filter/genetic algorithms, after which automatic statistical analysis is used to determine which features are significant. The package also includes a few different options for an image classification pipeline. |
 
-| [Animal Sounds]| 
+| Animal Sounds| 
 | --- | 
 | **Time frame**: 2019 - 2021 |
 | **Research domain**: Faculty of Science, Ecology and Biodiversity Group |
@@ -140,7 +140,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: Raoul Schram, [Parisa Zahedi](https://www.uu.nl/medewerkers/PZahedi), [Jonathan de Bruin](https://github.com/J535D165) |
 | ASReview is a machine learning tool to aid researchers in performing systematic reviews. It uses active learning to present users with more likely relevant papers. It has been written in Python 3.7+, and hyper parameters have been optimized using the hyperopt package. We have also contributed to the initial back-end for the user interface using Flask. |
 
-| [Agri-activism]| 
+| Agri-activism| 
 | --- | 
 | **Time frame**: 2019 - 2020 |
 | **Research domain**: Faculty of Social Sciences|
