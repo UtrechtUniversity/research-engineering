@@ -83,7 +83,7 @@ We can help you with, for example:
 - finding the appropiate digital technology for your research;
 - developing [FAIR](https://fair-software.nl/) research software to answer your research question;
 - setting up a data processing pipeline;
-- selecting and using [High Performance and Cloud computing](docs/hpc.md) facilities;
+- selecting and using [High Performance and Cloud computing](_pages/hpc/index.md) facilities;
 - connecting to potential knowledge partners.
 
 #### How we work
