@@ -116,7 +116,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), Casper Kaandorp |
 | We developed algorithms and a data processing workflow to detect vocalizations of Chimpanzees in a large body of audio data from the African tropical rainforest. The workflow consists of: 1) a filtering step where irrelevant audio data is removed to speed up manual annotation, 2) a feature engineering and feature selection step, and 3) classification using support vector machines and convolutional neural networks. |
 
-| [Porpoise Reproduction](https://github.com/lonnekeijsseldijk/porpoise-reproduction) | 
+| Porpoise Reproduction | 
 | --- | 
 | **Time frame**: 2020 |
 | **Research domain**: Faculty of Veterinary Medicine, Pathology |
