@@ -98,4 +98,8 @@ Due to our limited capacity, support in your project cannot be guaranteed. Our a
 
 
 #### Contact
-You can contact us via email research.engineering@uu.nl, or fill in [this form](https://forms.office.com/r/YBLk153rvK) to request our support directly.
+You can contact us via research.engineering@uu.nl, or fill in [this form](https://forms.office.com/r/YBLk153rvK) to request our support directly.
+
+When we are not working remote, we can be found in room 0.25 of the [Administration Builing](https://www.uu.nl/en/bestuursgebouw), Heidelberglaan 8 at Utrecht Science Park.
+
+The Research Engineering team is part of [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) and [Information Technology Services](https://www.uu.nl/en/organisation/information-and-technology-services-its) at [Utrecht University](https://www.uu.nl/en). 
