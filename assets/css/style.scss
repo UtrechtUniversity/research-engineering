@@ -4,8 +4,11 @@
 @import "jekyll-theme-slate";
 
 #header_wrap {
-    background-image:url('../images/banner_re.jpg')
+    background: rgb(255,205,0);
+    background-image:url('../images/banner_re.jpg');
+    background-repeat: no-repeat;
   }
+
 
 #project_title {
   margin: 0;
@@ -34,7 +37,17 @@ a.noline:hover, a.noline:focus{
   text-decoration: none;
 }
 
+@media screen and (max-width: 1000px){
+  #project_title {
+    background: rgba(255,205,0,0.5);
+  }
+  #project_tagline {
+    background: rgba(255,205,0,0.5);
+  }
+}
+
 @media screen and (max-width: 600px){
+  
   #project_title {
     font-size: 32px;
   }
@@ -44,10 +57,6 @@ a.noline:hover, a.noline:focus{
 }
 
 @media screen and (max-width: 480px){
-
-  #header_wrap {
-    background-image:url('../images/banner_re.jpg')
-  }
 
   #project_title {
     font-size: 26px;
