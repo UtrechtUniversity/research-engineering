@@ -26,6 +26,9 @@
   text-shadow: #fff 0px 0px 10px;
 }
 
+#header_text{
+  background: none;
+}
 
 figcaption {
 font-size: 0.8em;
@@ -37,16 +40,12 @@ a.noline:hover, a.noline:focus{
   text-decoration: none;
 }
 
-@media screen and (max-width: 1000px){
-  #project_title {
-    background: rgba(255,205,0,0.5);
-  }
-  #project_tagline {
-    background: rgba(255,205,0,0.5);
-  }
+#header_text{
+  background: rgba(255,205,0,0.5);
+  padding: 0px 10px 0px 10px;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 625px){
   
   #project_title {
     font-size: 32px;
@@ -56,7 +55,7 @@ a.noline:hover, a.noline:focus{
   }
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 490px){
 
   #project_title {
     font-size: 26px;
