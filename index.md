@@ -52,12 +52,12 @@ We are a diverse team of Research Engineers with extensive experience in softwar
 
 These Research Engineers offer you their expertise:
 - [Roel Brouwer, MSc](https://www.uu.nl/medewerkers/RJJBrouwer)
-- [Shiva Nadi Najafabadi, MSc](https://www.uu.nl/medewerkers/SNadiNajafabadi)
 - [Dr. Haili Hu](https://www.uu.nl/medewerkers/HHu2)
 - Casper Kaandorp, MSc
+- [Shiva Nadi Najafabadi, MSc](https://www.uu.nl/medewerkers/SNadiNajafabadi)
 - Dr. Raoul Schram
 - [Dr. Jelle Treep](https://www.uu.nl/medewerkers/HJTreep)
-- [Dr. Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos)
+- [Dr. Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos) (team coordinator)
 - [Parisa Zahedi, PDEng](https://www.uu.nl/medewerkers/PZahedi)
 
 Our skills and expertise include:
@@ -95,6 +95,14 @@ We provide consultancy and engineering in research projects in various formats:
 We do not merely produce software on behalf of researchers; we work collaboratively and iteratively, since we depend on the researcher's domain expertise to steer the project. Furthermore, a close collaboration enables researchers to build digital skills and thereby empowering them in their work. We therefore expect researchers to be committed to regular meetings for the duration of the project.
 
 Due to our limited capacity, support in your project cannot be guaranteed. Our aim is to help researchers throughout Utrecht University and to keep innovating as a team, so we select our projects accordingly. We give priority to projects that align with the Utrecht University [mission and vision](https://www.uu.nl/en/organisation/profile/mission-and-strategy) to work towards a better world. 
+
+This flowchart shows how we handle a request for support: 
+<br/>
+<p align="center">
+  <img src="assets/images/request.svg"/>
+</p>
+<br/>
+
 
 
 #### Contact
