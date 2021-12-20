@@ -22,21 +22,10 @@ Our goal is to increase research impact through advanced digital technologies. T
 </details>
 </p>
 
-<!-- <p><details><summary>Other research supporters</summary><br/>
-
-- [Research Data Management Support (UU)](https://www.uu.nl/en/research/research-data-management)
-- [Information and Technology Services (UU)](https://www.uu.nl/en/organisation/information-and-technology-services-its)
-- [Digital Humanities Lab (UU)](https://dig.hum.uu.nl/)
-- [Netherlands eScience Center (national)](https://www.esciencecenter.nl/)
-- [SURFsara (national)](https://www.surf.nl/en/research-it)
-</details>
-</p> -->
-
-
 <br/>
 <p align="center">
   <img src="assets/images/bestuursgebouw.jpg"/>
-  <figcaption> &copy;UU Dick Boetekees</figcaption>
+  <figcaption>Administration Building &copy;UU Dick Boetekees</figcaption>
 </p>
 <br/>
 
