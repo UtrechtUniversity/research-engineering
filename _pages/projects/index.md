@@ -9,12 +9,20 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| [TORS](https://github.com/UtrechtUniversity/cTORS) | 
+| --- | 
+| **Time frame**: 10/2021 - present |
+| **Research domain**: Faculty of Science, Information and Computing Sciences |
+| **Technologies**: Python, Django, Docker, C++ | 
+| **Research Engineers**: [Roel Brouwer](uu.nl/staff/RJJBrouwer), [Haili Hu](https://www.uu.nl/medewerkers/HHu2) |
+| In this project, we define the requirements to set up a scientific challenge in the domain of Train Unit Shunting and Servicing, using the TORS simulator developed by Utrecht University and TUDelft. In between transportation services, trains are parked and serviced at shunting yards. The objective of the challenge is to test the robustness and flexibility of scheduling algorithms, that position all the trains at the right position and get the maintenance tasks done in limited run time. |
+
 | [Ocean Parcels Numba](https://github.com/OceanParcels/parcels) | 
 | --- | 
 | **Time frame**: 07/2021 - present |
 | **Research domain**: Faculty of Science, Physical Oceanography |
 | **Technologies**: Python, Numba | 
-| **Research Engineers**: [Roel Brouwer](uu.nl/staff/RJJBrouwer) and Raoul Schram |
+| **Research Engineers**: [Roel Brouwer](uu.nl/staff/RJJBrouwer), Raoul Schram |
 | Investigating the feasibility of speeding up existing Python code for [Parcels](https://oceanparcels.org) using Numba. The aim is to speed up the simulation enough to eliminate the need for a separate (partial) JIT/C path in the code. This should lead to a more flexible and maintainable code base. |
 
 | Dynamiek in beeld| 
@@ -81,13 +89,13 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 07/2020 - 07/2021 |
 | **Research domain**: Faculty of Science, Physical Oceanography |
 | Technologies: Python, data structures, simulation | 
-| Research Engineers: [Roel Brouwer](uu.nl/staff/RJJBrouwer) and Raoul Schram |
+| Research Engineers: [Roel Brouwer](uu.nl/staff/RJJBrouwer), Raoul Schram |
 | Providing a working implementation of particle-particle interaction for [Parcels](https://oceanparcels.org). The aim was to allow simulated particles to interact and influence each others states. This project involved reviewing and partially restructuring the data structures that Parcels uses for storing particle data, and implementing particle-particle interaction under certain conditions. |
 
 | [Network Entropy](https://github.com/qubixes/temporal-network-synthesis) |
 | --- | 
 | **Time frame**: 2020 - 2021 |
-| **Research domain**: Department of Information and Computing Sciences |
+| **Research domain**: Faculty of Science, Information and Computing Sciences |
 | **Technologies**: Temporal networks, Python, Numba, simulation | 
 | **Research Engineers**: Raoul Schram |
 | To improve the theoretical analysis and comparison of different temporal networks, we have invented a new metric to study them. The measure is called network entropy, and is applicable to any temporal network. We showed with simulations that processes on a network behave very differently, depending on the network entropy. |
