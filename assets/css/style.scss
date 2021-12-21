@@ -28,6 +28,7 @@
 
 #header_text{
   background: none;
+  text-align: center;
 }
 
 figcaption {
@@ -38,6 +39,10 @@ text-align: right;
 
 a.noline:hover, a.noline:focus{
   text-decoration: none;
+}
+
+.inner {
+  max-width: 739px;
 }
 
 
