@@ -49,8 +49,9 @@ Our skills and expertise include:
   - Python, R, MATLAB, FORTRAN, Docker, Shiny and much more.
 
 Meet our team:
+<div>
 {% include people.html %}
-
+</div>
 
 #### What we do
 We support UU researchers of all domains in various stages of their research; from social sciences to natural sciences, from students to professors, from planning to execution.
