@@ -6,19 +6,21 @@ layout: default
 Our goal is to increase research impact through advanced digital technologies. To achieve this, we work together with UU researchers to develop innovative research software and help build digital skills in academia.
 
 <p><details><summary>Learn more about us</summary><br/>
-
-- [Our mission](#our-mission)
-- [Who we are](#who-we-are)
-- [What we do](#what-we-do)
-- [How we work](#how-we-work)
+<ul>
+<li><a href="#our-mission">Our mission</a></li>
+<li><a href="#who-we-are">Who we are</a></li>
+<li><a href="#what-we-do">What we do</a></li>
+<li><a href="#how-we-work">How we work</a></li>
+</ul>
 </details>
 </p>
 
 <p><details><summary>Get in touch</summary><br/>
-
-- [Request our support](https://forms.office.com/r/YBLk153rvK)
-- [Find us on GitHub](https://github.com/orgs/UtrechtUniversity/teams/research-engineering)
-- [Contact us](#contact)
+<ul>
+<li><a href="https://forms.office.com/r/YBLk153rvK">Request our support</a></li>
+<li><a href="https://github.com/orgs/UtrechtUniversity/teams/research-engineering">Find us on GitHub</a></li>
+<li><a href="#contact">Contact us</a></li>
+</ul>
 </details>
 </p>
 
@@ -39,16 +41,6 @@ Our mission is to help researchers increase the impact of their work.
 #### Who we are
 We are a diverse team of Research Engineers with extensive experience in software development and academic research, with backgrounds in e.g. computer science, software engineering, data science, physics and geoscience. 
 
-These Research Engineers offer you their expertise:
-- [Roel Brouwer, MSc](https://www.uu.nl/medewerkers/RJJBrouwer)
-- [Dr. Haili Hu](https://www.uu.nl/medewerkers/HHu2)
-- Casper Kaandorp, MSc
-- [Shiva Nadi Najafabadi, MSc](https://www.uu.nl/medewerkers/SNadiNajafabadi)
-- Dr. Raoul Schram
-- [Dr. Jelle Treep](https://www.uu.nl/medewerkers/HJTreep)
-- [Dr. Martine de Vos](https://www.uu.nl/medewerkers/MGdeVos) (team coordinator)
-- [Parisa Zahedi, PDEng](https://www.uu.nl/medewerkers/PZahedi)
-
 Our skills and expertise include:
   - machine learning;
   - text mining;
@@ -57,6 +49,9 @@ Our skills and expertise include:
   - high performance computing;
   - computer modelling and simulations;
   - Python, R, MATLAB, FORTRAN, Docker, Shiny and much more.
+
+Meet our team:
+{% include people.html %}
 
 #### What we do
 We support UU researchers of all domains in various stages of their research; from social sciences to natural sciences, from students to professors, from planning to execution.
@@ -83,7 +78,7 @@ We provide consultancy and engineering in research projects in various formats:
 
 We do not merely produce software on behalf of researchers; we work collaboratively and iteratively, since we depend on the researcher's domain expertise to steer the project. Furthermore, a close collaboration enables researchers to build digital skills and thereby empowering them in their work. We therefore expect researchers to be committed to regular meetings for the duration of the project.
 
-Due to our limited capacity, support in your project cannot be guaranteed. Our aim is to help researchers throughout Utrecht University and to keep innovating as a team, so we select our projects accordingly. We give priority to projects that align with the Utrecht University [mission and vision](https://www.uu.nl/en/organisation/profile/mission-and-strategy) to work towards a better world with open science. 
+Due to our limited capacity, support in your project cannot be guaranteed. Our aim is to help researchers throughout Utrecht University and to keep innovating as a team, so we select our projects accordingly. We give priority to projects that align with the Utrecht University [mission and vision](https://www.uu.nl/en/organisation/profile/mission-and-strategy) to work towards a better world through [Open Science](https://www.uu.nl/en/research/open-science).
 
 This flowchart shows how we handle a request for support: 
 <br/>
@@ -98,4 +93,4 @@ You can contact us via research.engineering@uu.nl, or fill in [this form](https:
 
 When we are not working remote, we can be found in room 0.25 of the [Administration Builing](https://www.uu.nl/en/bestuursgebouw), Heidelberglaan 8 at Utrecht Science Park.
 
-The Research Engineering team is part of [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) and [Information Technology Services](https://www.uu.nl/en/organisation/information-and-technology-services-its) at [Utrecht University](https://www.uu.nl/en). 
+The Research Engineering team is part of [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) and [Information Technology Services](https://www.uu.nl/en/organisation/information-and-technology-services-its) at Utrecht University. 
