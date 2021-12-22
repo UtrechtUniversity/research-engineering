@@ -6,19 +6,21 @@ layout: default
 Our goal is to increase research impact through advanced digital technologies. To achieve this, we work together with UU researchers to develop innovative research software and help build digital skills in academia.
 
 <p><details><summary>Learn more about us</summary><br/>
-
-- [Our mission](#our-mission)
-- [Who we are](#who-we-are)
-- [What we do](#what-we-do)
-- [How we work](#how-we-work)
+<ul>
+<li><a href="#our-mission">Our mission</a></li>
+<li><a href="#who-we-are">Who we are</a></li>
+<li><a href="#what-we-do">What we do</a></li>
+<li><a href="#how-we-work">How we work</a></li>
+</ul>
 </details>
 </p>
 
 <p><details><summary>Get in touch</summary><br/>
-
-- [Request our support](https://forms.office.com/r/YBLk153rvK)
-- [Find us on GitHub](https://github.com/orgs/UtrechtUniversity/teams/research-engineering)
-- [Contact us](#contact)
+<ul>
+<li><a href="https://forms.office.com/r/YBLk153rvK">Request our support</a></li>
+<li><a href="https://github.com/orgs/UtrechtUniversity/teams/research-engineering">Find us on GitHub</a></li>
+<li><a href="#contact">Contact us</a></li>
+</ul>
 </details>
 </p>
 
@@ -49,9 +51,7 @@ Our skills and expertise include:
   - Python, R, MATLAB, FORTRAN, Docker, Shiny and much more.
 
 Meet our team:
-<div>
 {% include people.html %}
-</div>
 
 #### What we do
 We support UU researchers of all domains in various stages of their research; from social sciences to natural sciences, from students to professors, from planning to execution.
