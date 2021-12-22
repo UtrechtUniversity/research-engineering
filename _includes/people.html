@@ -37,7 +37,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0);
     padding: 16px;
     text-align: left;
-    background-color: #f2f2f2;
+    background-color: #fcfcfc;
     transition: 0.3s;
     border-color: #fff;
   }
@@ -59,10 +59,11 @@
             <img src="{{site.baseurl}}/assets/images/avatar.png" alt="Avatar" style="width:100%">
           {% endif %}
           <a class="noline" id="center_text">
-          <h5><b>{{ person.name }}</b></h5>
           <p>
-            <small class="small"  style="color:grey">{{ person.role }}</small>
-            <small class="small">{{ person.expertise }}</small>
+            <small class="small"  style="color:black">{{ person.name }}</small>
+            <!-- <b style="color:black">{{ person.name }}</b> -->
+            <br><small class="small"  style="color:grey">{{ person.role }}</small>
+            <!-- <br><small class="small">{{ person.expertise }}</small> -->
           </p>
           </a>
         </div><!-- end card -->
