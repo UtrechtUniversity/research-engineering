@@ -23,7 +23,7 @@
           {% endif %} -->
           <section id="header_text">
             <h1 id="project_title" >{{ site.title | default: site.github.repository_name }}</h1>
-            <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+            <h1 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h1>
           </section>
 
           {% if site.show_downloads %}
@@ -49,7 +49,10 @@
       <footer class="inner">
         <a class="noline" href="https://www.uu.nl">
         <small class="small"><img src="{{ site.baseurl }}/assets/images/uu-logo-footer.svg" >
-        </a>      
+        </a>
+        <a class="noline" href="{{site.baseurl}}/">
+          <small class="small"><img src="{{ site.baseurl }}/assets/images/favicon_white.ico" align="right" vertical-align="middle">
+        </a>
       </footer>
     </div>
   </body>

@@ -31,6 +31,7 @@ Our goal is to increase research impact through advanced digital technologies. T
 </p>
 <br/>
 
+## About us
 
 #### Our mission
 Researchers of all domains increasingly require the use of digital technologies in their work. Our team caters to this need by collaborating with researchers in projects and consulting them on research IT matters. By doing so, we act as a knowledge hub where expertise gained in temporary projects are safeguarded and used for cross-pollination across domains. At the same time, we provide a collaborative community for researchers and IT staff at Utrecht University. 
@@ -39,15 +40,14 @@ Researchers of all domains increasingly require the use of digital technologies 
 
 
 #### Who we are
-We are a diverse team of Research Engineers with extensive experience in software development and academic research, with backgrounds in e.g. computer science, software engineering, data science, physics and geoscience. 
+We are a diverse team of Research Engineers with combined experience in software engineering and academic research. Our engineers have backgrounds in i.a. computer science, data science, physics, Earth and environmental sciences. 
 
 Our skills and expertise include:
-  - machine learning;
-  - text mining;
-  - web scraping;
-  - data analysis;
   - high performance computing;
+  - machine learning;
+  - natural language processing;
   - computer modelling and simulations;
+  - data analysis;
   - Python, R, MATLAB, FORTRAN, Docker, Shiny and much more.
 
 Meet our team:

@@ -60,17 +60,28 @@ footer img {
   box-shadow: none
 }
 
-
-@media screen and (max-width: 1100px){
+@media screen and (max-width: 1250px){
   #header_text{
-    background: rgba(255,205,0,0.5);
-    padding: 0px 10px 0px 10px;
-    text-align: center;
+    background: rgba(0,0,0,0.5);
    }
+   #project_title {
+    font-size: 36px;
+    color: white;
+    text-shadow: #111 0px 0px 10px;
+    text-align: center;
+    padding: 5px 0px 0px 0px;
+  }
+  #project_tagline {
+    font-size: 22px;  
+    background: rgb(255,205,0);
+    color: black;
+    text-shadow: #fff 0px 0px 10px;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+  }
 }
 
-@media screen and (max-width: 640px){
-  
+@media screen and (max-width: 800px){
   #project_title {
     font-size: 32px;
   }
@@ -80,7 +91,6 @@ footer img {
 }
 
 @media screen and (max-width: 500px){
-
   #project_title {
     font-size: 26px;
   }
@@ -88,3 +98,11 @@ footer img {
     font-size: 16px;
   }
 }
+
+h2 {
+  background: rgb(255,205,0);
+  text-align: center;
+  font-weight: normal;
+  border: 1px solid black;
+}
+
