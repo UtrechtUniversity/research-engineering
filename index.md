@@ -17,7 +17,7 @@ Our goal is to increase research impact through advanced digital technologies. T
 
 <p><details><summary>Get in touch</summary><br/>
 <ul>
-<li><a href="https://forms.office.com/r/YBLk153rvK">Request our support</a></li>
+<li><a href="https://fd21.formdesk.com/universiteitutrecht/re_request">Request our support</a></li>
 <li><a href="https://github.com/orgs/UtrechtUniversity/teams/research-engineering">Find us on GitHub</a></li>
 <li><a href="#contact">Contact us</a></li>
 </ul>
@@ -89,7 +89,7 @@ This flowchart shows how we handle a request for support:
 
 
 #### Contact
-You can contact us via research.engineering@uu.nl, or fill in [this form](https://forms.office.com/r/YBLk153rvK) to request our support directly.
+You can contact us via research.engineering@uu.nl, or fill in [this form](https://fd21.formdesk.com/universiteitutrecht/re_request) to request our support directly.
 
 When we are not working remote, we can be found in room 0.25 of the [Administration Builing](https://www.uu.nl/en/bestuursgebouw), Heidelberglaan 8 at Utrecht Science Park.
 
