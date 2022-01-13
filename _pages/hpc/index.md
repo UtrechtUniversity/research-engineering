@@ -33,4 +33,25 @@ We provide a limited number of free credits (up to 10.000) for the national HPC 
 ### Get in touch
 Book a meeting with us via the button below to talk about any of the topics above or send an email with your question ([contact us](../../index.md#contact)).
 
-<button name="button" onclick="https://outlook.office365.com/owa/calendar/HPCSupport1@solisservices.onmicrosoft.com/bookings/">Book a meeting</button>
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 20px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="https://outlook.office365.com/owa/calendar/HPCSupport1@solisservices.onmicrosoft.com/bookings/" class="button">Plan a meeting</a>
+  </body>
+</html>
