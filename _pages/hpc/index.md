@@ -5,7 +5,7 @@ permalink: /hpc/
 
 ## High Performance and Cloud computing
 
-Is your code running too slow on your laptop? Or are you unable to process large datasets? Do you need a professional sparring partner to discuss high-end computing solutions for your research project? Reach out to us for consultancy on High Performance Computing (HPC), cloud solutions and much more.
+Is your code running too slow on your laptop? Or are you unable to process large datasets? Do you need a professional sparring partner to discuss high-end computing solutions for your research project? [Reach out](#get-in-touch) to us for consultancy on High Performance Computing (HPC), cloud solutions and much more.
 
 We have expertise in:
 - High Performance Computing
@@ -28,6 +28,9 @@ All researchers and students at Utrecht University. From first-time users to exp
 
 ### SURFsara credits
 
-We provide a limited number of free credits (up to 10.000) for the national HPC and cloud systems at SURFsara (Snellius, Lisa, HPC Cloud and Research Cloud). These credits are meant for project start-ups, testing purposes and small research projects. To apply for credits, fill out the [application form available in Topdesk](https://uu.topdesk.net/tas/public/ssp/content/detail/service?unid=7f9fbf0c71f04be28de587258eae8490). For larger needs, check the [SURF website](https://www.surf.nl/en/apply-for-access-to-compute-services).
+We provide a limited number of free credits (up to 10.000) for the national HPC and cloud systems at SURFsara (Snellius, Lisa, HPC Cloud and Research Cloud). These credits are meant for project start-ups, testing purposes and small research projects. To apply for credits, book an intake meeting below. For larger needs, check the [SURF website](https://www.surf.nl/en/apply-for-access-to-compute-services).
 
-If you are not sure what to apply for, [contact us](../../index.md#contact) and we'll schedule an HPC consultancy meeting to get you started!
+### Get in touch
+Book a meeting with us via the button below to talk about any of the topics above or send an email with your question ([contact us](../../index.md#contact)).
+
+[Book a meeting](https://outlook.office365.com/owa/calendar/HPCSupport1@solisservices.onmicrosoft.com/bookings/){: .btn .btn-purple }
