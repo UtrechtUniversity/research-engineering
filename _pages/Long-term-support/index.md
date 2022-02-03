@@ -34,6 +34,7 @@ As with research engineers, long-term support from [data managers](https://www.u
 
 
 ## Funding opportunities
+
 In addition to the [usual options](https://intranet.uu.nl/kennisbank/1-research-funding-orientation-phase) for funding, 
 you can also consider funds that are more focused on Open Science and Technology,
 like:
