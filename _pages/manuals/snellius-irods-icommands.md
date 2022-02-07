@@ -2,11 +2,11 @@
 layout: default
 permalink: /manuals/snellius-irods-icommands/
 ---
-## Cartesius - iRODS iCommands
+## Snellius - iRODS iCommands
 
 ### Instructions for synchronization of data on Yoda and HPC platforms
 
-The instructions below describe the process of data transfer between Cartesius and Yoda using iCommands (recommended method). Transfer is also possible via the Webdav protocol using [Rclone](https://rclone.org). For large files iCommands is faster due to parallel transfer options.
+The instructions below describe the process of data transfer between Snellius and Yoda using iCommands (recommended method). Transfer is also possible via the Webdav protocol using [Rclone](https://rclone.org). For large files iCommands is faster due to parallel transfer options.
 
 ### Steps
 
@@ -60,7 +60,7 @@ Save and close the file.
 Load the icommands each time you login to the system.&#x20;
 
 ```
-module load 2020
+module load 2021
 module load "iRODS-iCommands/4.3.0"
 ```
 
