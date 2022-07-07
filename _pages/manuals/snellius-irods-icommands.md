@@ -130,7 +130,7 @@ Example jobscript:
 #SBATCH -N 1
 #SBATCH --tasks-per-node 16
 
-echo "/bin/date: Start "
+echo Job start time: `date +"%Y-%m-%d %T"`
 
 # Loading modules
 module load 2020 
@@ -142,11 +142,13 @@ mkdir "$TMPDIR"/input
 mkdir "$TMPDIR"/output
 irsync -rv i:my_yoda_input_directory "$TMPDIR"/input
 
+echo Data Transferred: `date +"%Y-%m-%d %T"`
+
 # Compute tasks
 echo "test" > "$TMPDIR"/output/filename.txt
 
 # Transfer input files to scratch
 irsync -rKv "$TMPDIR"/output/ i:my_yoda_output_directory
 
-echo "/bin/date: End "
+echo Job end time: `date +"%Y-%m-%d %T"`
 ```
