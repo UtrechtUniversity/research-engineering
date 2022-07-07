@@ -15,7 +15,7 @@ This can be done by incorporating data transfer in a job script as follows:
 #SBATCH -N 1
 #SBATCH --tasks-per-node 16
 
-echo "/bin/date: Start "
+echo Job start time: `date +"%Y-%m-%d %T"`
 
 # Loading modules
 
@@ -26,11 +26,13 @@ mkdir "$TMPDIR"/input
 mkdir "$TMPDIR"/output
 rclone sync surfdrive:input "$TMPDIR"/input -cPv
 
+echo Data Transferred: `date +"%Y-%m-%d %T"`
+
 # Compute tasks
 echo "test" > "$TMPDIR"/output/filename.txt
 
 # Transfer input files to scratch
 rclone sync  "$TMPDIR"/output surfdrive:output -cPv
 
-echo "/bin/date: End "
+echo Job end time: `date +"%Y-%m-%d %T"`
 ```
