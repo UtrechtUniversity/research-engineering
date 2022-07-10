@@ -89,7 +89,7 @@ This flowchart shows how we handle a request for support:
 
 
 #### Contact
-- Talk to us directly during the [Walk-in hours on research data and software](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops) in the UU Library.
+- Talk to us directly during the [Walk-in hours on research data and software](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/walk-in-hours-research-data-software) in the UU Library.
 - Contact us digitally via research.engineering@uu.nl, or fill in [this form](https://fd21.formdesk.com/universiteitutrecht/re_request) to request our support directly.
 - Typically we can be found in room 3.40 of the [Administration Builing](https://www.uu.nl/en/bestuursgebouw), Heidelberglaan 8 at Utrecht Science Park on Mondays and Thursdays.
 - The Research Engineering team is part of [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) and [Information Technology Services](https://www.uu.nl/en/organisation/information-and-technology-services-its) at Utrecht University. 
