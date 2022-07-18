@@ -116,7 +116,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: Raoul Schram, [Roos Voorvaart](https://github.com/RVoor) |
 | Protosc is a Python library that aims to determine which features are relevant to a given classification problem. It does so by using wrapper/filter/genetic algorithms, after which automatic statistical analysis is used to determine which features are significant. The package also includes a few different options for an image classification pipeline. |
 
-| Animal Sounds| 
+| [Animal Sounds](https://github.com/UtrechtUniversity/animal-sounds)| 
 | --- | 
 | **Time frame**: 2019 - 2021 |
 | **Research domain**: Faculty of Science, Ecology and Biodiversity Group |
