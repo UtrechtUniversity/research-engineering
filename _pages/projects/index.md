@@ -9,6 +9,30 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| Streetview - Water |
+| --- | 
+| **Time frame**: 06/2022 - present |
+| **Research domain**: Faculty of Veterinary Medicine |
+| **Technologies**: Python, Machine Learning, Computer Vision, Visual Transformers | 
+| **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), Maarten Schermer |
+| We have used very recent computer vision models based on Visual Transformers to predict for each pixel of an outdoor photo, which class of object it is, e.g. "street", "vegetation", "water, etc. This will be used in further research for investigating the effect of water bodies and vegetation on the human mind. |
+
+| [MetaSynth](https://github.com/sodascience/meta-synth) | 
+| --- | 
+| **Time frame**: 04/2022 - present |
+| **Research domain**: Department of Methodology & Statistics |
+| **Technologies**: Python, Machine Learning, Synthetic data, Privacy | 
+| **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
+| Privacy and proper disclosure control is a hot topic at the moment. This project aims to create a standard to share statistical information and generate synthetic data. One part of the project fits a distribution to each of the variables, while the other part can generate a synthetic dataset from this information. In between, there is a metadata file that contains the condensed information and is human-readable. |
+
+| [Patents](https://github.com/UtrechtUniversity/patent-breakthrough) | 
+| --- | 
+| **Time frame**: 06/2022 - present |
+| **Research domain**: Faculty of Law, Economics and Governance |
+| **Technologies**: Python, Machine Learning, Natural Language Processing, BERT | 
+| **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), Maarten Schermer |
+| We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. |
+
 | [TORS](https://github.com/UtrechtUniversity/cTORS) | 
 | --- | 
 | **Time frame**: 10/2021 - present |
@@ -17,13 +41,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Roel Brouwer](uu.nl/staff/RJJBrouwer), [Haili Hu](https://www.uu.nl/medewerkers/HHu2) |
 | In this project, we define the requirements to set up a scientific challenge in the domain of Train Unit Shunting and Servicing, using the TORS simulator developed by Utrecht University and TUDelft. In between transportation services, trains are parked and serviced at shunting yards. The objective of the challenge is to test the robustness and flexibility of scheduling algorithms, that position all the trains at the right position and get the maintenance tasks done in limited run time. |
 
-| [Ocean Parcels Numba](https://github.com/OceanParcels/parcels) | 
-| --- | 
-| **Time frame**: 07/2021 - present |
-| **Research domain**: Faculty of Science, Physical Oceanography |
-| **Technologies**: Python, Numba | 
-| **Research Engineers**: [Roel Brouwer](uu.nl/staff/RJJBrouwer), Raoul Schram |
-| Investigating the feasibility of speeding up existing Python code for [Parcels](https://oceanparcels.org) using Numba. The aim is to speed up the simulation enough to eliminate the need for a separate (partial) JIT/C path in the code. This should lead to a more flexible and maintainable code base. |
 
 | Dynamiek in beeld| 
 | --- | 
@@ -38,7 +55,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 04/2021 - present |
 | **Research domain**: Faculty of Law, Economics and Governance, Public Governance and Management |
 | **Technologies**: Python, machine learning, regression analysis, synthetic data | 
-| **Research Engineers**: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), Raoul Schram|
+| **Research Engineers**: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
 | Changing behavior is necessary to tackle societal problems, such as obesity and financial problems. One way to change behavior is by nudging people. A nudge is a way to change behavior without prohibiting options or changing its costs. However, nudges are often one-size-fits-all techniques: everyone is offered the same nudge. The scientific aim of this project is to use open data to develop predictive models with Machine Learning, in order to determine the most effective nudge for persons, given the nudging goal and the individual personal circumstances. To test our models, we created realistic synthetic data. |
 
 | [SummerFAIR](https://github.com/UtrechtUniversity/summer-fair) | 
@@ -54,7 +71,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 10/2021 - present |
 | **Research domain**: Research Data Management Support|
 | **Technologies**: de-identification, synthetic data, federated analysis| 
-| **Research Engineers**: [Martine de Vos](https://www.uu.nl/staff/MGdeVos)|
+| **Research Engineers**: [Martine de Vos](https://www.uu.nl/staff/MGdeVos), [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
 | The Data Privacy Handbook is a guide to handling personal data in scientific research, in line with European data protection and privacy regulations. The handbook provides tips, guidelines but also concrete tools and approaches for researchers to handle sensitive data in their projects.|
 
 | [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector) | 
@@ -76,6 +93,23 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Completed projects
 
+| Deviance in Art |
+| --- |
+| **Time frame**: 02/2022 - 04/2022 |
+| **Research domain**: Faculty of Social and Behavioural Sciences |
+| **Technologies**: Python, GoogleArts, WikiArts, APIs | 
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
+| Create a webscraper that can retrieve metadata and artworks from the GoogleArts and WikiArts websites. The deliverable is a generic Python package. This package will be used for multiple research questions involving machine learning.  |
+
+| [Ocean Parcels Numba](https://github.com/OceanParcels/parcels) | 
+| --- | 
+| **Time frame**: 07/2021 - 02/2022 |
+| **Research domain**: Faculty of Science, Physical Oceanography |
+| **Technologies**: Python, Numba | 
+| **Research Engineers**: [Roel Brouwer](uu.nl/staff/RJJBrouwer), [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
+| Investigating the feasibility of speeding up existing Python code for [Parcels](https://oceanparcels.org) using Numba. The aim is to speed up the simulation enough to eliminate the need for a separate (partial) JIT/C path in the code. This should lead to a more flexible and maintainable code base. |
+
+
 | [Data Donation - proof of concept](https://github.com/eyra/port-poc) | 
 | --- | 
 | **Time frame**: 04/2021 - 10/2021 |
@@ -89,7 +123,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 07/2020 - 07/2021 |
 | **Research domain**: Faculty of Science, Physical Oceanography |
 | Technologies: Python, data structures, simulation | 
-| Research Engineers: [Roel Brouwer](uu.nl/staff/RJJBrouwer), Raoul Schram |
+| Research Engineers: [Roel Brouwer](uu.nl/staff/RJJBrouwer), [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
 | Providing a working implementation of particle-particle interaction for [Parcels](https://oceanparcels.org). The aim was to allow simulated particles to interact and influence each others states. This project involved reviewing and partially restructuring the data structures that Parcels uses for storing particle data, and implementing particle-particle interaction under certain conditions. |
 
 | [Network Entropy](https://github.com/qubixes/temporal-network-synthesis) |
@@ -97,7 +131,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 2020 - 2021 |
 | **Research domain**: Faculty of Science, Information and Computing Sciences |
 | **Technologies**: Temporal networks, Python, Numba, simulation | 
-| **Research Engineers**: Raoul Schram |
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
 | To improve the theoretical analysis and comparison of different temporal networks, we have invented a new metric to study them. The measure is called network entropy, and is applicable to any temporal network. We showed with simulations that processes on a network behave very differently, depending on the network entropy. |
 
 | [hist-aware](https://github.com/UtrechtUniversity/hist-aware) | 
@@ -113,7 +147,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 2020 - 2021 |
 | **Research domain**: Faculty of Social Sciences |
 | **Technologies**: Feature selection, Python, image classification, wrapper, filter, genetic algorithm | 
-| **Research Engineers**: Raoul Schram, [Roos Voorvaart](https://github.com/RVoor) |
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Roos Voorvaart](https://github.com/RVoor) |
 | Protosc is a Python library that aims to determine which features are relevant to a given classification problem. It does so by using wrapper/filter/genetic algorithms, after which automatic statistical analysis is used to determine which features are significant. The package also includes a few different options for an image classification pipeline. |
 
 | [Animal Sounds](https://github.com/UtrechtUniversity/animal-sounds)| 
@@ -137,7 +171,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 2019 - 2021 |
 | **Research domain**: Faculty of Geosciences |
 | **Technologies**: Machine learning, Python, image segmentation, deeplab, kriging, geolocation, CityScapes | 
-| **Research Engineers**: Raoul Schram |
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
 | For the streetview project we have used the (formerly) open street view data from the municipality of Amsterdam to create a map of the greenness. This is done by taking the images and segmenting each image into different classes. The number of pixels in each image belonging to the "greenery" class is used to create the Amsterdam greenery map. |
 
 | [ASReview](https://github.com/asreview/asreview) | 
@@ -145,7 +179,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 2018 - 2021 |
 | **Research domain**: Faculty of Social Sciences |
 | **Technologies**: Machine learning, active learning, Python, Flask, hyperparameter optimization, simulation | 
-| **Research Engineers**: Raoul Schram, [Parisa Zahedi](https://www.uu.nl/medewerkers/PZahedi), [Jonathan de Bruin](https://github.com/J535D165) |
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Parisa Zahedi](https://www.uu.nl/medewerkers/PZahedi), [Jonathan de Bruin](https://github.com/J535D165) |
 | ASReview is a machine learning tool to aid researchers in performing systematic reviews. It uses active learning to present users with more likely relevant papers. It has been written in Python 3.7+, and hyper parameters have been optimized using the hyperopt package. We have also contributed to the initial back-end for the user interface using Flask. |
 
 | Agri-activism| 
