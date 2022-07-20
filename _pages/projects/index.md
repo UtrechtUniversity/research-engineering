@@ -100,6 +100,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Completed projects
 
+| Coast Snap |
+| --- |
+| **Time frame**: 10/2021 - 06/2022 |
+| **Research domain**: Faculty of Geosciences |
+| **Technologies**: Python, Elixir, Databases, Web development | 
+| **Research Engineers**: Casper Kaandorp |
+| For this citizen science project, we created a web application for collecting and processing pictures of the shoreline take by citizens at different locations in the Netherlands |
+
 | Deviance in Art |
 | --- |
 | **Time frame**: 02/2022 - 04/2022 |
@@ -160,7 +168,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | --- | 
 | **Time frame**: 2019 - 2021 |
 | **Research domain**: Faculty of Science, Ecology and Biodiversity Group |
-| **Technologies**: bioacoustics, audio, librosa, machine learning, deep learning, feature engineering | 
+| **Technologies**: Python, bioacoustics, audio, machine learning, deep learning, feature engineering | 
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), Casper Kaandorp |
 | We developed algorithms and a data processing workflow to detect vocalizations of Chimpanzees in a large body of audio data from the African tropical rainforest. The workflow consists of: 1) a filtering step where irrelevant audio data is removed to speed up manual annotation, 2) a feature engineering and feature selection step, and 3) classification using support vector machines and convolutional neural networks. |
 
