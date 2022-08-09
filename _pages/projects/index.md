@@ -79,7 +79,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Research Data Management Support|
 | **Technologies**: de-identification, synthetic data, federated analysis| 
 | **Research Engineers**: [Martine de Vos](https://www.uu.nl/staff/MGdeVos), [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
-| The Data Privacy Handbook is a guide to handling personal data in scientific research, in line with European data protection and privacy regulations. The handbook provides tips, guidelines but also concrete tools and approaches for researchers to handle sensitive data in their projects.|
+| The [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook/) is a guide to handling personal data in scientific research, in line with European data protection and privacy regulations. The handbook provides tips, guidelines but also concrete tools and approaches for researchers to handle sensitive data in their projects.|
 
 | [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector) | 
 | --- | 
