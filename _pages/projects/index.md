@@ -73,13 +73,13 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Martine de Vos](https://www.uu.nl/staff/MGdeVos) |
 | The summerFAIR project aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We have developed a pipeline based to map data to a shared vocabulary, convert them to linked data triples and perform integrated analyses.|
 
-| [Data privacy](https://github.com/UtrechtUniversity/dataprivacyhandbook) | 
+| [AnonymoUUs](https://github.com/UtrechtUniversity/anonymouus) | 
 | --- | 
 | **Time frame**: 10/2021 - present |
-| **Research domain**: Research Data Management Support|
-| **Technologies**: de-identification, synthetic data, federated analysis| 
-| **Research Engineers**: [Martine de Vos](https://www.uu.nl/staff/MGdeVos), [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
-| The [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook/) is a guide to handling personal data in scientific research, in line with European data protection and privacy regulations. The handbook provides tips, guidelines but also concrete tools and approaches for researchers to handle sensitive data in their projects.|
+| **Research domain**: Faculty of Social Science|
+| **Technologies**: Python, de-identification| 
+| **Research Engineers**: [Maarten Schermer](https://github.com/maartenschermer), [Casper Kaandorp](https://github.com/cskaandorp), [Martine de Vos](https://www.uu.nl/staff/MGdeVos) |
+| Researchers often use personal data in their research. According to the GDPR these data need to be de-identified. We have developed tools to de-identify textual and image data. |
 
 | [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector) | 
 | --- | 
@@ -105,7 +105,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 10/2021 - 06/2022 |
 | **Research domain**: Faculty of Geosciences |
 | **Technologies**: Python, Elixir, Databases, Web development | 
-| **Research Engineers**: Casper Kaandorp |
+| **Research Engineers**: [Casper Kaandorp](https://github.com/cskaandorp) |
 | For this citizen science project, we created a web application for collecting and processing pictures of the shoreline take by citizens at different locations in the Netherlands |
 
 | Deviance in Art |
@@ -137,8 +137,16 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 07/2020 - 07/2021 |
 | **Research domain**: Faculty of Science, Physical Oceanography |
 | Technologies: Python, data structures, simulation | 
-| Research Engineers: [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
+| **Research Engineers**: [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
 | Providing a working implementation of particle-particle interaction for [Parcels](https://oceanparcels.org). The aim was to allow simulated particles to interact and influence each others states. This project involved reviewing and partially restructuring the data structures that Parcels uses for storing particle data, and implementing particle-particle interaction under certain conditions. |
+
+| [Large scale network experiments](https://github.com/UtrechtUniversity/network_lab) |
+| --- |
+| **Time frame**: 2020 - 2021 |
+| **Research domain**: Faculty of Social Sciences |
+| **Technologies**: Python, Elixir, Databases, MTurk | 
+| **Research Engineers**: [Casper Kaandorp](https://github.com/cskaandorp) |
+| For this sociology project, we recruited people via Amazon Mechanical Turk and had them play a networking game |
 
 | [Network Entropy](https://github.com/qubixes/temporal-network-synthesis) |
 | --- | 
