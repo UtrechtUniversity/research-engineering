@@ -21,9 +21,9 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | --- | 
 | **Time frame**: 06/2022 - present |
 | **Research domain**: Faculty of Veterinary Medicine |
-| **Technologies**: Python, Machine Learning, Computer Vision, Visual Transformers | 
-| **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), Maarten Schermer |
-| We have used very recent computer vision models based on Visual Transformers to predict for each pixel of an outdoor photo, which class of object it is, e.g. "street", "vegetation", "water, etc. This will be used in further research for investigating the effect of water bodies and vegetation on the human mind. |
+| **Technologies**: Python, Machine Learning, Computer Vision, Visual Transformers, Dockerization | 
+| **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
+| We are using recent computer vision models based on Visual Transformers for semantic segmentation, assigning semantic classes such as "street", "vegetation" and "water" to the pixels of photos of the urban environment. This will be used in further research into the effect of the presence of water bodies and vegetation on human well-being. |
 
 | [MetaSynth](https://github.com/sodascience/meta-synth) | 
 | --- | 
@@ -38,7 +38,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 06/2022 - present |
 | **Research domain**: Faculty of Law, Economics and Governance |
 | **Technologies**: Python, Machine Learning, Natural Language Processing, BERT | 
-| **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), Maarten Schermer |
+| **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Maarten Schermer](https://github.com/maartenschermer) |
 | We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. |
 
 | [TORS](https://github.com/UtrechtUniversity/cTORS) | 
@@ -93,9 +93,9 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | --- | 
 | **Time frame**: 05/2020 - present |
 | **Research domain**: Faculty of Geosciences, Dynamics of Innovation Systems|
-| **Technologies**: Webscraping, Internet Archive, Pipeline, Internet, Python, AWS, Terraform| 
-| **Research Engneers**: Casper Kaandorp, [Martine de Vos](https://www.uu.nl/staff/MgdeVos) |
-| The Crunchbase project assesses the sustainability of European startup-companies by analyzing their websites. As the researcher is interested in the pre-Corona situation, we scrape webpages from the Internet Archive. Together with [SURF](https://www.surf.nl/en/custom-cloud-solutions) we have developed a method to set up AWS workflow for collecting and analyzing these webpages.|
+| **Technologies**: Webscraping, Internet Archive, Pipeline, Internet, Python, Kinesis Firehose, AWS, Terraform| 
+| **Research Engneers**: Casper Kaandorp, [Martine de Vos](https://www.uu.nl/staff/MgdeVos), [Maarten Schermer](https://github.com/maartenschermer) |
+| The Crunchbase project assesses the sustainability of European startup-companies by analyzing their websites. As the researcher is interested in the current, as well as the pre-Corona situation, we scrape webpages from the Internet Archive. Together with [SURF](https://www.surf.nl/en/custom-cloud-solutions) we have developed a pipeline for collecting and analyzing these webpages, using AWS as infrastructure.|
 
 
 ### Completed projects
