@@ -25,6 +25,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), Maarten Schermer |
 | We have used very recent computer vision models based on Visual Transformers to predict for each pixel of an outdoor photo, which class of object it is, e.g. "street", "vegetation", "water, etc. This will be used in further research for investigating the effect of water bodies and vegetation on the human mind. |
 
+| Semantics of Sustainability |
+| --- | 
+| **Time frame**: 07/2022 - present |
+| **Research domain**: Faculty of Humanities, History and Art History |
+| **Technologies**: Python, NLP, BERT, Deep learning, Huggingface Transformers | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi)| 
+| The aim of this project is investigating the conceptual history of a certain topic in a collection of texts. To this end we work on Dutch language models for historical research. The current available language models for Dutch (at time of writing) fall short for historical research, because they are trained only on recent data. The performance of models can decline steadily when applied on data that lies outside of the distribution of the training on corpora.
+
 | [MetaSynth](https://github.com/sodascience/meta-synth) | 
 | --- | 
 | **Time frame**: 04/2022 - present |
@@ -49,13 +57,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Haili Hu](https://www.uu.nl/medewerkers/HHu2) |
 | In this project, we define the requirements to set up a scientific challenge in the domain of Train Unit Shunting and Servicing, using the TORS simulator developed by Utrecht University and TUDelft. In between transportation services, trains are parked and serviced at shunting yards. The objective of the challenge is to test the robustness and flexibility of scheduling algorithms, that position all the trains at the right position and get the maintenance tasks done in limited run time. |
 
-| Dynamiek in beeld| 
-| --- | 
-| **Time frame**: 2021 - present |
-| **Research domain**: ODISSEI Social Data Science Team (SoDa) |
-| **Technologies**: Shiny, R | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
-| An application that can be used in a clinical setting to score dynamics in empathy. There are some questions to be asked whereafter the results are visualized. The visualization should help the clinician to ask the right questions immediately. |   
 
 | [Precision Nudging](https://github.com/UtrechtUniversity/nudging) | 
 | --- | 
@@ -107,6 +108,15 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Elixir, Databases, Web development | 
 | **Research Engineers**: [Casper Kaandorp](https://github.com/cskaandorp) |
 | For this citizen science project, we created a web application for collecting and processing pictures of the shoreline take by citizens at different locations in the Netherlands |
+
+| [Dynamiek in beeld](https://github.com/sodascience/empathy-viz)| 
+| --- | 
+| **Time frame**: 2021 - May 2022 |
+| **Research domain**: ODISSEI Social Data Science Team (SoDa) |
+| **Technologies**: Shiny, R | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
+| An application that can be used in a clinical setting to score dynamics in empathy. There are some questions to be asked whereafter the results are visualized. The visualization should help the clinician to ask the right questions immediately. |   
+
 
 | Deviance in Art |
 | --- |
