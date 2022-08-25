@@ -15,7 +15,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: ODISSEI Social Data Science Team (SoDa) |
 | **Technologies**: Python, Privacy, Pyodide| 
 | **Research Engineers**:  [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
-|As an extension to [Data-Donation](https://github.com/eyra/port-poc) project, In this project we developed scripts to extract information from Whatsapp data download packages. In this study respondents can voluntary donate their group chats and/or their account information files through an online platform (PORT).|
+|As an extension to [Data-Donation](#data_donation) project, In this project we developed scripts to extract information from Whatsapp data download packages. In this study respondents can voluntary donate their group chats and/or their account information files through an online platform (PORT).|
 
 | Better life index |
 | --- | 
@@ -142,7 +142,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
 | Investigating the feasibility of speeding up existing Python code for [Parcels](https://oceanparcels.org) using Numba. The aim is to speed up the simulation enough to eliminate the need for a separate (partial) JIT/C path in the code. This should lead to a more flexible and maintainable code base. |
 
-| [Data Donation - proof of concept](https://github.com/eyra/port-poc) | 
+| <a name="data_donation">[Data Donation - proof of concept](https://github.com/eyra/port-poc)</a> | 
 | --- | 
 | **Time frame**: 04/2021 - 10/2021 |
 | **Research domain**: Faculty of Social Sciences, Human Data Science group |
