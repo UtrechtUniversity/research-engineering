@@ -5,6 +5,12 @@ permalink: /publications/
 ## Publications
 We often contribute to scientific papers as co-authors in our projects. Here you find an overview of publications our team contributed to.
 
+
+### 2022
+- Bogers, M., Biermann, F., Kalfagianni, A., Kim, R.E., Treep, J., de Vos, M.G., [The impact of the Sustainable Development Goals on a network of 276 international organizations](https://authors.elsevier.com/sd/article/S0959-3780(22)00105-4), *Global Environmental Change*, **76**, 102567, (2022)
+- Slavco, E., de Vos, M. , Hostens, M., Top, J., Fischer, E. A.J, Infection Transmission Ontology: Standardization of Infection Transmission Data, , *to appear in Proceedings of 18th IEEE eScience 2022*, Salt Lake City, Utah, USA, October 10-14, Institute of Electrical and Electronics Engineers (IEEE)
+
+### 2021
 - Boeschoten, L., Mendrik, A., van der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., Oberski, D., [Privacy preserving local analysis of digital trace data: A proof-of-concept](https://arxiv.org/abs/2110.05154), _arXiv preprint_ **arXiv:2110.05154** (2021)
 - van de Schoot, R., de Bruin, J., Schram, R. et al., [An open source machine learning framework for efficient and transparent systematic reviews](https://doi.org/10.1038/s42256-020-00287-7), *Nat Mach Intell* **3**, 125–133 (2021)
 - Helbich, M., Poppe, R., Oberski, D., Zeylmans van Emmichoven, M., Schram, R., [Can’t see the wood for the trees? An assessment of street view- and satellite-derived greenness measures in relation to mental health](https://doi.org/10.1016/j.landurbplan.2021.104181), *Landscape and Urban Planning*, **214**, 104181, (2021)
