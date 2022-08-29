@@ -31,7 +31,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Faculty of Veterinary Medicine |
 | **Technologies**: Python, Machine Learning, Computer Vision, Visual Transformers, Docker | 
 | **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
-| We are using recent computer vision models based on Visual Transformers for semantic segmentation, assigning semantic classes such as "street", "vegetation" and "water" to the pixels of photos taken in the urban environment. This will be used in further research into the effect of the presence of water bodies and vegetation on human well-being. |
+| We are using recent computer vision models based on Visual Transformers for semantic segmentation, assigning semantic classes such as "street", "vegetation" and "water" to the pixels of photos taken in the urban environment. This will be used for further research into the effect of the presence of water bodies and vegetation on human well-being. |
 
 | Semantics of Sustainability |
 | --- | 
