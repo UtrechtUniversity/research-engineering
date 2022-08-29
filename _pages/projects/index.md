@@ -15,7 +15,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: ODISSEI Social Data Science Team (SoDa) |
 | **Technologies**: Python, Privacy, Pyodide| 
 | **Research Engineers**:  [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
-|As an extension to [Data-Donation](#data_donation) project, In this project we developed scripts to extract information from Whatsapp data download packages. In this study respondents can voluntary donate their group chats and/or their account information files through an online platform (PORT).|
+|As an extension to [Data-Donation](#data_donation) project, we developed scripts to extract information from Whatsapp data download packages. In this study respondents can voluntary donate their group chats and/or their account information files through an online platform (PORT).|
 
 | Better life index |
 | --- | 
