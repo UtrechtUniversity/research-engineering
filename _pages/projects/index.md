@@ -115,7 +115,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Faculty of Geosciences |
 | **Technologies**: Python, Elixir, Databases, Web development | 
 | **Research Engineers**: [Casper Kaandorp](https://github.com/cskaandorp) |
-| For this citizen science project, we created a web application for collecting and processing pictures of the shoreline take by citizens at different locations in the Netherlands |
+| For this citizen science project, we created a web application for collecting and processing pictures of the shoreline taken by citizens at different locations in the Netherlands |
 
 | [Dynamiek in beeld](https://github.com/sodascience/empathy-viz)| 
 | --- | 
