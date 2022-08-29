@@ -39,7 +39,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Faculty of Humanities, History and Art History |
 | **Technologies**: Python, NLP, BERT, Deep learning, Huggingface Transformers | 
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi)| 
-| The aim of this project is investigating the conceptual history of a certain topic in a collection of texts. To this end we work on Dutch language models for historical research. The current available language models for Dutch (at time of writing) fall short for historical research, because they are trained only on recent data. The performance of models can decline steadily when applied on data that lies outside of the distribution of the training on corpora.
+| The aim of this project is to investigatate the conceptual history of a certain topic in a collection of texts. To this end we work on Dutch language models for historical research. The current available language models for Dutch (at time of writing) fall short for historical research, because they are trained only on recent data. The performance of models declines steadily when applied to data that lies outside of the distribution of the training on corpora.
 
 | [MetaSynth](https://github.com/sodascience/meta-synth) | 
 | --- | 
