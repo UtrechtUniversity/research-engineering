@@ -47,7 +47,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Department of Methodology & Statistics |
 | **Technologies**: Python, Machine Learning, Synthetic data, Privacy | 
 | **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
-| Privacy and proper disclosure control is a hot topic at the moment. This project aims to create a standard to share statistical information and generate synthetic data. One part of the project fits a distribution to each of the variables, while the other part can generate a synthetic dataset from this information. In between, there is a metadata file that contains the condensed information and is human-readable. |
+| Privacy and proper disclosure control is a hot topic at the moment. This project aims to create a standard to share statistical information and generate synthetic data. MetaSynth fits a distribution to each of the variables, while it also generates a synthetic dataset from this information. In between, there is a generative metadata file that contains the condensed information as a human-readable JSON file. |
 
 | [Patents](https://github.com/UtrechtUniversity/patent-breakthrough) | 
 | --- | 
