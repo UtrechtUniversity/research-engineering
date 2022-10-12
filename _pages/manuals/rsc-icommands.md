@@ -27,11 +27,16 @@ Copy and paste (or type) the following commands in the terminal, or view the mos
 sudo apt-get update
 sudo apt-get install -y --only-upgrade ca-certificates
 wget -qO - https://packages.irods.org/irods-signing-key.asc | sudo apt-key add -
-echo "deb [arch=amd64] https://packages.irods.org/apt/ xenial main" | sudo tee /etc/apt/sources.list.d/renci-irods.list
+echo "deb [arch=amd64] https://packages.irods.org/apt/ $(lsb_release -sc)
+ main" | sudo tee /etc/apt/sources.list.d/renci-irods.list
 sudo apt-get update
-sudo apt -y install aptitude irods-runtime=4.2.7 irods-icommands=4.2.7
-sudo aptitude hold irods-runtime irods-icommands
-echo "120"  | sudo tee /proc/sys/net/ipv4/tcp_keepalive_time
+sudo apt -y install irods-runtime=4.2.11-1~bionic irods-icommands=4.2.11-1~bionic
+
+# Prevent automatic upgrades of these two packages
+sudo apt-mark hold irods-runtime irods-icommands
+
+# Network tuning, ad hoc and permanent
+echo "120" | sudo tee /proc/sys/net/ipv4/tcp_keepalive_time
 echo "30" | sudo tee /proc/sys/net/ipv4/tcp_keepalive_intvl
 echo "net.ipv4.tcp_keepalive_time=120" | sudo tee -a /etc/sysctl.d/99-sysctl.conf
 echo "net.ipv4.tcp_keepalive_intvl=30" | sudo tee -a /etc/sysctl.d/99-sysctl.conf
