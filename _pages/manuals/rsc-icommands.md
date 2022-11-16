@@ -27,8 +27,7 @@ Copy and paste (or type) the following commands in the terminal, or view the mos
 sudo apt-get update
 sudo apt-get install -y --only-upgrade ca-certificates
 wget -qO - https://packages.irods.org/irods-signing-key.asc | sudo apt-key add -
-echo "deb [arch=amd64] https://packages.irods.org/apt/ $(lsb_release -sc)
- main" | sudo tee /etc/apt/sources.list.d/renci-irods.list
+echo "deb [arch=amd64] https://packages.irods.org/apt/ bionic main" | sudo tee /etc/apt/sources.list.d/renci-irods.list
 sudo apt-get update
 sudo apt -y install irods-runtime=4.2.11-1~bionic irods-icommands=4.2.11-1~bionic
 
