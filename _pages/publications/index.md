@@ -8,7 +8,7 @@ We often contribute to scientific papers as co-authors in our projects. Here you
 
 ### 2022
 - Bogers, M., Biermann, F., Kalfagianni, A., Kim, R.E., Treep, J., de Vos, M.G., [The impact of the Sustainable Development Goals on a network of 276 international organizations](https://authors.elsevier.com/sd/article/S0959-3780(22)00105-4), *Global Environmental Change*, **76**, 102567, (2022)
-- Slavco, E., de Vos, M. , Hostens, M., Top, J., Fischer, E. A.J, Infection Transmission Ontology: Standardization of Infection Transmission Data, , *to appear in Proceedings of 18th IEEE eScience 2022*, Salt Lake City, Utah, USA, October 10-14, Institute of Electrical and Electronics Engineers (IEEE)
+- Slavco, E., de Vos, M. , Hostens, M., Top, J., Fischer, E. A.J, Infection Transmission Ontology: Standardization of Infection Transmission Data, Proceedings of 18th IEEE eScience 2022, Salt Lake City, Utah, USA, October 10-14, Institute of Electrical and Electronics Engineers (IEEE)
 
 ### 2021
 - Boeschoten, L., Mendrik, A., van der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., Oberski, D., [Privacy preserving local analysis of digital trace data: A proof-of-concept](https://arxiv.org/abs/2110.05154), _arXiv preprint_ **arXiv:2110.05154** (2021)
