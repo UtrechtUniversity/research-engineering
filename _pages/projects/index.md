@@ -74,13 +74,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
 | Changing behavior is necessary to tackle societal problems, such as obesity and financial problems. One way to change behavior is by nudging people. A nudge is a way to change behavior without prohibiting options or changing its costs. However, nudges are often one-size-fits-all techniques: everyone is offered the same nudge. The scientific aim of this project is to use open data to develop predictive models with Machine Learning, in order to determine the most effective nudge for persons, given the nudging goal and the individual personal circumstances. To test our models, we created realistic synthetic data. |
 
-| [SummerFAIR](https://github.com/UtrechtUniversity/summer-fair) | 
-| --- | 
-| **Time frame**: 02/2021 - present |
-| **Research domain**: Faculty of Veterinary Medicine, Veterinary Epidemiology |
-| **Technologies**: Semantic Web, Ontologies, RDF, Docker, Python, R | 
-| **Research Engineers**: [Martine de Vos](https://www.uu.nl/staff/MGdeVos) |
-| The summerFAIR project aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We have developed a pipeline based to map data to a shared vocabulary, convert them to linked data triples and perform integrated analyses.|
 
 | [AnonymoUUs](https://github.com/UtrechtUniversity/anonymouus) | 
 | --- | 
@@ -98,16 +91,26 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Roos Voorvaart](https://github.com/RVoor) |
 | Twitter forms a rich source of information for researchers interested in studying 'the public conversation'. The Academic Research product track is designed to serve the needs of the academic research community. It provides researchers with special levels of access to public Twitter data without any cost. This project is aimed to help researchers to use the Academic Research product track to collect tweets of their interest and analyze them. |   
 
-| [Crunchbase](https://github.com/UtrechtUniversity/ia-webscraping) | 
-| --- | 
-| **Time frame**: 05/2020 - present |
-| **Research domain**: Faculty of Geosciences, Dynamics of Innovation Systems|
-| **Technologies**: Webscraping, Internet Archive, Pipeline, Internet, Python, Kinesis Firehose, AWS, Terraform| 
-| **Research Engneers**: Casper Kaandorp, [Martine de Vos](https://www.uu.nl/staff/MgdeVos), [Maarten Schermer](https://github.com/maartenschermer) |
-| The Crunchbase project assesses the sustainability of European startup-companies by analyzing their websites. As the researcher is interested in the current, as well as the pre-Corona situation, we scrape webpages from the Internet Archive. Together with [SURF](https://www.surf.nl/en/custom-cloud-solutions) we have developed a pipeline for collecting and analyzing these webpages, using AWS as infrastructure.|
+
 
 
 ### Completed projects
+
+| [SummerFAIR](https://github.com/UtrechtUniversity/summer-fair) | 
+| --- | 
+| **Time frame**: 02/2021 - 02/2023 |
+| **Research domain**: Faculty of Veterinary Medicine, Veterinary Epidemiology |
+| **Technologies**: Semantic Web, Ontologies, RDF, Docker, Python, R | 
+| **Research Engineers**: [Martine de Vos](https://www.uu.nl/staff/MGdeVos),[Christine Staiger](https://www.uu.nl/staff/CStaiger) |
+| The summerFAIR project aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We have developed a pipeline based to map data to a shared vocabulary, convert them to linked data triples and perform integrated analyses.|
+
+| [Crunchbase](https://github.com/UtrechtUniversity/ia-webscraping) | 
+| --- | 
+| **Time frame**: 05/2020 - 01/2023 |
+| **Research domain**: Faculty of Geosciences, Dynamics of Innovation Systems|
+| **Technologies**: Webscraping, Internet Archive, Pipeline, Internet, Python, Kinesis Firehose, AWS, Terraform| 
+| **Research Engneers**: [Maarten Schermer](https://github.com/maartenschermer), [Casper Kaandorp](https://github.com/cskaandorp), [Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
+| The Crunchbase project assesses the sustainability of European startup-companies by analyzing their websites. As the researcher is interested in the current, as well as the pre-Corona situation, we scrape webpages from the Internet Archive. Together with [SURF](https://www.surf.nl/en/custom-cloud-solutions) we have developed a pipeline for collecting and analyzing these webpages, using AWS as infrastructure.|
 
 | Coast Snap |
 | --- |
