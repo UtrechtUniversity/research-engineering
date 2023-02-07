@@ -9,6 +9,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| [Hyde](https://github.com/UtrechtUniversity/hyde-code) |
+| --- | 
+| **Time frame**: 11/2022 - present |
+| **Research domain**: Geo Sciences |
+| **Technologies**: Python, packaging, code quality| 
+| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
+| The hyde projec concerns the world wide historical land use. The hyde project was already a well established software project, with more than 16K lines of python code. We are helping the project by introducing modern software techniques and workflows.|
+
 | [Data donation - whatsapp](https://github.com/sodascience/port-poc) |
 | --- | 
 | **Time frame**: 02/2022 - present |
