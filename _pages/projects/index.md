@@ -14,7 +14,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 12/2022 - present |
 | **Research domain**: Clinical Psychology |
 | **Technologies**: Python, Machine Learning, Natural Language Processing, Topic Modeling, LDA | 
-| **Research Engineers**: [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Raoul Schram](https://www.uu.nl/staff/RDSchram) | Ken Krige
+| **Research Engineers**: [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Raoul Schram](https://www.uu.nl/staff/RDSchram), Ken Krige | 
 | In this project we are developing methods to help researchers to improve the understanding of threats and soothers for people with a central sensitivity syndrome (i.e., irritable bowel syndrome, fibromyalgia, or chronic fatigue syndrome). Threats create experiences of danger, harm, damage, or unsafety and may worsen patients' physical symptoms. Soothers on the other hand create feelings of calmness, well-being, safety, or social connectedness and that may alleviate patients' physical symptoms. We are dealing with multiple topics and short texts in this project. |
 
 
