@@ -9,13 +9,13 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
-| [Data donation - whatsapp](https://github.com/sodascience/port-poc) |
+| [Soothreat](https://github.com/UtrechtUniversity/patient-soothers-threats) | 
 | --- | 
-| **Time frame**: 02/2022 - present |
-| **Research domain**: ODISSEI Social Data Science Team (SoDa) |
-| **Technologies**: Python, Privacy, Pyodide| 
-| **Research Engineers**:  [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
-|As an extension to [Data-Donation](https://github.com/eyra/port-poc) project, In this project we developed scripts to extract information from Whatsapp data download packages. In this study respondents can voluntary donate their group chats and/or their account information files through an online platform (PORT).|
+| **Time frame**: 12/2022 - present |
+| **Research domain**: Clinical Psychology |
+| **Technologies**: Python, Machine Learning, Natural Language Processing, Topic Modeling, LDA | 
+| **Research Engineers**:  [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Raoul Schram](https://www.uu.nl/staff/RDSchram),  [Ken Krige] |
+| In this project we are developing scripts to help researchers to make a good understanding of what is considered as threats and soothers for people with a central sensitivity syndrome (i.e., irritable bowel syndrome, fibromyalgia, or chronic fatigue syndrome). Threats create experiences of danger, harm, damage, or unsafety and may worsen patients' physical symptoms.  Soothers on the other hand create feelings of calmness, well-being, safety, or social connectedness and that may alleviate patients' physical symptoms. We are dealing with multi topic short text in this project. |
 
 | Better life index |
 | --- | 
@@ -108,6 +108,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 
 ### Completed projects
+
+| [Data donation - whatsapp](https://github.com/sodascience/port-poc) |
+| --- | 
+| **Time frame**: 02/2022 - 11/2022 |
+| **Research domain**: ODISSEI Social Data Science Team (SoDa) |
+| **Technologies**: Python, Privacy, Pyodide| 
+| **Research Engineers**:  [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
+|As an extension to [Data-Donation](https://github.com/eyra/port-poc) project, In this project we developed scripts to extract information from Whatsapp data download packages. In this study respondents can voluntary donate their group chats and/or their account information files through an online platform (PORT).|
 
 | Coast Snap |
 | --- |
