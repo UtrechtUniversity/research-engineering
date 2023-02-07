@@ -9,13 +9,21 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
-| [Data donation - whatsapp](https://github.com/sodascience/port-poc) |
+| [Hyde](https://github.com/UtrechtUniversity/hyde-code) |
 | --- | 
-| **Time frame**: 02/2022 - present |
-| **Research domain**: ODISSEI Social Data Science Team (SoDa) |
-| **Technologies**: Python, Privacy, Pyodide| 
-| **Research Engineers**:  [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
-|As an extension to [Data-Donation](#data_donation) project, we developed scripts to extract information from Whatsapp data download packages. In this study respondents can voluntary donate their group chats and/or their account information files through an online platform (PORT).|
+| **Time frame**: 11/2022 - present |
+| **Research domain**: Faculty of Geosciences |
+| **Technologies**: Python, packaging, code quality| 
+| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
+| The [HYDE project](https://landuse.sites.uu.nl/hyde-project/) concerns the world wide historical land use. The HYDE project was already a well established software project, with more than 16K lines of python code. We are helping the project by introducing modern software techniques and workflows.|
+
+| Soothreat |
+| --- | 
+| **Time frame**: 12/2022 - present |
+| **Research domain**: Clinical Psychology |
+| **Technologies**: Python, Machine Learning, Natural Language Processing, Topic Modeling, LDA | 
+| **Research Engineers**: [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Raoul Schram](https://www.uu.nl/staff/RDSchram), Ken Krige | 
+| In this project we are developing methods to help researchers to improve the understanding of threats and soothers for people with a central sensitivity syndrome (i.e., irritable bowel syndrome, fibromyalgia, or chronic fatigue syndrome). Threats create experiences of danger, harm, damage, or unsafety and may worsen patients' physical symptoms. Soothers on the other hand create feelings of calmness, well-being, safety, or social connectedness and that may alleviate patients' physical symptoms. We are dealing with multiple topics and short texts in this project. |
 
 | Better life index |
 | --- | 
@@ -65,7 +73,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Haili Hu](https://www.uu.nl/medewerkers/HHu2) |
 | In this project, we define the requirements to set up a scientific challenge in the domain of Train Unit Shunting and Servicing, using the TORS simulator developed by Utrecht University and TUDelft. In between transportation services, trains are parked and serviced at shunting yards. The objective of the challenge is to test the robustness and flexibility of scheduling algorithms, that position all the trains at the right position and get the maintenance tasks done in limited run time. |
 
-
 | [Precision Nudging](https://github.com/UtrechtUniversity/nudging) | 
 | --- | 
 | **Time frame**: 04/2021 - present |
@@ -73,7 +80,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, machine learning, regression analysis, synthetic data | 
 | **Research Engineers**: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
 | Changing behavior is necessary to tackle societal problems, such as obesity and financial problems. One way to change behavior is by nudging people. A nudge is a way to change behavior without prohibiting options or changing its costs. However, nudges are often one-size-fits-all techniques: everyone is offered the same nudge. The scientific aim of this project is to use open data to develop predictive models with Machine Learning, in order to determine the most effective nudge for persons, given the nudging goal and the individual personal circumstances. To test our models, we created realistic synthetic data. |
-
 
 | [AnonymoUUs](https://github.com/UtrechtUniversity/anonymouus) | 
 | --- | 
@@ -112,6 +118,17 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engneers**: [Maarten Schermer](https://github.com/maartenschermer), [Casper Kaandorp](https://github.com/cskaandorp), [Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
 | The Crunchbase project assesses the sustainability of European startup-companies by analyzing their websites. As the researcher is interested in the current, as well as the pre-Corona situation, we scrape webpages from the Internet Archive. Together with [SURF](https://www.surf.nl/en/custom-cloud-solutions) we have developed a pipeline for collecting and analyzing these webpages, using AWS as infrastructure.|
 
+
+### Completed projects
+
+| [Data donation - WhatsApp](https://github.com/sodascience/port-poc) |
+| --- | 
+| **Time frame**: 02/2022 - 11/2022 |
+| **Research domain**: ODISSEI Social Data Science Team (SoDa) |
+| **Technologies**: Python, Privacy, Pyodide| 
+| **Research Engineers**:  [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
+|As an extension to [Data-Donation](#data_donation) project, we developed scripts to extract information from WhatsApp data download packages. In this study respondents can voluntary donate their group chats and/or their account information files through an online platform (PORT).|
+
 | Coast Snap |
 | --- |
 | **Time frame**: 10/2021 - 06/2022 |
@@ -127,7 +144,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Shiny, R | 
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
 | An application that can be used in a clinical setting to score dynamics in empathy. There are some questions to be asked whereafter the results are visualized. The visualization should help the clinician to ask the right questions immediately. |   
-
 
 | Deviance in Art |
 | --- |
