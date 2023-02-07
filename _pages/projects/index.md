@@ -25,7 +25,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Raoul Schram](https://www.uu.nl/staff/RDSchram), Ken Krige | 
 | In this project we are developing methods to help researchers to improve the understanding of threats and soothers for people with a central sensitivity syndrome (i.e., irritable bowel syndrome, fibromyalgia, or chronic fatigue syndrome). Threats create experiences of danger, harm, damage, or unsafety and may worsen patients' physical symptoms. Soothers on the other hand create feelings of calmness, well-being, safety, or social connectedness and that may alleviate patients' physical symptoms. We are dealing with multiple topics and short texts in this project. |
 
-
 | Better life index |
 | --- | 
 | **Time frame**: 08/2022 - present |
@@ -74,7 +73,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Haili Hu](https://www.uu.nl/medewerkers/HHu2) |
 | In this project, we define the requirements to set up a scientific challenge in the domain of Train Unit Shunting and Servicing, using the TORS simulator developed by Utrecht University and TUDelft. In between transportation services, trains are parked and serviced at shunting yards. The objective of the challenge is to test the robustness and flexibility of scheduling algorithms, that position all the trains at the right position and get the maintenance tasks done in limited run time. |
 
-
 | [Precision Nudging](https://github.com/UtrechtUniversity/nudging) | 
 | --- | 
 | **Time frame**: 04/2021 - present |
@@ -82,14 +80,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, machine learning, regression analysis, synthetic data | 
 | **Research Engineers**: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
 | Changing behavior is necessary to tackle societal problems, such as obesity and financial problems. One way to change behavior is by nudging people. A nudge is a way to change behavior without prohibiting options or changing its costs. However, nudges are often one-size-fits-all techniques: everyone is offered the same nudge. The scientific aim of this project is to use open data to develop predictive models with Machine Learning, in order to determine the most effective nudge for persons, given the nudging goal and the individual personal circumstances. To test our models, we created realistic synthetic data. |
-
-| [SummerFAIR](https://github.com/UtrechtUniversity/summer-fair) | 
-| --- | 
-| **Time frame**: 02/2021 - present |
-| **Research domain**: Faculty of Veterinary Medicine, Veterinary Epidemiology |
-| **Technologies**: Semantic Web, Ontologies, RDF, Docker, Python, R | 
-| **Research Engineers**: [Martine de Vos](https://www.uu.nl/staff/MGdeVos) |
-| The summerFAIR project aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We have developed a pipeline based to map data to a shared vocabulary, convert them to linked data triples and perform integrated analyses.|
 
 | [AnonymoUUs](https://github.com/UtrechtUniversity/anonymouus) | 
 | --- | 
@@ -107,12 +97,25 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Roos Voorvaart](https://github.com/RVoor) |
 | Twitter forms a rich source of information for researchers interested in studying 'the public conversation'. The Academic Research product track is designed to serve the needs of the academic research community. It provides researchers with special levels of access to public Twitter data without any cost. This project is aimed to help researchers to use the Academic Research product track to collect tweets of their interest and analyze them. |   
 
+
+
+
+### Completed projects
+
+| [SummerFAIR](https://github.com/UtrechtUniversity/summer-fair) | 
+| --- | 
+| **Time frame**: 02/2021 - 02/2023 |
+| **Research domain**: Faculty of Veterinary Medicine, Veterinary Epidemiology |
+| **Technologies**: Semantic Web, Ontologies, RDF, Docker, Python, R | 
+| **Research Engineers**: [Martine de Vos](https://www.uu.nl/staff/MGdeVos),[Christine Staiger](https://www.uu.nl/staff/CStaiger) |
+| The summerFAIR project aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We have developed a pipeline based to map data to a shared vocabulary, convert them to linked data triples and perform integrated analyses.|
+
 | [Crunchbase](https://github.com/UtrechtUniversity/ia-webscraping) | 
 | --- | 
-| **Time frame**: 05/2020 - present |
+| **Time frame**: 05/2020 - 01/2023 |
 | **Research domain**: Faculty of Geosciences, Dynamics of Innovation Systems|
 | **Technologies**: Webscraping, Internet Archive, Pipeline, Internet, Python, Kinesis Firehose, AWS, Terraform| 
-| **Research Engneers**: Casper Kaandorp, [Martine de Vos](https://www.uu.nl/staff/MgdeVos), [Maarten Schermer](https://github.com/maartenschermer) |
+| **Research Engneers**: [Maarten Schermer](https://github.com/maartenschermer), [Casper Kaandorp](https://github.com/cskaandorp), [Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
 | The Crunchbase project assesses the sustainability of European startup-companies by analyzing their websites. As the researcher is interested in the current, as well as the pre-Corona situation, we scrape webpages from the Internet Archive. Together with [SURF](https://www.surf.nl/en/custom-cloud-solutions) we have developed a pipeline for collecting and analyzing these webpages, using AWS as infrastructure.|
 
 
@@ -141,7 +144,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Shiny, R | 
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
 | An application that can be used in a clinical setting to score dynamics in empathy. There are some questions to be asked whereafter the results are visualized. The visualization should help the clinician to ask the right questions immediately. |   
-
 
 | Deviance in Art |
 | --- |
