@@ -15,7 +15,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Faculty of Geosciences |
 | **Technologies**: Python, packaging, code quality| 
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
-| The hyde projec concerns the world wide historical land use. The hyde project was already a well established software project, with more than 16K lines of python code. We are helping the project by introducing modern software techniques and workflows.|
+| The [HYDE project](https://landuse.sites.uu.nl/hyde-project/) concerns the world wide historical land use. The HYDE project was already a well established software project, with more than 16K lines of python code. We are helping the project by introducing modern software techniques and workflows.|
 
 | Soothreat |
 | --- | 
