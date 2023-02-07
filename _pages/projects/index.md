@@ -110,7 +110,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Completed projects
 
-| [Data donation - whatsapp](https://github.com/sodascience/port-poc) |
+| [Data donation - WhatsApp](https://github.com/sodascience/port-poc) |
 | --- | 
 | **Time frame**: 02/2022 - 11/2022 |
 | **Research domain**: ODISSEI Social Data Science Team (SoDa) |
