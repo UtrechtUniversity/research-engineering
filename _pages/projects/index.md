@@ -33,14 +33,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**:  [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
 | We create a backend for a web application for yearly publication of the Better life index ("Brede welvaart index") in the Netherlands. |
 
-| Streetview - Water |
-| --- | 
-| **Time frame**: 06/2022 - present |
-| **Research domain**: Faculty of Veterinary Medicine |
-| **Technologies**: Python, Machine Learning, Computer Vision, Visual Transformers, Docker | 
-| **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
-| We are using recent computer vision models based on Visual Transformers for semantic segmentation, assigning semantic classes such as "street", "vegetation" and "water" to the pixels of photos taken in the urban environment. This will be used for further research into the effect of the presence of water bodies and vegetation on human well-being. |
-
 | Semantics of Sustainability |
 | --- | 
 | **Time frame**: 07/2022 - present |
@@ -57,11 +49,11 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
 | Privacy and proper disclosure control is a hot topic at the moment. This project aims to create a standard to share statistical information and generate synthetic data. MetaSynth fits a distribution to each of the variables, while it also generates a synthetic dataset from this information. In between, there is a generative metadata file that contains the condensed information as a human-readable JSON file. |
 
-| [Patents](https://github.com/UtrechtUniversity/patent-breakthrough) | 
+| [Breakthrough patents](https://github.com/UtrechtUniversity/patent-breakthrough) | 
 | --- | 
 | **Time frame**: 06/2022 - present |
 | **Research domain**: Faculty of Law, Economics and Governance |
-| **Technologies**: Python, Machine Learning, Natural Language Processing, BERT | 
+| **Technologies**: Python, Machine Learning, Natural Language Processing, BERT, TfIdf | 
 | **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Maarten Schermer](https://github.com/maartenschermer) |
 | We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. |
 
@@ -81,13 +73,13 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
 | Changing behavior is necessary to tackle societal problems, such as obesity and financial problems. One way to change behavior is by nudging people. A nudge is a way to change behavior without prohibiting options or changing its costs. However, nudges are often one-size-fits-all techniques: everyone is offered the same nudge. The scientific aim of this project is to use open data to develop predictive models with Machine Learning, in order to determine the most effective nudge for persons, given the nudging goal and the individual personal circumstances. To test our models, we created realistic synthetic data. |
 
-| [AnonymoUUs](https://github.com/UtrechtUniversity/anonymouus) | 
+| [AnonymoUUs](https://github.com/UtrechtUniversity/anonymouus) / [AnonymizeYouth](https://github.com/UtrechtUniversity/AnonymizeYouth) | 
 | --- | 
 | **Time frame**: 10/2021 - present |
 | **Research domain**: Faculty of Social Science|
 | **Technologies**: Python, de-identification| 
 | **Research Engineers**: [Maarten Schermer](https://github.com/maartenschermer), [Casper Kaandorp](https://github.com/cskaandorp), [Martine de Vos](https://www.uu.nl/staff/MGdeVos) |
-| Researchers often use personal data in their research. According to the GDPR these data need to be de-identified. We have developed tools to de-identify textual and image data. |
+| Researchers often use personal data in their research. According to the GDPR these data need to be de-identified. We have developed tools to de-identify textual data. For the specific use case of the YOUth cohort studies, additional tools have been developed to prepare the YOUth data for correct de-identification. |
 
 | [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector) | 
 | --- | 
@@ -101,6 +93,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 
 ### Completed projects
+
+| [Streetview segmentation](https://github.com/UtrechtUniversity/streetview-segmentation) |
+| --- | 
+| **Time frame**: 06/2022 - 02/2023 |
+| **Research domain**: Faculty of Veterinary Medicine |
+| **Technologies**: Python, Machine Learning, Computer Vision, Visual Transformers, Docker | 
+| **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
+| We are using recent computer vision models based on Visual Transformers for semantic segmentation, assigning semantic classes such as "street", "vegetation" and "water" to the pixels of photos taken in the urban environment. This will be used for further research into the effect of the presence of water bodies and vegetation on human well-being. Follow-up to the [Streetview greenery](#streetview_1) project. |
 
 | [SummerFAIR](https://github.com/UtrechtUniversity/summer-fair) | 
 | --- | 
@@ -117,9 +117,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Webscraping, Internet Archive, Pipeline, Internet, Python, Kinesis Firehose, AWS, Terraform| 
 | **Research Engneers**: [Maarten Schermer](https://github.com/maartenschermer), [Casper Kaandorp](https://github.com/cskaandorp), [Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
 | The Crunchbase project assesses the sustainability of European startup-companies by analyzing their websites. As the researcher is interested in the current, as well as the pre-Corona situation, we scrape webpages from the Internet Archive. Together with [SURF](https://www.surf.nl/en/custom-cloud-solutions) we have developed a pipeline for collecting and analyzing these webpages, using AWS as infrastructure.|
-
-
-### Completed projects
 
 | [Data donation - WhatsApp](https://github.com/sodascience/port-poc) |
 | --- | 
@@ -225,7 +222,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Roos Voorvaart](https://github.com/RVoor) |
 | Porpoise Reproduction studies how reproduction rates of harbour porpoises are affected by various factors. In this RSE project [marine regions](marineregions.org) were enriched with [Cumulative Human Impact model data](knb.ecoinformatics.org) |
 
-| [Streetview 1](https://github.com/UtrechtUniversity/streetview-greenery) |
+| <a name="streetview_1">[Streetview greenery](https://github.com/UtrechtUniversity/streetview-greenery)</a> |
 | --- | 
 | **Time frame**: 2019 - 2021 |
 | **Research domain**: Faculty of Geosciences |
