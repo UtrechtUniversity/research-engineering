@@ -9,6 +9,22 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| Babble |
+| --- | 
+| **Time frame**: 01/2023 - present |
+| **Research domain**: Faculty of Humanities |
+| **Technologies**: Python, Speech classification, Machine learning| 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
+| Collaboration with [dr. Sita ter Haar](https://www.uu.nl/medewerkers/SMterHaar) and [dr. Heysem Kaya](https://www.uu.nl/staff/HKaya) on automated processing and classification of audio recordings from the [YOUth project](https://youthonderzoek.nl/). |
+
+| [Cognitive Mapping](https://github.com/Fesch-star/CM_analysis) |
+| --- | 
+| **Time frame**: 03/2023 - present |
+| **Research domain**: Faculty of Law, Economics and Governance |
+| **Technologies**: R, CRAN, Packaging, CI, testing | 
+| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
+| In this project in collaboration with the University Library we give small scale support for publishing an R package on CRAN. The package contains tools for Cognitive mapping analysis developed by [Prof. Femke van Esch](https://www.uu.nl/staff/FAWJvanEsch). |
+
 | [Hyde](https://github.com/UtrechtUniversity/hyde-code) |
 | --- | 
 | **Time frame**: 11/2022 - present |
@@ -126,7 +142,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**:  [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
 |As an extension to [Data-Donation](#data_donation) project, we developed scripts to extract information from WhatsApp data download packages. In this study respondents can voluntary donate their group chats and/or their account information files through an online platform (PORT).|
 
-| Coast Snap |
+| [Coast Snap](https://github.com/UtrechtUniversity/coast_snap) |
 | --- |
 | **Time frame**: 10/2021 - 06/2022 |
 | **Research domain**: Faculty of Geosciences |
