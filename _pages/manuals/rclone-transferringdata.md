@@ -66,6 +66,10 @@ Use the `--transfer` and `--checkers` options to increase the number of files th
 rclone sync surfdrive:my_source_folder ./my_destination_folder -c --checkers=16 --transfers=16 -Pv
 ```
 
-Further reading:
+> **Note**
+> When you need to transfer many (>1000) small files (e.g. 1MB or smaller) it may be faster to create a `.zip` (or `.tar`) first and transfer the zipped folder instead.
+
+  
+**Further reading:**
 - For all Rclone commands see: [https://rclone.org/commands/](https://rclone.org/commands/)  
 - When using rclone on Snellius or Lisa, read: [how to use rclone in jobscripts](rclone-jobscript.md)
