@@ -25,9 +25,8 @@ Now walk through the questions. For SURFdrive you need the following information
 
 1. Type `n` for New remote
 2. For 'name' choose e.g. `surfdrive` (or SD)
-3. Choose option `41`for WebDAV&#x20;
-4. Fill in the URL. You can look this up via the web portal of SURFdrive. In the top right corner click your account name. Go to settings. In the left panel, click security. At the very bottom of the page there will be a section WebDAV passwords. There is also an URL, something like: [https://surfdrive.surf.nl/files/remote.php/nonshib-webdav](https://surfdrive.surf.nl/files/remote.php/nonshib-webdav)\
-   &#x20;Use this URL.
+3. Choose option `46`for WebDAV (this could differ depending on your Rclone version);
+4. Fill in the URL. You can look this up via the web portal of SURFdrive. In the top right corner click your account name. Go to settings. In the left panel, click security. At the very bottom of the page there will be a section WebDAV passwords. There is also an URL, something like: [https://surfdrive.surf.nl/files/remote.php/nonshib-webdav](https://surfdrive.surf.nl/files/remote.php/nonshib-webdav); Use this URL.
 5. Before you continue with the Rclone menu, first perform the following step via the [web portal](https://surfdrive.surf.nl) of SURFdrive. Fill in an app name (e.g. lisa) on the security settings page (same page as previous step) and click “create new app password”. The page will show a username and a password. You will need these in the following steps of the Rclone menu.
 6. Select the type of WebDAV storage system. Type: `2` for ownCloud.
 7. Type in your user name from SURFdrive (this is the username found in the web portal (step 5))
