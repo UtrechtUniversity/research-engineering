@@ -58,6 +58,18 @@ rclone sync surfdrive:my_source_folder ./my_destination_folder -cPv
 &#x20;`-P` report progress of transfer\
 &#x20;`-v` verbose; increase the amount of information in the logs
 
-Further reading:
+### Parallel transfer
+
+Use the `--transfer` and `--checkers` options to increase the number of files that are transferred in parallel. When transferring many small files (~order of MBs) this may help reduce the transfer time.
+
+```
+rclone sync surfdrive:my_source_folder ./my_destination_folder -c --checkers=16 --transfers=16 -Pv
+```
+
+> **Note**
+> When you need to transfer many (>1000) small files (e.g. 1MB or smaller) it may be faster to create a `.zip` (or `.tar`) first and transfer the zipped folder instead.
+
+  
+**Further reading:**
 - For all Rclone commands see: [https://rclone.org/commands/](https://rclone.org/commands/)  
 - When using rclone on Snellius or Lisa, read: [how to use rclone in jobscripts](rclone-jobscript.md)
