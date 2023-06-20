@@ -57,11 +57,11 @@ Save and close the file.
 
 #### Step 2: Load icommands
 
-Load the icommands each time you login to the system.&#x20;
+Load the icommands each time you login to the system.
 
 ```
-module load 2021
-module load "iRODS-iCommands/4.3.0"
+module load 2022
+module load iRODS-iCommands/4.3.0
 ```
 
 #### Step 3: Initialize connection to iRODS
@@ -133,8 +133,8 @@ Example jobscript:
 echo Job start time: `date +"%Y-%m-%d %T"`
 
 # Loading modules
-module load 2020 
-module load icommands
+module load 2022
+module load iRODS-iCommands/4.3.0
 
 # Transfer input files to scratch
 echo "/bin/date: Transferring input files to scratch"
