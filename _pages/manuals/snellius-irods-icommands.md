@@ -93,8 +93,9 @@ In contrary to the `iput` and `iget` commands, in `irsync` it is necessary to pu
 E.g.
 
 ```
-irsync -rKV i:myfolder /my_hpc_folder
+irsync -rKV i:research-<name>/path_to/my_folder /my_hpc_folder
 ```
+where `<name>` is the name of the research folder on Yoda (you can find the name of the research folder in the Yoda portal).
 
 `-rKV` means the following flags (options) are used:
 
@@ -105,7 +106,7 @@ irsync -rKV i:myfolder /my_hpc_folder
 To synchronize in the opposite direction
 
 ```
-irsync -rKV /my_hpc_folder/ i:myfolder
+irsync -rKV /my_hpc_folder/ i:research-<name>/path_to/my_folder
 ```
 
 > note the '/' at the end of /my\_hpc\_folder/ that is not used in the command above.
@@ -115,7 +116,7 @@ irsync -rKV /my_hpc_folder/ i:myfolder
 With icommands it is possible to transfer individual files in parallel using multiple threads, which results in higher transfer speeds. The flag `-N` can be used to control the number of parallel threads (only recommended in very specific situations). When not specified the server decides a default number of threads. For large files this number can be e.g. 16 threads.
 
 ```
-irsync -rKV -N 0 i:myfolder /my_hpc_folder
+irsync -rKV -N 0 i:research-<name>/path_to/my_folder /my_hpc_folder
 ```
 
 ### Job scripts
@@ -140,7 +141,7 @@ module load iRODS-iCommands/4.3.0
 echo "/bin/date: Transferring input files to scratch"
 mkdir "$TMPDIR"/input
 mkdir "$TMPDIR"/output
-irsync -rv i:my_yoda_input_directory "$TMPDIR"/input
+irsync -rKv i:research-<name>/path_to/my_folder "$TMPDIR"/input
 
 echo Data Transferred: `date +"%Y-%m-%d %T"`
 
@@ -148,7 +149,7 @@ echo Data Transferred: `date +"%Y-%m-%d %T"`
 echo "test" > "$TMPDIR"/output/filename.txt
 
 # Transfer input files to scratch
-irsync -rKv "$TMPDIR"/output/ i:my_yoda_output_directory
+irsync -rKv "$TMPDIR"/output/ i:research-<name>/path_to/my_output_folder
 
 echo Job end time: `date +"%Y-%m-%d %T"`
 ```
