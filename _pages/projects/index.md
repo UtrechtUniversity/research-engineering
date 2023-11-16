@@ -285,3 +285,11 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: iRODS, Yoda| 
 | **Research Engineers**: Christine Staiger|
 | Goals: 1) Provide a graphical user interface to non-tech savy researchers to cpoordinate their data on iRODS and Yoda. 2) Provide a easy-to-use python library for scientific programmers to programm against iRODS and Yoda enabling them to integrate data management into computation workflows.|
+
+| [webmice](https://github.com/amices/webmice) | 
+| --- | 
+| **Time frame**: July 2023 - November 2023 |
+| **Research domain**: Statistics|
+| **Technologies**: R, Docker, HTTP API framework for R `RestRserve`| 
+| **Research Engineers**: Christine Staiger, [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer)|
+| Building an HTTP API around the statistical R package [mice](https://amices.org/mice/) to increase the interoperability of the R package with other programming languages.|
