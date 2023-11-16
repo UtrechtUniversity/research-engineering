@@ -9,6 +9,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| HTA |
+| --- | 
+| **Time frame**: 11/2023 - present |
+| **Research domain**: Faculty of Science |
+| **Technologies**: Python, NLP| 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
+| Collaboration with [Jan-Willem Versteeg](https://www.uu.nl/medewerkers/JVersteeg) on automated processing and classification of audio recordings from the [YOUth project](https://youthonderzoek.nl/). |
+
 | Babble |
 | --- | 
 | **Time frame**: 01/2023 - present |
