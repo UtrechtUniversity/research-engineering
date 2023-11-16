@@ -284,7 +284,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Research Data management|
 | **Technologies**: iRODS, Yoda| 
 | **Research Engineers**: Christine Staiger|
-| Goals: 1) Provide a graphical user interface to non-tech savy researchers to cpoordinate their data on iRODS and Yoda. 2) Provide a easy-to-use python library for scientific programmers to programm against iRODS and Yoda enabling them to integrate data management into computation workflows.|
+| Goals: 1) Provide a graphical user interface to non-tech savvy researchers to coordinate their data on iRODS and Yoda. 2) Provide an easy-to-use python library for scientific programmers to program against iRODS and Yoda enabling them to integrate data management into computation workflows.|
 
 | [webmice](https://github.com/amices/webmice) | 
 | --- | 
