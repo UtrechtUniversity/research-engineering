@@ -81,14 +81,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Maarten Schermer](https://github.com/maartenschermer) |
 | We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. |
 
-| [TORS](https://github.com/UtrechtUniversity/cTORS) | 
-| --- | 
-| **Time frame**: 10/2021 - present |
-| **Research domain**: Faculty of Science, Information and Computing Sciences |
-| **Technologies**: Python, Django, Docker, C++ | 
-| **Research Engineers**: [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Haili Hu](https://www.uu.nl/medewerkers/HHu2) |
-| In this project, we define the requirements to set up a scientific challenge in the domain of Train Unit Shunting and Servicing, using the TORS simulator developed by Utrecht University and TUDelft. In between transportation services, trains are parked and serviced at shunting yards. The objective of the challenge is to test the robustness and flexibility of scheduling algorithms, that position all the trains at the right position and get the maintenance tasks done in limited run time. |
-
 | [AnonymoUUs](https://github.com/UtrechtUniversity/anonymouus) / [AnonymizeYouth](https://github.com/UtrechtUniversity/AnonymizeYouth) | 
 | --- | 
 | **Time frame**: 10/2021 - present |
@@ -159,6 +151,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Privacy, Pyodide| 
 | **Research Engineers**:  [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
 |As an extension to [Data-Donation](#data_donation) project, we developed scripts to extract information from WhatsApp data download packages. In this study respondents can voluntary donate their group chats and/or their account information files through an online platform (PORT).|
+
+| [TORS](https://github.com/UtrechtUniversity/cTORS) | 
+| --- | 
+| **Time frame**: 10/2021 - 06/2022 |
+| **Research domain**: Faculty of Science, Information and Computing Sciences |
+| **Technologies**: Python, Django, Docker, C++ | 
+| **Research Engineers**: [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Haili Hu](https://www.uu.nl/medewerkers/HHu2) |
+| In this project, we define the requirements to set up a scientific challenge in the domain of Train Unit Shunting and Servicing, using the TORS simulator developed by Utrecht University and TUDelft. In between transportation services, trains are parked and serviced at shunting yards. The objective of the challenge is to test the robustness and flexibility of scheduling algorithms, that position all the trains at the right position and get the maintenance tasks done in limited run time. |
 
 | [Coast Snap](https://github.com/UtrechtUniversity/coast_snap) |
 | --- |
