@@ -9,6 +9,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| HTA |
+| --- | 
+| **Time frame**: 11/2023 - present |
+| **Research domain**: Faculty of Science |
+| **Technologies**: Python, NLP| 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
+| In this project, we aim to create a centralized database by aggregating data points extracted from Health Technology Assessment documents. Our goal is to streamline and enhance the document labeling process through automation. |
+
 | Babble |
 | --- | 
 | **Time frame**: 01/2023 - present |
