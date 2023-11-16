@@ -278,3 +278,10 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
 | The Global Goals project investigates the effect of the United Nations' Sustainable Development Goals (SDGs) on the global network of intergovernmental organizations. This network is represented by the hyperlinks on the organizations’ websites. We have retrieved the historical - from 2012 up to 2019- hyperlinks for a given set of international organizations via the Internet Archive. |
 
+| [iBridges](https://chstaiger.github.io/iBridges-Gui/) | 
+| --- | 
+| **Time frame**: Paused |
+| **Research domain**: Research Data management|
+| **Technologies**: iRODS, Yoda| 
+| **Research Engineers**: Christine Staiger|
+| Goals: 1) Provide a graphical user interface to non-tech savy researchers to cpoordinate their data on iRODS and Yoda. 2) Provide a easy-to-use python library for scientific programmers to programm against iRODS and Yoda enabling them to integrate data management into computation workflows.|
