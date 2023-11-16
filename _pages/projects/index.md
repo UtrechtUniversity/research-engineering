@@ -288,3 +288,18 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
 | The Global Goals project investigates the effect of the United Nations' Sustainable Development Goals (SDGs) on the global network of intergovernmental organizations. This network is represented by the hyperlinks on the organizations’ websites. We have retrieved the historical - from 2012 up to 2019- hyperlinks for a given set of international organizations via the Internet Archive. |
 
+| [iBridges](https://chstaiger.github.io/iBridges-Gui/) | 
+| --- | 
+| **Time frame**: Paused |
+| **Research domain**: Research Data management|
+| **Technologies**: iRODS, Yoda| 
+| **Research Engineers**: Christine Staiger|
+| Goals: 1) Provide a graphical user interface to non-tech savvy researchers to coordinate their data on iRODS and Yoda. 2) Provide an easy-to-use python library for scientific programmers to program against iRODS and Yoda enabling them to integrate data management into computation workflows.|
+
+| [webmice](https://github.com/amices/webmice) | 
+| --- | 
+| **Time frame**: July 2023 - November 2023 |
+| **Research domain**: Statistics|
+| **Technologies**: R, Docker, HTTP API framework for R `RestRserve`| 
+| **Research Engineers**: Christine Staiger, [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer)|
+| Building an HTTP API around the statistical R package [mice](https://amices.org/mice/) to increase the interoperability of the R package with other programming languages.|
