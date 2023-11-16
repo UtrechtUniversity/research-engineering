@@ -9,6 +9,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| HTA |
+| --- | 
+| **Time frame**: 11/2023 - present |
+| **Research domain**: Faculty of Science |
+| **Technologies**: Python, NLP| 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
+| In this project, we aim to create a centralized database by aggregating data points extracted from Health Technology Assessment documents. Our goal is to streamline and enhance the document labeling process through automation. |
+
 | PSE |
 | --- |
 | **Time frame**: 07/2023 - present |
@@ -25,7 +33,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
 | Collaboration with [dr. Sita ter Haar](https://www.uu.nl/medewerkers/SMterHaar) and [dr. Heysem Kaya](https://www.uu.nl/staff/HKaya) on automated processing and classification of audio recordings from the [YOUth project](https://youthonderzoek.nl/). |
 
-| [Cognitive Mapping](https://github.com/Fesch-star/CM_analysis) |
+| [Cognitive Mapping](https://github.com/Fesch-star/cognitivemapr) |
 | --- | 
 | **Time frame**: 03/2023 - present |
 | **Research domain**: Faculty of Law, Economics and Governance |
@@ -47,7 +55,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Faculty of Humanities |
 | **Technologies**: Python, Django, Flask | 
 | **Research Engineers**:  [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
-| We create a backend for a web application for yearly publication of the Better life index ("Brede welvaart index") in the Netherlands. |
+| Collaboration with [Dr. R. Philips](https://www.uu.nl/staff/RCMPhilips) and the [Research Software Lab](https://cdh.uu.nl/about/research-software-lab/) on a web application for the yearly publication of the Better life index ("Brede Welvaart Index"). In this project we create a backend for the web application. | 
 
 | Semantics of Sustainability |
 | --- | 
