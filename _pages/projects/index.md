@@ -9,6 +9,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| PSE |
+| --- |
+| **Time frame**: 07/2023 - present |
+| **Research domain**: Faculty of Science | 
+| **Technologies**: Python, Jax, packaging |
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
+| We are collaborating with [William Torre](https://www.uu.nl/staff/KWTorre) to revive a molecular dynamics simulation plugin. We will put the functionality of the plugin into its own standalone package that will be much easier to install than the current state of the project. |
+
 | Babble |
 | --- | 
 | **Time frame**: 01/2023 - present |
@@ -24,14 +32,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: R, CRAN, Packaging, CI, testing | 
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
 | In this project in collaboration with the University Library we give small scale support for publishing an R package on CRAN. The package contains tools for Cognitive mapping analysis developed by [Prof. Femke van Esch](https://www.uu.nl/staff/FAWJvanEsch). |
-
-| [Hyde](https://github.com/UtrechtUniversity/hyde-code) |
-| --- | 
-| **Time frame**: 11/2022 - present |
-| **Research domain**: Faculty of Geosciences |
-| **Technologies**: Python, packaging, code quality| 
-| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
-| The [HYDE project](https://landuse.sites.uu.nl/hyde-project/) concerns the world wide historical land use. The HYDE project was already a well established software project, with more than 16K lines of python code. We are helping the project by introducing modern software techniques and workflows.|
 
 | Soothreat |
 | --- | 
@@ -57,13 +57,13 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi)| 
 | The aim of this project is to investigatate the conceptual history of a certain topic in a collection of texts. To this end we work on Dutch language models for historical research. The current available language models for Dutch (at time of writing) fall short for historical research, because they are trained only on recent data. The performance of models declines steadily when applied to data that lies outside of the distribution of the training on corpora.
 
-| [MetaSynth](https://github.com/sodascience/meta-synth) | 
+| [metasyn](https://github.com/sodascience/metasyn) | 
 | --- | 
 | **Time frame**: 04/2022 - present |
 | **Research domain**: Department of Methodology & Statistics |
 | **Technologies**: Python, Machine Learning, Synthetic data, Privacy | 
 | **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
-| Privacy and proper disclosure control is a hot topic at the moment. This project aims to create a standard to share statistical information and generate synthetic data. MetaSynth fits a distribution to each of the variables, while it also generates a synthetic dataset from this information. In between, there is a generative metadata file that contains the condensed information as a human-readable JSON file. |
+| Privacy and proper disclosure control is a hot topic at the moment. This project aims to create a standard to share statistical information and generate synthetic data. Metasyn fits a distribution to each of the variables, while it also generates a synthetic dataset from this information. In between, there is a generative metadata file that contains the condensed information as a human-readable JSON file. |
 
 | [Breakthrough patents](https://github.com/UtrechtUniversity/patent-breakthrough) | 
 | --- | 
@@ -80,14 +80,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Django, Docker, C++ | 
 | **Research Engineers**: [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Haili Hu](https://www.uu.nl/medewerkers/HHu2) |
 | In this project, we define the requirements to set up a scientific challenge in the domain of Train Unit Shunting and Servicing, using the TORS simulator developed by Utrecht University and TUDelft. In between transportation services, trains are parked and serviced at shunting yards. The objective of the challenge is to test the robustness and flexibility of scheduling algorithms, that position all the trains at the right position and get the maintenance tasks done in limited run time. |
-
-| [Precision Nudging](https://github.com/UtrechtUniversity/nudging) | 
-| --- | 
-| **Time frame**: 04/2021 - present |
-| **Research domain**: Faculty of Law, Economics and Governance, Public Governance and Management |
-| **Technologies**: Python, machine learning, regression analysis, synthetic data | 
-| **Research Engineers**: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
-| Changing behavior is necessary to tackle societal problems, such as obesity and financial problems. One way to change behavior is by nudging people. A nudge is a way to change behavior without prohibiting options or changing its costs. However, nudges are often one-size-fits-all techniques: everyone is offered the same nudge. The scientific aim of this project is to use open data to develop predictive models with Machine Learning, in order to determine the most effective nudge for persons, given the nudging goal and the individual personal circumstances. To test our models, we created realistic synthetic data. |
 
 | [AnonymoUUs](https://github.com/UtrechtUniversity/anonymouus) / [AnonymizeYouth](https://github.com/UtrechtUniversity/AnonymizeYouth) | 
 | --- | 
@@ -109,6 +101,24 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 
 ### Completed projects
+
+| [Precision Nudging](https://github.com/UtrechtUniversity/nudging) | 
+| --- | 
+| **Time frame**: 04/2021 - 11/2023 |
+| **Research domain**: Faculty of Law, Economics and Governance, Public Governance and Management |
+| **Technologies**: Python, machine learning, regression analysis, synthetic data | 
+| **Research Engineers**: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), [Raoul Schram](https://www.uu.nl/staff/RDSchram)|
+| Changing behavior is necessary to tackle societal problems, such as obesity and financial problems. One way to change behavior is by nudging people. A nudge is a way to change behavior without prohibiting options or changing its costs. However, nudges are often one-size-fits-all techniques: everyone is offered the same nudge. The scientific aim of this project is to use open data to develop predictive models with Machine Learning, in order to determine the most effective nudge for persons, given the nudging goal and the individual personal circumstances. To test our models, we created realistic synthetic data. |
+
+
+| [Hyde](https://github.com/UtrechtUniversity/hyde-code) |
+| --- | 
+| **Time frame**: 11/2022 - 9/2023 |
+| **Research domain**: Faculty of Geosciences |
+| **Technologies**: Python, packaging, code quality| 
+| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
+| The [HYDE project](https://landuse.sites.uu.nl/hyde-project/) concerns the world wide historical land use. The HYDE project was already a well established software project, with more than 16K lines of python code. We are helping the project by introducing modern software techniques and workflows.|
+
 
 | [Streetview segmentation](https://github.com/UtrechtUniversity/streetview-segmentation) |
 | --- | 
