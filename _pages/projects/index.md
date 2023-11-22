@@ -17,6 +17,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
 | In this project, we aim to create a centralized database by aggregating data points extracted from Health Technology Assessment documents. Our goal is to streamline and enhance the document labeling process through automation. |
 
+| Seedlists |
+| --- | 
+| **Time frame**: 10/2023 - present |
+| **Research domain**: Botanical Gardens |
+| **Technologies**: Python, OCR, Plant taxonomy | 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger) |
+| The Botanical Gardens has a collection of historical seed lists dating back to 1837, in the form of PDF's and scanned documents. The project aims to help unlock the information in these seedlists and make it available to researchers, enabling them to study collection policies over the centuries and detect possible effects of climate change on the collection. Ideally, the project results in a pipeline that can be used by other botanical institutes. |
+
 | PSE |
 | --- |
 | **Time frame**: 07/2023 - present |
@@ -24,6 +32,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Jax, packaging |
 | **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
 | We are collaborating with [William Torre](https://www.uu.nl/staff/KWTorre) to revive a molecular dynamics simulation plugin. We will put the functionality of the plugin into its own standalone package that will be much easier to install than the current state of the project. |
+
+| Excalibur (Example sentences Calibrated for Use in Research)|
+| --- | 
+| **Time frame**: 03/2023 - present |
+| **Research domain**: Institute for Language Sciences |
+| **Technologies**: Python, machine translation, automated POS-tagging |
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
+| We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on the creation of a database with example sentences, their translation (Dutch-English), and interlinear glosses. The project includes a pipeline for extracting, correcting and annotating glosses from publications. It also aims to automatically generate translations and glosses for new, user-supplied example sentences. |
 
 | Babble |
 | --- | 
