@@ -97,14 +97,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Maarten Schermer](https://github.com/maartenschermer) |
 | We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. |
 
-| [AnonymoUUs](https://github.com/UtrechtUniversity/anonymouus) / [AnonymizeYouth](https://github.com/UtrechtUniversity/AnonymizeYouth) | 
-| --- | 
-| **Time frame**: 10/2021 - present |
-| **Research domain**: Faculty of Social Science|
-| **Technologies**: Python, de-identification| 
-| **Research Engineers**: [Maarten Schermer](https://github.com/maartenschermer), [Casper Kaandorp](https://github.com/cskaandorp), [Martine de Vos](https://www.uu.nl/staff/MGdeVos) |
-| Researchers often use personal data in their research. According to the GDPR these data need to be de-identified. We have developed tools to de-identify textual data. For the specific use case of the YOUth cohort studies, additional tools have been developed to prepare the YOUth data for correct de-identification. |
-
 | [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector) | 
 | --- | 
 | **Time frame**: 2021 - present |
@@ -319,3 +311,12 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: R, Docker, HTTP API framework for R `RestRserve`| 
 | **Research Engineers**: Christine Staiger, [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer)|
 | Building an HTTP API around the statistical R package [mice](https://amices.org/mice/) to increase the interoperability of the R package with other programming languages.|
+
+| [AnonymoUUs](https://github.com/UtrechtUniversity/anonymouus) / [AnonymizeYouth](https://github.com/UtrechtUniversity/AnonymizeYouth) | 
+| --- | 
+| **Time frame**: Paused <!-- started 10/2021 --> |
+| **Research domain**: Faculty of Social Science|
+| **Technologies**: Python, de-identification| 
+| **Research Engineers**: [Maarten Schermer](https://github.com/maartenschermer), [Casper Kaandorp](https://github.com/cskaandorp), [Martine de Vos](https://www.uu.nl/staff/MGdeVos) |
+| Researchers often use personal data in their research. According to the GDPR these data need to be de-identified. We have developed tools to de-identify textual data. For the specific use case of the YOUth cohort studies, additional tools have been developed to prepare the YOUth data for correct de-identification. |
+
