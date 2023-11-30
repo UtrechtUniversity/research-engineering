@@ -9,14 +9,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
-| [Kickstarter](https://github.com/UtrechtUniversity/kickstarter) |
-| --- |
-| **Time frame**: 06/2023 - present |
-| **Research domain**: Faculty of Geosciences |
-| **Technologies**: Generative AI |
-| **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
-| We use generative AI (OpenAI's ChatGPT API) to assign industry codes ([NAICS](https://www.census.gov/naics/)) to Kickstarter projects. [Kickstarter](https://www.kickstarter.com/) is a crowdfunding website for raising money for creative projects. We are working with [dr. Nicola Cortinovis](https://www.uu.nl/staff/NCortinovis) who is using this information to investigate whether Kickstarter projects contribute to local economic growth at the county level in the United States, for various industry sectors. |
-
 | HTA |
 | --- | 
 | **Time frame**: 11/2023 - present |
@@ -40,6 +32,22 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Jax, packaging |
 | **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
 | We are collaborating with [William Torre](https://www.uu.nl/staff/KWTorre) to revive a molecular dynamics simulation plugin. We will put the functionality of the plugin into its own standalone package that will be much easier to install than the current state of the project. |
+
+| [Kickstarter](https://github.com/UtrechtUniversity/kickstarter) |
+| --- |
+| **Time frame**: 06/2023 - present |
+| **Research domain**: Faculty of Geosciences |
+| **Technologies**: Generative AI |
+| **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
+| We use generative AI (OpenAI's ChatGPT API) to assign industry codes ([NAICS](https://www.census.gov/naics/)) to Kickstarter projects. [Kickstarter](https://www.kickstarter.com/) is a crowdfunding website for raising money for creative projects. We are working with [dr. Nicola Cortinovis](https://www.uu.nl/staff/NCortinovis) who is using this information to investigate whether Kickstarter projects contribute to local economic growth at the county level in the United States, for various industry sectors. |
+
+| [WhisperX VRE](https://utrechtuniversity.github.io/vre-docs/docs/workspaces/whisper.html) |
+| --- |
+| **Time frame**: 06/2023 - present |
+| **Research domain**: Faculty of Humanities |
+| **Technologies**: Speech recognition |
+| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep)|
+| We helped several researchers to transcribe large amounts of audio data (~100k hours) using WhisperX (large-v2), a fast implementation of the Whisper model from OpenAI. For these projects we made use of the GPUs available a the national computing infrastructures at Surf: Surf Research Cloud and the supercomputer Snellius. One of the deliverables is a workspace template for Surf Research Cloud with WhisperX preinstalled (and compatible with GPU and CUDA drivers), where users can use a template Jupyter notebook to transcribe audio data. |
 
 | Excalibur (Example sentences Calibrated for Use in Research)|
 | --- | 
