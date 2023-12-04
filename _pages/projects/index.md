@@ -30,7 +30,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 10/2023 - present |
 | **Research domain**: Botanical Gardens |
 | **Technologies**: Python, OCR, Plant taxonomy | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger) |
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
 | The Botanical Gardens has a collection of historical seed lists dating back to 1837, in the form of PDF's and scanned documents. The project aims to help unlock the information in these seedlists and make it available to researchers, enabling them to study collection policies over the centuries and detect possible effects of climate change on the collection. Ideally, the project results in a pipeline that can be used by other botanical institutes. |
 
 | PSE |
