@@ -113,19 +113,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Maarten Schermer](https://github.com/maartenschermer) |
 | We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. |
 
-| [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector) | 
-| --- | 
-| **Time frame**: 2021 - present |
-| **Research domain**: Faculty of Humanities, Media and Culture Studies |
-| **Technologies**: Python, searchtweets, elasticsearch/kibana | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Roos Voorvaart](https://github.com/RVoor) |
-| Twitter forms a rich source of information for researchers interested in studying 'the public conversation'. The Academic Research product track is designed to serve the needs of the academic research community. It provides researchers with special levels of access to public Twitter data without any cost. This project is aimed to help researchers to use the Academic Research product track to collect tweets of their interest and analyze them. |   
-
-
-
-
 ### Completed projects
-
 | [Precision Nudging](https://github.com/UtrechtUniversity/nudging) | 
 | --- | 
 | **Time frame**: 04/2021 - 11/2023 |
@@ -143,7 +131,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
 | The [HYDE project](https://landuse.sites.uu.nl/hyde-project/) concerns the world wide historical land use. The HYDE project was already a well established software project, with more than 16K lines of python code. We are helping the project by introducing modern software techniques and workflows.|
 
-
 | [Streetview segmentation](https://github.com/UtrechtUniversity/streetview-segmentation) |
 | --- | 
 | **Time frame**: 06/2022 - 02/2023 |
@@ -151,6 +138,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Machine Learning, Computer Vision, Visual Transformers, Docker | 
 | **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
 | We are using recent computer vision models based on Visual Transformers for semantic segmentation, assigning semantic classes such as "street", "vegetation" and "water" to the pixels of photos taken in the urban environment. This will be used for further research into the effect of the presence of water bodies and vegetation on human well-being. Follow-up to the [Streetview greenery](#streetview_1) project. |
+
+| [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector)                                                                                                                                                                                                                                                                                                                                                                                       | 
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Time frame**: 2021 - 05/2022                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Research domain**: Faculty of Humanities, Media and Culture Studies                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Technologies**: Python, searchtweets, elasticsearch/kibana                                                                                                                                                                                                                                                                                                                                                                                                  | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Roos Voorvaart](https://github.com/RVoor)                                                                                                                                                                                                                                                                                                                                          |
+| Twitter forms a rich source of information for researchers interested in studying 'the public conversation'. The Academic Research product track is designed to serve the needs of the academic research community. It provides researchers with special levels of access to public Twitter data without any cost. This project is aimed to help researchers to use the Academic Research product track to collect tweets of their interest and analyze them. |   
 
 | [SummerFAIR](https://github.com/UtrechtUniversity/summer-fair) | 
 | --- | 
