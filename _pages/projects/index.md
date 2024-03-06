@@ -9,14 +9,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
-| [Kickstarter](https://github.com/UtrechtUniversity/kickstarter) |
-| --- |
-| **Time frame**: 06/2023 - present |
-| **Research domain**: Faculty of Geosciences |
-| **Technologies**: Generative AI |
-| **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
-| We use generative AI (OpenAI's ChatGPT API) to assign industry codes ([NAICS](https://www.census.gov/naics/)) to Kickstarter projects. [Kickstarter](https://www.kickstarter.com/) is a crowdfunding website for raising money for creative projects. We are working with [dr. Nicola Cortinovis](https://www.uu.nl/staff/NCortinovis) who is using this information to investigate whether Kickstarter projects contribute to local economic growth at the county level in the United States, for various industry sectors. |
-
 | HTA |
 | --- | 
 | **Time frame**: 11/2023 - present |
@@ -40,6 +32,22 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Jax, packaging |
 | **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
 | We are collaborating with [William Torre](https://www.uu.nl/staff/KWTorre) to revive a molecular dynamics simulation plugin. We will put the functionality of the plugin into its own standalone package that will be much easier to install than the current state of the project. |
+
+| [Kickstarter](https://github.com/UtrechtUniversity/kickstarter) |
+| --- |
+| **Time frame**: 06/2023 - present |
+| **Research domain**: Faculty of Geosciences |
+| **Technologies**: Generative AI |
+| **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
+| We use generative AI (OpenAI's ChatGPT API) to assign industry codes ([NAICS](https://www.census.gov/naics/)) to Kickstarter projects. [Kickstarter](https://www.kickstarter.com/) is a crowdfunding website for raising money for creative projects. We are working with [dr. Nicola Cortinovis](https://www.uu.nl/staff/NCortinovis) who is using this information to investigate whether Kickstarter projects contribute to local economic growth at the county level in the United States, for various industry sectors. |
+
+| [WhisperX VRE](https://utrechtuniversity.github.io/vre-docs/docs/workspaces/whisper.html) |
+| --- |
+| **Time frame**: 06/2023 - present |
+| **Research domain**: Faculty of Humanities |
+| **Technologies**: Speech recognition |
+| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep)|
+| We helped several researchers to transcribe large amounts of audio data (~100k hours) using WhisperX (large-v2), a fast implementation of the Whisper model from OpenAI. For these projects we made use of the GPUs available a the national computing infrastructures at Surf: Surf Research Cloud and the supercomputer Snellius. One of the deliverables is a workspace template for Surf Research Cloud with WhisperX preinstalled (and compatible with GPU and CUDA drivers), where users can use a template Jupyter notebook to transcribe audio data. |
 
 | Excalibur (Example sentences Calibrated for Use in Research)|
 | --- | 
@@ -105,19 +113,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Maarten Schermer](https://github.com/maartenschermer) |
 | We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. |
 
-| [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector) | 
-| --- | 
-| **Time frame**: 2021 - present |
-| **Research domain**: Faculty of Humanities, Media and Culture Studies |
-| **Technologies**: Python, searchtweets, elasticsearch/kibana | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Roos Voorvaart](https://github.com/RVoor) |
-| Twitter forms a rich source of information for researchers interested in studying 'the public conversation'. The Academic Research product track is designed to serve the needs of the academic research community. It provides researchers with special levels of access to public Twitter data without any cost. This project is aimed to help researchers to use the Academic Research product track to collect tweets of their interest and analyze them. |   
-
-
-
-
 ### Completed projects
-
 | [Precision Nudging](https://github.com/UtrechtUniversity/nudging) | 
 | --- | 
 | **Time frame**: 04/2021 - 11/2023 |
@@ -135,7 +131,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
 | The [HYDE project](https://landuse.sites.uu.nl/hyde-project/) concerns the world wide historical land use. The HYDE project was already a well established software project, with more than 16K lines of python code. We are helping the project by introducing modern software techniques and workflows.|
 
-
 | [Streetview segmentation](https://github.com/UtrechtUniversity/streetview-segmentation) |
 | --- | 
 | **Time frame**: 06/2022 - 02/2023 |
@@ -143,6 +138,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Machine Learning, Computer Vision, Visual Transformers, Docker | 
 | **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
 | We are using recent computer vision models based on Visual Transformers for semantic segmentation, assigning semantic classes such as "street", "vegetation" and "water" to the pixels of photos taken in the urban environment. This will be used for further research into the effect of the presence of water bodies and vegetation on human well-being. Follow-up to the [Streetview greenery](#streetview_1) project. |
+
+| [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector)                                                                                                                                                                                                                                                                                                                                                                                       | 
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Time frame**: 2021 - 05/2022                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Research domain**: Faculty of Humanities, Media and Culture Studies                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Technologies**: Python, searchtweets, elasticsearch/kibana                                                                                                                                                                                                                                                                                                                                                                                                  | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Roos Voorvaart](https://github.com/RVoor)                                                                                                                                                                                                                                                                                                                                          |
+| Twitter forms a rich source of information for researchers interested in studying 'the public conversation'. The Academic Research product track is designed to serve the needs of the academic research community. It provides researchers with special levels of access to public Twitter data without any cost. This project is aimed to help researchers to use the Academic Research product track to collect tweets of their interest and analyze them. |   
 
 | [SummerFAIR](https://github.com/UtrechtUniversity/summer-fair) | 
 | --- | 
