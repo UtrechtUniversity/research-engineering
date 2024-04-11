@@ -1,12 +1,9 @@
-|[Home](index.md)|[Projects](_pages/projects/index.md)|[Publications](_pages/publications/index.md)|[Manuals](_pages/manuals/index.md)|
-|---|---|---|---|
-
 ## Research Engineering at Utrecht University
 
-This is the repo of our [team website](https://utrechtuniversity.github.io/research-engineering/) build with [GitHub Pages](https://docs.github.com/en/pages) and [Jekyll](https://jekyllrb.com/).
+This used to be the repository for keeping our team website. Currently it is only used for maintaining our projects overview.
 
-- To contribute, please create a pull request and ask a team member to review. 
+### To update the overview:
 
-- You can also build the website locally to preview and test changes. See instructions for [testing Github pages locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
-
-- If you like to customize the layout and style, please read the docs on the [Slate theme](https://github.com/pages-themes/slate).
+1. Create a branch
+2. Update `docs/projects.md`
+3. Create a pull request and assign Raoul or Jelle to review it.
