@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:wght@300&family=Open+Sans&display=swap');
+
+table {
+    border: 1px solid #373737;
+    margin-bottom: 20px;
+    text-align: left;
+   }
+  
+  th {
+    font-family: 'Open Sans', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 10px;
+    background: #FFCD00;
+    color: #373737;
+   }
+  
+  td {
+    font-family: 'Open Sans', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 10px;
+    border: 1px solid #373737;
+   }

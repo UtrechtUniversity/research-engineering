@@ -1,0 +1,29 @@
+# pandoc
+
+name: Docs to html
+# This workflow is triggered on pushes to the repository.
+on:
+  push:
+    branches:
+      - main
+    # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
+    paths:
+      - 'docs/projects.md'
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: >-  # allows you to break string into multiple lines
+            --css=styling.css
+            --from=gfm
+            --to=html
+            --standalone
+            --output=output/projects.html
+            docs/projects.md
+      - uses: actions/upload-artifact@v3
+        with:
+          name: html
+          path: output
