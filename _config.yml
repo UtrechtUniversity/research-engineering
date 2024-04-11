@@ -1,6 +1,1 @@
-theme: jekyll-theme-slate
-title: Research Engineering team
-description: Connecting Research and IT at Utrecht University
-baseurl: /research-engineering
-include: ['_pages']
-markdown: kramdown
+theme: jekyll-theme-cayman
