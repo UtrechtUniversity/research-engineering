@@ -15,7 +15,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | Lichess chess data |
 | --- | 
 | **Time frame**: 04/2024 - present |
-| **Research domain**: Social and Behavioural Sciences |
+| **Research domain**: Faculty of Social and Behavioural Sciences |
 | **Technologies**: Python, Parquet, big data, S3 |
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
 | Downloading and postprocessing data of over 5 billion chess matches from Lichess.org, making the data available for future research. |
