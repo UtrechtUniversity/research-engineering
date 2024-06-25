@@ -7,7 +7,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | Biosignal-data visualisation |
 | --- | 
 | **Time frame**: 06/2024 - present |
-| **Research domain**: Faculty of Psychology |
+| **Research domain**: Faculty of Social and Behavioural Sciences |
 | **Technologies**: Python, Javascript, Observable, visualisation, webserver | 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
 | As part of the project "Bloed, Zweet & Praten" ("Blood, Sweat, and Talking"), during AMA-sessions at the Lowlands festival, the researchers will collect biosignals from volunteers using smart wristbands. To give the participants insight in their own heartbeat and electrodermal activity during the session, we will create graphs displaying aggregated data in near-realtime, to be displayed on tablet computers. |
