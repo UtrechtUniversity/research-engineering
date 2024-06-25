@@ -4,6 +4,22 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| Biosignal-data visualisation |
+| --- | 
+| **Time frame**: 06/2024 - present |
+| **Research domain**: Faculty of Psychology |
+| **Technologies**: Python, Javascript, Observable, visualisation, webserver | 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
+| As part of the project "Bloed, Zweet & Praten" ("Blood, Sweat, and Talking"), during AMA-sessions at the Lowlands festival, the researchers will collect biosignals from volunteers using smart wristbands. To give the participants insight in their own heartbeat and electrodermal activity during the session, we will create graphs displaying aggregated data in near-realtime, to be displayed on tablet computers. |
+
+| Lichess chess data |
+| --- | 
+| **Time frame**: 04/2024 - present |
+| **Research domain**: Social and Behavioural Sciences |
+| **Technologies**: Python, Parquet, big data, S3 |
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
+| Downloading and postprocessing data of over 5 billion chess matches from Lichess.org, making the data available for future research. |
+
 | HTA |
 | --- | 
 | **Time frame**: 11/2023 - present |
