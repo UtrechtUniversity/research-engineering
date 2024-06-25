@@ -23,8 +23,8 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | HTA |
 | --- | 
 | **Time frame**: 11/2023 - present |
-| **Research domain**: Faculty of Science |
-| **Technologies**: Python, NLP| 
+| **Research domain**: Pharmaceutical Sciences (Faculty of Science)|
+| **Technologies**: Python, NLP, Generative AI| 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
 | In this project, we aim to create a centralized database by aggregating data points extracted from Health Technology Assessment documents. Our goal is to streamline and enhance the document labeling process through automation. |
 
@@ -47,7 +47,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | [Kickstarter](https://github.com/UtrechtUniversity/kickstarter) |
 | --- |
 | **Time frame**: 06/2023 - present |
-| **Research domain**: Faculty of Geosciences |
+| **Research domain**: Economic Geography (Faculty of Geosciences) |
 | **Technologies**: Generative AI |
 | **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
 | We use generative AI (OpenAI's ChatGPT API) to assign industry codes ([NAICS](https://www.census.gov/naics/)) to Kickstarter projects. [Kickstarter](https://www.kickstarter.com/) is a crowdfunding website for raising money for creative projects. We are working with [dr. Nicola Cortinovis](https://www.uu.nl/staff/NCortinovis) who is using this information to investigate whether Kickstarter projects contribute to local economic growth at the county level in the United States, for various industry sectors. |
