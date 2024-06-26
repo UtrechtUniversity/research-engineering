@@ -20,6 +20,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
 | Downloading and postprocessing data of over 5 billion chess matches from Lichess.org, making the data available for future research. |
 
+| IMAGE Materials |
+| --- | 
+| **Time frame**: 04/2024 - present |
+| **Research domain**: Faculty of Geosciences |
+| **Technologies**: Python, Software Engineering | 
+| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer) | 
+| This project aims to contribute to the development of an integrated energy and material model within the IMAGE framework. An existing Python implementation needs to be adapted to fit the OO style of prism to be connected to the IMAGE energy model and subsequently the IMAGE framework to assess the energy material interactions. | 
+
 | HTA |
 | --- | 
 | **Time frame**: 11/2023 - present |
@@ -123,7 +131,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Machine Learning, Natural Language Processing, BERT, TfIdf | 
 | **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Maarten Schermer](https://github.com/maartenschermer) | 
 | We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. | 
-
 
 ### Completed projects 
 
