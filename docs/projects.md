@@ -7,10 +7,10 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | Mental-health-recovery                                                                                                                                                                                       |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | **Time frame**: 07/2024 - present                                                                                                                                                                            |
-| **Research domain**: ODISSEI Social Data Science Team (SoDa)                                                                                                                                                 |
+| **Research domain**: Faculty of Social and Behavioural Sciences                                                                                                                                                 |
 | **Technologies**: Python, Data harmonization, Data transformation, Machine learning                                                                                                                          | 
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet)                                                                                   |                                                                                                              |
-| This project aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. 
+| This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. 
 
 | Interest                                                                                                                                                                                                                                                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
@@ -228,11 +228,10 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | [Dynamiek in beeld](https://github.com/sodascience/empathy-viz)|
 | --- | 
 | **Time frame**: 2021 - May 2022 |
-| **Research domain**: ODISSEI Social Data Science Team (SoDa) |
+| **Research domain**: Faculty of Social and Behavioural Sciences |
 | **Technologies**: Shiny, R | 
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
-| An application that can be used in a clinical setting to score dynamics in empathy. There are some questions to be asked whereafter the results are visualized. The visualization should help the clinician to ask the right questions immediately. | 
-
+| An application, developed in collaboration with the ODISSEI Social Data Science Team (SoDa), designed for clinical settings to score dynamics in empathy. It involves asking specific questions, after which the results are visualized. This visualization aids clinicians in promptly identifying and asking the most relevant questions
 | Deviance in Art |
 | --- |
 | **Time frame**: 02/2022 - 04/2022 |
