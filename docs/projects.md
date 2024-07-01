@@ -4,21 +4,22 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 
 ### Current projects
-| Mental-health-recovery                                                                                                                                                                                       |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| **Time frame**: 07/2024 - present                                                                                                                                                                            |
-| **Research domain**: Faculty of Social and Behavioural Sciences                                                                                                                                                 |
-| **Technologies**: Python, Data harmonization, Data transformation, Machine learning                                                                                                                          | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet)                                                                                   |                                                                                                              |
-| This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. 
 
-| Interest                                                                                                                                                                                                                                                                                                                          |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| **Time frame**: 02/2024 - present                                                                                                                                                                                                                                                                                                 |
-| **Research domain**: Faculty of Humanities, History and Art History                                                                                                                                                                                                                                                               |
-| **Technologies**: Python, NLP, Deep learning, Huggingface Transformers                                                                                                                                                                                                                                                            | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi),                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                   |
-| This project builds upon the  [hist-aware](https://github.com/UtrechtUniversity/hist-aware) project in response to its relatively unsatisfactory results. It aims to establish reliable new standards for (historical) sentiment analysis of newspaper data by applying and evaluating multiple approaches on the same case study. 
+| Mental-health-recovery |
+| --- | 
+| **Time frame**: 07/2024 - present |
+| **Research domain**: Faculty of Social and Behavioural Sciences |
+| **Technologies**: Python, Data harmonization, Data transformation, Machine learning | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
+| This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
+
+| Interest |
+| --- | 
+| **Time frame**: 02/2024 - present |
+| **Research domain**: Faculty of Humanities, History and Art History |
+| **Technologies**: Python, NLP, Deep learning, Huggingface Transformers | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
+| This project builds upon the  [hist-aware](https://github.com/UtrechtUniversity/hist-aware) project in response to its relatively unsatisfactory results. It aims to establish reliable new standards for (historical) sentiment analysis of newspaper data by applying and evaluating multiple approaches on the same case study. |
 
 | Biosignal-data visualisation |
 | --- | 
