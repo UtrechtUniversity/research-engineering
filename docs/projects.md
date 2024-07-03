@@ -186,7 +186,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | Twitter forms a rich source of information for researchers interested in studying 'the public conversation'. The Academic Research product track is designed to serve the needs of the academic research community. It provides researchers with special levels of access to public Twitter data without any cost. This project is aimed to help researchers to use the Academic Research product track to collect tweets of their interest and analyze them. | 
 
 
-| [SummerFAIR](https://github.com/UtrechtUniversity/autumn-fair) |
+| [AutumnFAIR](https://github.com/UtrechtUniversity/autumn-fair) |
 | --- | 
 | **Time frame**: 02/2024 -  |
 | **Research domain**: Faculty of Veterinary Medicine, Veterinary Epidemiology |
@@ -346,12 +346,12 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Martine de Vos](https://www.uu.nl/staff/MgdeVos)|
 | The Global Goals project investigates the effect of the United Nations' Sustainable Development Goals (SDGs) on the global network of intergovernmental organizations. This network is represented by the hyperlinks on the organizations’ websites. We have retrieved the historical - from 2012 up to 2019- hyperlinks for a given set of international organizations via the Internet Archive. | 
 
-| [iBridges](https://chstaiger.github.io/iBridges-Gui/) |
+| [iBridges](https://github.com/UtrechtUniversity/iBridges) and [iBridges-Gui](https://github.com/chStaiger/iBridges-Gui)|
 | --- | 
-| **Time frame**: Paused |
+| **Time frame**: September 2023 - June 2024 |
 | **Research domain**: Research Data management |
 | **Technologies**: iRODS, Yoda | 
-| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger) |
+| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
 | Goals: 1) Provide a graphical user interface to non-tech savvy researchers to coordinate their data on iRODS and Yoda. 2) Provide an easy-to-use python library for scientific programmers to program against iRODS and Yoda enabling them to integrate data management into computation workflows.| 
 
 | [webmice](https://github.com/amices/webmice) |
