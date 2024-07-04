@@ -29,6 +29,15 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
 | As part of the project "Bloed, Zweet & Praten" ("Blood, Sweat, and Talking"), during AMA-sessions at the Lowlands festival, the researchers will collect biosignals from volunteers using smart wristbands. To give the participants insight in their own heartbeat and electrodermal activity during the session, we will create graphs displaying aggregated data in near-realtime, to be displayed on tablet computers. |
 
+| [AutumnFAIR](https://github.com/UtrechtUniversity/autumn-fair) |
+| --- | 
+| **Time frame**: 02/2024 -  present |
+| **Research domain**: Faculty of Veterinary Medicine, Veterinary Epidemiology |
+| **Technologies**: Ontologies, RDF, Docker, Python, R | 
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Christine Staiger](https://www.uu.nl/staff/CStaiger), |
+| **Data Consultants**: [Stefano Rapisarda](https://www.uu.nl/medewerkers/SRapisarda) |
+| The autumnFAIR project is a a follow up on the summerFAIR project. It aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We improve on the previously built pipeline which maps data to a shared vocabulary and perform integrated analyses. | 
+
 | Lichess chess data |
 | --- | 
 | **Time frame**: 04/2024 - present |
@@ -185,15 +194,13 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Roos Voorvaart](https://github.com/RVoor) |
 | Twitter forms a rich source of information for researchers interested in studying 'the public conversation'. The Academic Research product track is designed to serve the needs of the academic research community. It provides researchers with special levels of access to public Twitter data without any cost. This project is aimed to help researchers to use the Academic Research product track to collect tweets of their interest and analyze them. | 
 
-
-| [AutumnFAIR](https://github.com/UtrechtUniversity/autumn-fair) |
+| [SummerFAIR](https://github.com/UtrechtUniversity/summer-fair) |
 | --- | 
-| **Time frame**: 02/2024 -  |
+| **Time frame**: 02/2021 - 02/2023 |
 | **Research domain**: Faculty of Veterinary Medicine, Veterinary Epidemiology |
-| **Technologies**: Ontologies, RDF, Docker, Python, R | 
-| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Christine Staiger](https://www.uu.nl/staff/CStaiger), |
-| **Data Consultants**: [Stefano Rapisarda](https://www.uu.nl/medewerkers/SRapisarda) |
-| The autumnFAIR project is a a follow up on the summerFAIR project. It aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We improve on the previously built pipeline which maps data to a shared vocabulary and perform integrated analyses. | 
+| **Technologies**: Semantic Web, Ontologies, RDF, Docker, Python, R | 
+| **Research Engineers**: [Martine de Vos](https://www.uu.nl/staff/MGdeVos), [Christine Staiger](https://www.uu.nl/staff/CStaiger) |
+| The summerFAIR project aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We have developed a pipeline based to map data to a shared vocabulary, convert them to linked data triples and perform integrated analyses. | 
 
 | [Crunchbase](https://github.com/UtrechtUniversity/ia-webscraping) |
 | --- | 
