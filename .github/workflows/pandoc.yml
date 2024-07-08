@@ -28,6 +28,13 @@ jobs:
             --self-contained
             --output=output/projects.html
             docs/projects.md
+
+      - name: Find and Replace
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "<th>"
+          replace: "<th class=\"yellow\">"
+          include: "output/projects.html" 
       - uses: actions/upload-artifact@v3
         with:
           name: html
