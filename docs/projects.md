@@ -257,7 +257,8 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Faculty of Social and Behavioural Sciences |
 | **Technologies**: Shiny, R | 
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi) |
-| An application, developed in collaboration with the ODISSEI Social Data Science Team (SoDa), designed for clinical settings to score dynamics in empathy. It involves asking specific questions, after which the results are visualized. This visualization aids clinicians in promptly identifying and asking the most relevant questions
+| An application, developed in collaboration with the ODISSEI Social Data Science Team (SoDa), designed for clinical settings to score dynamics in empathy. It involves asking specific questions, after which the results are visualized. This visualization aids clinicians in promptly identifying and asking the most relevant questions |
+
 | Deviance in Art |
 | --- |
 | **Time frame**: 02/2022 - 04/2022 |
