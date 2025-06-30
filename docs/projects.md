@@ -10,7 +10,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 05/2024 - present |
 | **Research domain**: Faculty of Geosciences |
 | **Technologies**: Workflow frameworks, SnakeMake, Nextflow, CWL | 
-| **Research Engineers**: [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram)  |
+| **Research Engineers**: [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram)  |
 | The research project concerns the reconstruction of the geological history of the earth. The researchers have many small software components, some of which are created by the research team itself, others inherited from other groups. We are helping them make this process more automated and less error prone by implementing their workflows using a workflow framework. |
 
 | Workflows for Genetic analysis in Veterinary Sciences |
@@ -20,7 +20,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Workflow frameworks, Galaxy | 
 | **Research Engineers**: [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto)  |
 | The researchers are conducting research on the influence of genetics on dog diseases. This uses many different pieces of software and generates huge amounts of data. Many of the researchers are not programmers, which is why we are implementing the Galaxy workflow framework. This framework will enable researchers to use a graphical user interface to set the parameters of their analysis and run it. |
-
 
 | Mental-health-recovery |
 | --- | 
@@ -55,14 +54,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Data Consultants**: [Stefano Rapisarda](https://www.uu.nl/medewerkers/SRapisarda) |
 | The autumnFAIR project is a a follow up on the summerFAIR project. It aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We improve on the previously built pipeline which maps data to a shared vocabulary and perform integrated analyses. | 
 
-| Lichess chess data |
-| --- | 
-| **Time frame**: 04/2024 - present |
-| **Research domain**: Faculty of Social and Behavioural Sciences |
-| **Technologies**: Python, Parquet, big data, S3 |
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
-| Downloading and postprocessing data of over 5 billion chess matches from Lichess.org, making the data available for future research. |
-
 | IMAGE Materials |
 | --- | 
 | **Time frame**: 04/2024 - present |
@@ -70,22 +61,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Software Engineering | 
 | **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer) | 
 | This project aims to contribute to the development of an integrated energy and material model within the IMAGE framework. An existing Python implementation needs to be adapted to fit the Object Oriented Programming style of prism to be connected to the IMAGE energy model and subsequently the IMAGE framework to assess the energy material interactions. | 
-
-| HTA |
-| --- | 
-| **Time frame**: 11/2023 - present |
-| **Research domain**: Pharmaceutical Sciences (Faculty of Science)|
-| **Technologies**: Python, NLP, Generative AI| 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
-| In this project, we aim to create a centralized database by aggregating data points extracted from Health Technology Assessment documents. Our goal is to streamline and enhance the document labeling process through automation. |
-
-| Seedlists |
-| --- | 
-| **Time frame**: 10/2023 - present |
-| **Research domain**: Botanical Gardens |
-| **Technologies**: Python, OCR, Plant taxonomy | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
-| The Botanical Gardens has a collection of historical seed lists dating back to 1837, in the form of PDF's and scanned documents. The project aims to help unlock the information in these seedlists and make it available to researchers, enabling them to study collection policies over the centuries and detect possible effects of climate change on the collection. Ideally, the project results in a pipeline that can be used by other botanical institutes. |
 
 | PSE |
 | --- |
@@ -110,14 +85,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Speech recognition |
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep)|
 | We helped several researchers to transcribe large amounts of audio data (~100k hours) using WhisperX (large-v2), a fast implementation of the Whisper model from OpenAI. For these projects we made use of the GPUs available a the national computing infrastructures at Surf: Surf Research Cloud and the supercomputer Snellius. One of the deliverables is a workspace template for Surf Research Cloud with WhisperX preinstalled (and compatible with GPU and CUDA drivers), where users can use a template Jupyter notebook to transcribe audio data. |
-
-| Excalibur (Example sentences Calibrated for Use in Research)|
-| --- | 
-| **Time frame**: 03/2023 - present |
-| **Research domain**: Institute for Language Sciences |
-| **Technologies**: Python, machine translation, automated POS-tagging |
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
-| We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on the creation of a database with example sentences, their translation (Dutch-English), and interlinear glosses. The project includes a pipeline for extracting, correcting and annotating glosses from publications. It also aims to automatically generate translations and glosses for new, user-supplied example sentences. |
 
 | Babble |
 | --- | 
@@ -176,6 +143,39 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. | 
 
 ### Completed projects 
+
+| HTA |
+| --- | 
+| **Time frame**: 11/2023 - 04/2025 |
+| **Research domain**: Pharmaceutical Sciences (Faculty of Science)|
+| **Technologies**: Python, NLP, Generative AI| 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
+| In this project, we aim to create a centralized database by aggregating data points extracted from Health Technology Assessment documents. Our goal is to streamline and enhance the document labeling process through automation. |
+
+| Seedlists |
+| --- | 
+| **Time frame**: 10/2023 - 01/2025 |
+| **Research domain**: Botanical Gardens |
+| **Technologies**: Python, OCR, Plant taxonomy | 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
+| The Botanical Gardens has a collection of historical seed lists dating back to 1837, in the form of PDF's and scanned documents. The project aims to help unlock the information in these seedlists and make it available to researchers, enabling them to study collection policies over the centuries and detect possible effects of climate change on the collection. Ideally, the project results in a pipeline that can be used by other botanical institutes. |
+
+| Lichess chess data |
+| --- | 
+| **Time frame**: 04/2024 - 12/2024 |
+| **Research domain**: Faculty of Social and Behavioural Sciences |
+| **Technologies**: Python, Parquet, big data, S3 |
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
+| Downloading and postprocessing data of over 5 billion chess matches from Lichess.org, making the data available for future research. |
+
+| Excalibur (Example sentences Calibrated for Use in Research)|
+| --- | 
+| **Time frame**: 03/2023 - 09/2024 |
+| **Research domain**: Institute for Language Sciences |
+| **Technologies**: Python, machine translation, automated POS-tagging |
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
+| We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on the creation of a database with example sentences, their translation (Dutch-English), and interlinear glosses. The project includes a pipeline for extracting, correcting and annotating glosses from publications. It also aims to automatically generate translations and glosses for new, user-supplied example sentences. |
+
 
 | [Precision Nudging](https://github.com/UtrechtUniversity/nudging) |
 | --- | 
