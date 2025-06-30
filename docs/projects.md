@@ -5,6 +5,38 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| Large-scale scoping review for Young people's geographies |
+| --- | 
+| **Time frame**: 06/2025 - present |
+| **Research domain**: Human Geography and Spatial Planning (Social Geography and Planology) |
+| **Technologies**: LLM, Python, data extraction, Zotero | 
+| **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
+| The researcher is developing a framework for young people's geographies, aiming to put young people's perspective as the central perspective. We assist with creating software pipeline for computer-assisted qualitative text analysis for this large-scale scoping review. This software will analyze a large body of literature (as PDFs) to extract relevant meta-data. Additionally, we will help with automated tagging documents in a Zotero-instance. |
+
+| Interactive Dashboard for Users of the YOUth dataset |
+| --- | 
+| **Time frame**: 05/2025 - present |
+| **Research domain**: Institute for Language Sciences |
+| **Technologies**: Python, Javascript, data visualization | 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
+| To enhance the findability and accessibility of the dataset from the [YOUth project](https://youthonderzoek.nl/) cohort studies, we participatre with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on a project to restructure and enhance the YOUth website and data catalogue. |
+
+| Recovering LanguageLink databases |
+| --- | 
+| **Time frame**: 05/2025 - present |
+| **Research domain**: Institute for Language Sciences |
+| **Technologies**: Python, MySQL/MariaDB, SQL, Cross-Linguistic Data Format (CLDF) | 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
+| We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on extracting the data from old linguistic databases from the [LanguageLink project](https://languagelink.sites.uu.nl/). While the technologies used in the LanguageLink project are now largely obsolete, the data is still of potential value to researchers. As part of the extraction process, we convert the data to Cross-Linguistic Data Format, to enhance access and reusability. |
+
+| Mapping Pesticide Exposure |
+| --- | 
+| **Time frame**: 11/2024 - present |
+| **Research domain**: Institute for Risk Assessment Sciences (part of the faculty of Veterinary Sciences) |
+| **Technologies**: R, Python, parallellization | 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep)  |
+| The project aims to model the possible exposure to pesticides of residential housing in The Netherlands. The reseaechers developed their model in R; we are helping porting the code to Python, with a focus on enhancing performance as to increase scalability. |
+
 | Workflows for Earth Sciences |
 | --- | 
 | **Time frame**: 05/2024 - present |
@@ -144,11 +176,19 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Completed projects 
 
-| HTA |
+| GAIM app back-end |
+| --- | 
+| **Time frame**: 09/2024 - 06/2025 |
+| **Research domain**: Copernicus Institute for Sustainable Development |
+| **Technologies**: Python, API, OpenShift | 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
+| The GAIM project aims to inform, empower, and research user-oriented sustainable energy systems. As part of a gamification effort, and app was developed to engage individual households. We developed the API and helped develop the database and data retrieval protiocols that feeds it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+
+| Health Technology Assessment |
 | --- | 
 | **Time frame**: 11/2023 - 04/2025 |
 | **Research domain**: Pharmaceutical Sciences (Faculty of Science)|
-| **Technologies**: Python, NLP, Generative AI| 
+| **Technologies**: Python, NLP, Generative AI | 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
 | In this project, we aim to create a centralized database by aggregating data points extracted from Health Technology Assessment documents. Our goal is to streamline and enhance the document labeling process through automation. |
 
