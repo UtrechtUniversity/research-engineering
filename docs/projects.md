@@ -19,7 +19,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Institute for Language Sciences |
 | **Technologies**: Python, Javascript, data visualization | 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
-| To enhance the findability and accessibility of the dataset from the [YOUth project](https://youthonderzoek.nl/) cohort studies, we participatre with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on a project to restructure and enhance the YOUth website and data catalogue. |
+| To enhance the findability and accessibility of the dataset from the [YOUth project](https://youthonderzoek.nl/) cohort studies, we collaborated with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on a project to restructure and enhance the YOUth website and data catalogue. |
 
 | Recovering LanguageLink databases |
 | --- | 
