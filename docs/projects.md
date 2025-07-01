@@ -35,7 +35,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Institute for Risk Assessment Sciences (part of the faculty of Veterinary Sciences) |
 | **Technologies**: R, Python, parallellization | 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep)  |
-| The project aims to model the possible exposure to pesticides of residential housing in The Netherlands. The reseaechers developed their model in R; we are helping porting the code to Python, with a focus on enhancing performance as to increase scalability. |
+| The project aims to model the possible exposure to pesticides of residential housing in The Netherlands. The researchers developed their model in R; we are helping porting the code to Python, with a focus on enhancing performance as to increase scalability. |
 
 | Workflows for Earth Sciences |
 | --- | 
