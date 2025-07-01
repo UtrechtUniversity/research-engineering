@@ -11,7 +11,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research domain**: Human Geography and Spatial Planning (Social Geography and Planology) |
 | **Technologies**: LLM, Python, data extraction, Zotero | 
 | **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
-| The researcher is developing a framework for young people's geographies, aiming to put young people's perspective as the central perspective. We assist with creating software pipeline for computer-assisted qualitative text analysis for this large-scale scoping review. This software will analyze a large body of literature (as PDFs) to extract relevant meta-data. Additionally, we will help with automated tagging documents in a Zotero-instance. |
+| The researcher is developing a framework for young people's geographies, aiming to put young people's perspective in the center. We assist with creating software pipeline for computer-assisted qualitative text analysis for this large-scale scoping review. This software will analyze a large body of literature (as PDFs) to extract relevant meta-data. Additionally, we will help with automated tagging documents in a Zotero-instance. |
 
 | Interactive Dashboard for Users of the YOUth dataset |
 | --- | 
