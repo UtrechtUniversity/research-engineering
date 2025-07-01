@@ -41,7 +41,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | --- | 
 | **Time frame**: 05/2024 - present |
 | **Research domain**: Faculty of Geosciences |
-| **Technologies**: Workflow frameworks, SnakeMake, Nextflow, CWL | 
+| **Technologies**: Workflow frameworks, SnakeMake | 
 | **Research Engineers**: [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram)  |
 | The research project concerns the reconstruction of the geological history of the earth. The researchers have many small software components, some of which are created by the research team itself, others inherited from other groups. We are helping them make this process more automated and less error prone by implementing their workflows using a workflow framework. |
 
