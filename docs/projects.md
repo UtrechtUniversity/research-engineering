@@ -10,7 +10,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame**: 05/2025 - present |
 | **Research domain**:  Risk Assessment Sciences |
 | **Technologies**: Python, Visualization, Yoda | 
-| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) | [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) | [Arjan Mossel](https://www.uu.nl/staff/AMossel) |
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Arjan Mossel](https://www.uu.nl/staff/AMossel) |
 | The Neurotoxicology Research Group at the Institute for Risk Assessment Sciences (IRAS) investigates the effects of environmental chemicals on brain function using microelectrode array (MEA) technology. This technique generates large-scale electrophysiological data (terabytes in size) by recording neuronal activity across multiple exposure scenarios, concentrations, and time points. Currently, data processing relies on inefficient MS Excel macros. The aim of this project is to develop an automated workflow for processing, analyzing, and visualizing these complex data. This will enhance efficiency, enable clear and effective visual representation for both scientific and general audiences, and facilitate pattern recognition for chemical effects. The processed data and visualizations will be integrated into a user-friendly database for better data tracking and accessibility.
 |
 
