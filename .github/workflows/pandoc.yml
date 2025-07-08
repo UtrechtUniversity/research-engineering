@@ -35,7 +35,7 @@ jobs:
           find: "<th>"
           replace: "<th class=\"yellow\">"
           include: "output/projects.html" 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: html
           path: output
