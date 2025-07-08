@@ -17,7 +17,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | --- | 
 | **Time frame**: 05/2025 - present |
 | **Research domain**: Population Health Sciences |
-| **Technologies**: R, Visualisation | 
+| **Technologies**: R, Visualization | 
 | **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
 | In this project we explore different ways of visualizing of microbiome multi-omics datasets. Multi-omics data contain a high density of information which currently can only be visualized either through elaborate 3D animations or through a lot of different 2D images which can be confusing to the reader and with which not all correlations in the data can be detected. To ensure that the outcomes of this exploratory project are reusable, scalable, and valuable to the broader microbiome research community, we aim to develop an R package or an R Shiny application that provides functions for effective data visualization.|
 
