@@ -120,7 +120,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 | [Kickstarter](https://github.com/UtrechtUniversity/kickstarter) |
 | --- |
-| **Time frame**: 06/2023 - present |
+| **Time frame**: 06/2023 - 10/2024 |
 | **Research domain**: Economic Geography (Faculty of Geosciences) |
 | **Technologies**: Generative AI |
 | **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
