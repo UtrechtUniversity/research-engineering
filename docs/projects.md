@@ -61,22 +61,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram)  |
 | The research project concerns the reconstruction of the geological history of the earth. The researchers have many small software components, some of which are created by the research team itself, others inherited from other groups. We are helping them make this process more automated and less error prone by implementing their workflows using a workflow framework. |
 
-| Workflows for Genetic analysis in Veterinary Sciences |
-| --- | 
-| **Time frame**: 05/2024 - present |
-| **Research domain**: Faculty of Veterinary Sciences |
-| **Technologies**: Workflow frameworks, Galaxy | 
-| **Research Engineers**: [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto)  |
-| The researchers are conducting research on the influence of genetics on dog diseases. This uses many different pieces of software and generates huge amounts of data. Many of the researchers are not programmers, which is why we are implementing the Galaxy workflow framework. This framework will enable researchers to use a graphical user interface to set the parameters of their analysis and run it. |
-
-| Mental-health-recovery |
-| --- | 
-| **Time frame**: 07/2024 - present |
-| **Research domain**: Faculty of Social and Behavioural Sciences |
-| **Technologies**: Python, Data harmonization, Data transformation, Machine learning | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
-| This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
-
 | Interest |
 | --- | 
 | **Time frame**: 02/2024 - present |
@@ -184,6 +168,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Completed projects 
 
+| Mental-health-recovery |
+| --- | 
+| **Time frame**: 07/2024 - 07/2025 |
+| **Research domain**: Faculty of Social and Behavioural Sciences |
+| **Technologies**: Python, Data harmonization, Data transformation, Machine learning | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
+| This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
+
 | GAIM app back-end |
 | --- | 
 | **Time frame**: 09/2024 - 06/2025 |
@@ -191,6 +183,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, API, OpenShift | 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
 | The GAIM project aims to inform, empower, and research user-oriented sustainable energy systems. As part of a gamification effort, and app was developed to engage individual households. We developed the API and helped develop the database and data retrieval protiocols that feeds it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+
+| Workflows for Genetic analysis in Veterinary Sciences |
+| --- | 
+| **Time frame**: 05/2024 - 05/2025 |
+| **Research domain**: Faculty of Veterinary Sciences |
+| **Technologies**: Workflow frameworks, Galaxy | 
+| **Research Engineers**: [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto)  |
+| The researchers are conducting research on the influence of genetics on dog diseases. This uses many different pieces of software and generates huge amounts of data. Many of the researchers are not programmers, which is why we are implementing the Galaxy workflow framework. This framework will enable researchers to use a graphical user interface to set the parameters of their analysis and run it. |
 
 | Health Technology Assessment |
 | --- | 
