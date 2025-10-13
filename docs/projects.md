@@ -5,6 +5,16 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+|NTX - Data organisation and treansfer to new Yoda instance|
+|---|
+| **Time frame**: 09/2025 - present |
+| **Research domain**:  DGK, Data management |
+| **Technologies**: Python, iBridges, Yoda |
+| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger)
+| The project came in through Bertil in the course of reducing costs for Yoda users, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
+Next to that it is an educative project. The research group needs some more skills in the technical handling of their data between their local storage (NAS) and Yoda.
+|
+
 | Neurotoxicology - Data Visualization|
 | --- | 
 | **Time frame**: 05/2025 - present |
