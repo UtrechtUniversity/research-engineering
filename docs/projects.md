@@ -13,14 +13,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Arjan Mossel](https://www.uu.nl/staff/AMossel) |
 | The Neurotoxicology Research Group at the Institute for Risk Assessment Sciences (IRAS) investigates the effects of environmental chemicals on brain function using microelectrode array (MEA) technology. This technique generates large-scale electrophysiological data (terabytes in size) by recording neuronal activity across multiple exposure scenarios, concentrations, and time points. Currently, data processing relies on inefficient MS Excel macros. The aim of this project is to develop an automated workflow for processing, analyzing, and visualizing these complex data. This will enhance efficiency, enable clear and effective visual representation for both scientific and general audiences, and facilitate pattern recognition for chemical effects. The processed data and visualizations will be integrated into a user-friendly database for better data tracking and accessibility.|
 
-| Microbiome - Multiomics visualization |
-| --- | 
-| **Time frame**: 05/2025 - present |
-| **Research domain**: Population Health Sciences |
-| **Technologies**: R, Visualization | 
-| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
-| In this project we explore different ways of visualizing of microbiome multi-omics datasets. Multi-omics data contain a high density of information which currently can only be visualized either through elaborate 3D animations or through a lot of different 2D images which can be confusing to the reader and with which not all correlations in the data can be detected. To ensure that the outcomes of this exploratory project are reusable, scalable, and valuable to the broader microbiome research community, we aim to develop an R package or an R Shiny application that provides functions for effective data visualization.|
-
 | Large-scale scoping review for Young people's geographies |
 | --- | 
 | **Time frame**: 06/2025 - present |
@@ -183,6 +175,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. | 
 
 ### Completed projects 
+
+| Microbiome - Multiomics visualization |
+| --- | 
+| **Time frame**: 05/2025 - 10/2025 |
+| **Research domain**: Population Health Sciences |
+| **Technologies**: R, Visualization | 
+| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
+| In this project we explore different ways of visualizing of microbiome multi-omics datasets. Multi-omics data contain a high density of information which currently can only be visualized either through elaborate 3D animations or through a lot of different 2D images which can be confusing to the reader and with which not all correlations in the data can be detected. To ensure that the outcomes of this exploratory project are reusable, scalable, and valuable to the broader microbiome research community, we aim to develop an R package or an R Shiny application that provides functions for effective data visualization.|
 
 | GAIM app back-end |
 | --- | 
