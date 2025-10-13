@@ -70,21 +70,13 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram)  |
 | The research project concerns the reconstruction of the geological history of the earth. The researchers have many small software components, some of which are created by the research team itself, others inherited from other groups. We are helping them make this process more automated and less error prone by implementing their workflows using a workflow framework. |
 
-| Workflows for Genetic analysis in Veterinary Sciences |
+| Interest |
 | --- | 
-| **Time frame**: 05/2024 - present |
-| **Research domain**: Faculty of Veterinary Sciences |
-| **Technologies**: Workflow frameworks, Galaxy | 
-| **Research Engineers**: [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto)  |
-| The researchers are conducting research on the influence of genetics on dog diseases. This uses many different pieces of software and generates huge amounts of data. Many of the researchers are not programmers, which is why we are implementing the Galaxy workflow framework. This framework will enable researchers to use a graphical user interface to set the parameters of their analysis and run it. |
-
-| Mental-health-recovery |
-| --- | 
-| **Time frame**: 07/2024 - present |
-| **Research domain**: Faculty of Social and Behavioural Sciences |
-| **Technologies**: Python, Data harmonization, Data transformation, Machine learning | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
-| This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
+| **Time frame**: 02/2024 - present |
+| **Research domain**: Faculty of Humanities, History and Art History |
+| **Technologies**: Python, NLP, Deep learning, Huggingface Transformers | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
+| This project builds upon the  [hist-aware](https://github.com/UtrechtUniversity/hist-aware) project in response to its relatively unsatisfactory results. It aims to establish reliable new standards for (historical) sentiment analysis of newspaper data by applying and evaluating multiple approaches on the same case study. |
 
 | Biosignal-data visualisation |
 | --- | 
@@ -194,6 +186,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) | 
 | The aim of this project is to investigatate the conceptual history of a certain topic in a collection of texts. To this end we work on Dutch language models for historical research. The current available language models for Dutch (at time of writing) fall short for historical research, because they are trained only on recent data. The performance of models declines steadily when applied to data that lies outside of the distribution of the training on corpora. | 
 
+| Mental-health-recovery |
+| --- | 
+| **Time frame**: 07/2024 - 07/2025 |
+| **Research domain**: Faculty of Social and Behavioural Sciences |
+| **Technologies**: Python, Data harmonization, Data transformation, Machine learning | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
+| This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
+
 | GAIM app back-end |
 | --- | 
 | **Time frame**: 09/2024 - 06/2025 |
@@ -201,6 +201,14 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, API, OpenShift | 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
 | The GAIM project aims to inform, empower, and research user-oriented sustainable energy systems. As part of a gamification effort, and app was developed to engage individual households. We developed the API and helped develop the database and data retrieval protiocols that feeds it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+
+| Workflows for Genetic analysis in Veterinary Sciences |
+| --- | 
+| **Time frame**: 05/2024 - 05/2025 |
+| **Research domain**: Faculty of Veterinary Sciences |
+| **Technologies**: Workflow frameworks, Galaxy | 
+| **Research Engineers**: [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto)  |
+| The researchers are conducting research on the influence of genetics on dog diseases. This uses many different pieces of software and generates huge amounts of data. Many of the researchers are not programmers, which is why we are implementing the Galaxy workflow framework. This framework will enable researchers to use a graphical user interface to set the parameters of their analysis and run it. |
 
 | Health Technology Assessment |
 | --- | 
@@ -234,7 +242,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
 | We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on the creation of a database with example sentences, their translation (Dutch-English), and interlinear glosses. The project includes a pipeline for extracting, correcting and annotating glosses from publications. It also aims to automatically generate translations and glosses for new, user-supplied example sentences. |
 
-
 | [Precision Nudging](https://github.com/UtrechtUniversity/nudging) |
 | --- | 
 | **Time frame**: 04/2021 - 11/2023 |
@@ -242,7 +249,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, machine learning, regression analysis, synthetic data | 
 | **Research Engineers**: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
 | Changing behavior is necessary to tackle societal problems, such as obesity and financial problems. One way to change behavior is by nudging people. A nudge is a way to change behavior without prohibiting options or changing its costs. However, nudges are often one-size-fits-all techniques: everyone is offered the same nudge. The scientific aim of this project is to use open data to develop predictive models with Machine Learning, in order to determine the most effective nudge for persons, given the nudging goal and the individual personal circumstances. To test our models, we created realistic synthetic data. |
-
 
 | [Hyde](https://github.com/UtrechtUniversity/hyde-code) |
 | --- | 
@@ -259,7 +265,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, Machine Learning, Computer Vision, Visual Transformers, Docker | 
 | **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
 | We are using recent computer vision models based on Visual Transformers for semantic segmentation, assigning semantic classes such as "street", "vegetation" and "water" to the pixels of photos taken in the urban environment. This will be used for further research into the effect of the presence of water bodies and vegetation on human well-being. Follow-up to the [Streetview greenery](#streetview_1) project. | 
-
 
 | [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector) |
 | --- | 
