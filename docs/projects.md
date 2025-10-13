@@ -12,16 +12,23 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: Python, iBridges, Yoda |
 | **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger)
 | The project came in through Bertil in the course of reducing costs for Yoda users, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
-Next to that it is an educative project. The research group needs some more skills in the technical handling of their data between their local storage (NAS) and Yoda.
-|
+Next to that it is an educative project. The research group needs some more skills in the technical handling of their data between their local storage (NAS) and Yoda. |
 
-| Neurotoxicology - Data Visualization|
+| Noise exposure|
+|---------------| 
+| **Time frame**: 09/2025 - present |
+| **Research domain**: Urban Geography / Environmental Geography |
+| **Technologies**: R, geospatial data, PostgreSQL/PostGIS | 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) , [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
+| In the Noise exposure project, we aim to run a noise exposure model, developed by a PhD student, for all addresses in Europe. While the model has been applied before, the results contained substantial missing data, likely due to computational limitations. The current input data alone amounts to around 0.5 TB, making the task highly demanding in terms of computation and storage. This project seeks to process the data and execute the model at the European scale, ensuring complete and reliable results. |
+
+| Neurotoxicology - Data Visualization |
 | --- | 
 | **Time frame**: 05/2025 - present |
 | **Research domain**:  Risk Assessment Sciences |
 | **Technologies**: Python, Visualization, Yoda | 
 | **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Arjan Mossel](https://www.uu.nl/staff/AMossel) |
-| The Neurotoxicology Research Group at the Institute for Risk Assessment Sciences (IRAS) investigates the effects of environmental chemicals on brain function using microelectrode array (MEA) technology. This technique generates large-scale electrophysiological data (terabytes in size) by recording neuronal activity across multiple exposure scenarios, concentrations, and time points. Currently, data processing relies on inefficient MS Excel macros. The aim of this project is to develop an automated workflow for processing, analyzing, and visualizing these complex data. This will enhance efficiency, enable clear and effective visual representation for both scientific and general audiences, and facilitate pattern recognition for chemical effects. The processed data and visualizations will be integrated into a user-friendly database for better data tracking and accessibility.|
+| The Neurotoxicology Research Group at the Institute for Risk Assessment Sciences (IRAS) investigates the effects of environmental chemicals on brain function using microelectrode array (MEA) technology. This technique generates large-scale electrophysiological data (terabytes in size) by recording neuronal activity across multiple exposure scenarios, concentrations, and time points. Currently, data processing relies on inefficient MS Excel macros. The aim of this project is to develop an automated workflow for processing, analyzing, and visualizing these complex data. This will enhance efficiency, enable clear and effective visual representation for both scientific and general audiences, and facilitate pattern recognition for chemical effects. The processed data and visualizations will be integrated into a user-friendly database for better data tracking and accessibility. |
 
 | Large-scale scoping review for Young people's geographies |
 | --- | 
@@ -63,22 +70,6 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram)  |
 | The research project concerns the reconstruction of the geological history of the earth. The researchers have many small software components, some of which are created by the research team itself, others inherited from other groups. We are helping them make this process more automated and less error prone by implementing their workflows using a workflow framework. |
 
-| Workflows for Genetic analysis in Veterinary Sciences |
-| --- | 
-| **Time frame**: 05/2024 - present |
-| **Research domain**: Faculty of Veterinary Sciences |
-| **Technologies**: Workflow frameworks, Galaxy | 
-| **Research Engineers**: [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto)  |
-| The researchers are conducting research on the influence of genetics on dog diseases. This uses many different pieces of software and generates huge amounts of data. Many of the researchers are not programmers, which is why we are implementing the Galaxy workflow framework. This framework will enable researchers to use a graphical user interface to set the parameters of their analysis and run it. |
-
-| Mental-health-recovery |
-| --- | 
-| **Time frame**: 07/2024 - present |
-| **Research domain**: Faculty of Social and Behavioural Sciences |
-| **Technologies**: Python, Data harmonization, Data transformation, Machine learning | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
-| This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
-
 | Interest |
 | --- | 
 | **Time frame**: 02/2024 - present |
@@ -105,11 +96,11 @@ Next to that it is an educative project. The research group needs some more skil
 | The autumnFAIR project is a a follow up on the summerFAIR project. It aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We improve on the previously built pipeline which maps data to a shared vocabulary and perform integrated analyses. | 
 
 | IMAGE Materials |
-| --- | 
+|-----------------| 
 | **Time frame**: 04/2024 - present |
 | **Research domain**: Faculty of Geosciences |
 | **Technologies**: Python, Software Engineering | 
-| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer) | 
+| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi)| 
 | This project aims to contribute to the development of an integrated energy and material model within the IMAGE framework. An existing Python implementation needs to be adapted to fit the Object Oriented Programming style of prism to be connected to the IMAGE energy model and subsequently the IMAGE framework to assess the energy material interactions. | 
 
 | PSE |
@@ -160,14 +151,6 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Raoul Schram](https://www.uu.nl/staff/RDSchram), Ken Krige | 
 | In this project we are developing methods to help researchers to improve the understanding of threats and soothers for people with a central sensitivity syndrome (i.e., irritable bowel syndrome, fibromyalgia, or chronic fatigue syndrome). Threats create experiences of danger, harm, damage, or unsafety and may worsen patients' physical symptoms. Soothers on the other hand create feelings of calmness, well-being, safety, or social connectedness and that may alleviate patients' physical symptoms. We are dealing with multiple topics and short texts in this project. |
 
-| Semantics of Sustainability |
-| --- | 
-| **Time frame**: 07/2022 - present |
-| **Research domain**: Faculty of Humanities, History and Art History |
-| **Technologies**: Python, NLP, BERT, Deep learning, Huggingface Transformers | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi)| 
-| The aim of this project is to investigatate the conceptual history of a certain topic in a collection of texts. To this end we work on Dutch language models for historical research. The current available language models for Dutch (at time of writing) fall short for historical research, because they are trained only on recent data. The performance of models declines steadily when applied to data that lies outside of the distribution of the training on corpora. | 
-
 | [metasyn](https://github.com/sodascience/metasyn) |
 | --- | 
 | **Time frame**: 04/2022 - present |
@@ -184,6 +167,15 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Maarten Schermer](https://github.com/maartenschermer) | 
 | We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. | 
 
+
+| [Interest](https://github.com/UtrechtUniversity/historical-news-sentiment) |
+|----------------------------------| 
+| **Time frame**: 02/2024 - present|
+| **Research domain**: Faculty of Humanities, History and Art History |
+| **Technologies**: Python, NLP, Deep learning, Huggingface Transformers | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
+| This project builds upon the  [hist-aware](https://github.com/UtrechtUniversity/hist-aware) project in response to its relatively unsatisfactory results. It aims to establish reliable new standards for (historical) sentiment analysis of newspaper data by applying and evaluating multiple approaches on the same case study. |
+
 ### Completed projects 
 
 | Microbiome - Multiomics visualization |
@@ -193,6 +185,21 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies**: R, Visualization | 
 | **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
 | In this project we explore different ways of visualizing of microbiome multi-omics datasets. Multi-omics data contain a high density of information which currently can only be visualized either through elaborate 3D animations or through a lot of different 2D images which can be confusing to the reader and with which not all correlations in the data can be detected. To ensure that the outcomes of this exploratory project are reusable, scalable, and valuable to the broader microbiome research community, we aim to develop an R package or an R Shiny application that provides functions for effective data visualization.|
+| [Semantics of Sustainability] (https://github.com/Semantics-of-Sustainability/tempo-embeddings)|
+|----------------------------------| 
+| **Time frame**: 07/2022 - 03/2025 |
+| **Research domain**: Faculty of Humanities, History and Art History |
+| **Technologies**: Python, NLP, BERT, Deep learning, Huggingface Transformers | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) | 
+| The aim of this project is to investigatate the conceptual history of a certain topic in a collection of texts. To this end we work on Dutch language models for historical research. The current available language models for Dutch (at time of writing) fall short for historical research, because they are trained only on recent data. The performance of models declines steadily when applied to data that lies outside of the distribution of the training on corpora. | 
+
+| Mental-health-recovery |
+| --- | 
+| **Time frame**: 07/2024 - 07/2025 |
+| **Research domain**: Faculty of Social and Behavioural Sciences |
+| **Technologies**: Python, Data harmonization, Data transformation, Machine learning | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
+| This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
 
 | GAIM app back-end |
 | --- | 
@@ -201,6 +208,14 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies**: Python, API, OpenShift | 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
 | The GAIM project aims to inform, empower, and research user-oriented sustainable energy systems. As part of a gamification effort, and app was developed to engage individual households. We developed the API and helped develop the database and data retrieval protiocols that feeds it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+
+| Workflows for Genetic analysis in Veterinary Sciences |
+| --- | 
+| **Time frame**: 05/2024 - 05/2025 |
+| **Research domain**: Faculty of Veterinary Sciences |
+| **Technologies**: Workflow frameworks, Galaxy | 
+| **Research Engineers**: [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto)  |
+| The researchers are conducting research on the influence of genetics on dog diseases. This uses many different pieces of software and generates huge amounts of data. Many of the researchers are not programmers, which is why we are implementing the Galaxy workflow framework. This framework will enable researchers to use a graphical user interface to set the parameters of their analysis and run it. |
 
 | Health Technology Assessment |
 | --- | 
@@ -234,7 +249,6 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
 | We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on the creation of a database with example sentences, their translation (Dutch-English), and interlinear glosses. The project includes a pipeline for extracting, correcting and annotating glosses from publications. It also aims to automatically generate translations and glosses for new, user-supplied example sentences. |
 
-
 | [Precision Nudging](https://github.com/UtrechtUniversity/nudging) |
 | --- | 
 | **Time frame**: 04/2021 - 11/2023 |
@@ -242,7 +256,6 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies**: Python, machine learning, regression analysis, synthetic data | 
 | **Research Engineers**: [Haili Hu](https://www.uu.nl/medewerkers/HHu2), [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
 | Changing behavior is necessary to tackle societal problems, such as obesity and financial problems. One way to change behavior is by nudging people. A nudge is a way to change behavior without prohibiting options or changing its costs. However, nudges are often one-size-fits-all techniques: everyone is offered the same nudge. The scientific aim of this project is to use open data to develop predictive models with Machine Learning, in order to determine the most effective nudge for persons, given the nudging goal and the individual personal circumstances. To test our models, we created realistic synthetic data. |
-
 
 | [Hyde](https://github.com/UtrechtUniversity/hyde-code) |
 | --- | 
@@ -259,7 +272,6 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies**: Python, Machine Learning, Computer Vision, Visual Transformers, Docker | 
 | **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Maarten Schermer](https://github.com/maartenschermer) |
 | We are using recent computer vision models based on Visual Transformers for semantic segmentation, assigning semantic classes such as "street", "vegetation" and "water" to the pixels of photos taken in the urban environment. This will be used for further research into the effect of the presence of water bodies and vegetation on human well-being. Follow-up to the [Streetview greenery](#streetview_1) project. | 
-
 
 | [tweet_collector](https://github.com/UtrechtUniversity/tweet_collector) |
 | --- | 
