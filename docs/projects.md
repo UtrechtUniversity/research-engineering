@@ -22,6 +22,15 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) , [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
 | In the Noise exposure project, we aim to run a noise exposure model, developed by a PhD student, for all addresses in Europe. While the model has been applied before, the results contained substantial missing data, likely due to computational limitations. The current input data alone amounts to around 0.5 TB, making the task highly demanding in terms of computation and storage. This project seeks to process the data and execute the model at the European scale, ensuring complete and reliable results. |
 
+|IMAU-FDM - Firn densification model |
+|---|
+| **Time frame**: 06/2025 - present |
+| **Research domain**:  BETA (Dynamics Meteorology) |
+| **Technologies**: Fortran, Python, MPI |
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
+| The project came in through the open call. The IMAU Firn Densification Model (IMAU-FDM) models the transformation of snow to ice, and is primarily used to compute firn (old snow) densification over Greenland and Antarctica. The model is written Fortran 90, and the supporting structure (for e.g., launching jobs on the ECMWF supercomputer) is written in korn/bash and slurm. There is some post-processing and QA 
+written in Python. Our tasks: implement CI, make the model run on any machine, fix the job distributor and improve efficiency and modularity of the Fortran code. |
+
 | Neurotoxicology - Data Visualization |
 | --- | 
 | **Time frame**: 05/2025 - present |
