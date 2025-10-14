@@ -54,6 +54,14 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
 | We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on extracting the data from old linguistic databases from the [LanguageLink project](https://languagelink.sites.uu.nl/). While the technologies used in the LanguageLink project are now largely obsolete, the data is still of potential value to researchers. As part of the extraction process, we convert the data to Cross-Linguistic Data Format, to enhance access and reusability. |
 
+|IPD-MA - Analysis of clinical data on side-effects|
+|---|
+| **Time frame**: 03/2025 - present |
+| **Research domain**:  Pharmacology, Data management |
+| **Technologies**: SANE, Python, iBridges, Yoda |
+| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
+| This project was accepted as part of the open call. The research group will analyze sensitive data on drug side-effects from various sources (other universities/hospitals) and aggregate the results into an (anonymized) dataset. There are data sharing agreements in place, in which it is stipulated that sensitive data will be stored in Yoda and analyzed only in SANE. We help with SANE setup, training, and developing analysis scripts. |
+
 | Mapping Pesticide Exposure |
 | --- | 
 | **Time frame**: 11/2024 - present |
