@@ -28,8 +28,7 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research domain**:  BETA (Dynamics Meteorology) |
 | **Technologies**: Fortran, Python, MPI |
 | **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
-| The project came in through the open call. The IMAU Firn Densification Model (IMAU-FDM) models the transformation of snow to ice, and is primarily used to compute firn (old snow) densification over Greenland and Antarctica. The model is written Fortran 90, and the supporting structure (for e.g., launching jobs on the ECMWF supercomputer) is written in korn/bash and slurm. There is some post-processing and QA 
-written in Python. Our tasks: implement CI, make the model run on any machine, fix the job distributor and improve efficiency and modularity of the Fortran code. |
+| The project came in through the open call. The IMAU Firn Densification Model (IMAU-FDM) models the transformation of snow to ice, and is primarily used to compute firn (old snow) densification over Greenland and Antarctica. This project aims to 1) modularize the fortran code, 2) rewrite the job distributor and improving the code's efficiency, 3) implement CI with GitHub Actions, and 4) implement FAIR software good practices. |
 
 | Neurotoxicology - Data Visualization |
 | --- | 
@@ -69,7 +68,7 @@ written in Python. Our tasks: implement CI, make the model run on any machine, f
 | **Research domain**:  Pharmacology, Data management |
 | **Technologies**: SANE, Python, iBridges, Yoda |
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
-| This project was accepted as part of the open call. The research group will analyze sensitive data on drug side-effects from various sources (other universities/hospitals) and aggregate the results into an (anonymized) dataset. There are data sharing agreements in place, in which it is stipulated that sensitive data will be stored in Yoda and analyzed only in SANE. We help with SANE setup, training, and developing analysis scripts. |
+| This project was accepted as part of the open call. The research group will analyze sensitive data on medication-related harm (MRH) from various sources (other universities/hospitals) and aggregate the results into an (anonymized) dataset. This project aims to develop a platform using the SURF Secure ANalysis Environment (SANE) to provide secure access to the data. The project entails setting up a connection to Yoda, preinstalling data analysis tools and packages and develop user documentation and training material to onboard project members. |
 
 | Mapping Pesticide Exposure |
 | --- | 
@@ -135,30 +134,6 @@ written in Python. Our tasks: implement CI, make the model run on any machine, f
 | **Technologies**: Generative AI |
 | **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
 | We use generative AI (OpenAI's ChatGPT API) to assign industry codes ([NAICS](https://www.census.gov/naics/)) to Kickstarter projects. [Kickstarter](https://www.kickstarter.com/) is a crowdfunding website for raising money for creative projects. We are working with [dr. Nicola Cortinovis](https://www.uu.nl/staff/NCortinovis) who is using this information to investigate whether Kickstarter projects contribute to local economic growth at the county level in the United States, for various industry sectors. |
-
-| [WhisperX VRE](https://utrechtuniversity.github.io/vre-docs/docs/workspaces/whisper.html) |
-| --- |
-| **Time frame**: 06/2023 - present |
-| **Research domain**: Faculty of Humanities |
-| **Technologies**: Speech recognition |
-| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep)|
-| We helped several researchers to transcribe large amounts of audio data (~100k hours) using WhisperX (large-v2), a fast implementation of the Whisper model from OpenAI. For these projects we made use of the GPUs available a the national computing infrastructures at Surf: Surf Research Cloud and the supercomputer Snellius. One of the deliverables is a workspace template for Surf Research Cloud with WhisperX preinstalled (and compatible with GPU and CUDA drivers), where users can use a template Jupyter notebook to transcribe audio data. |
-
-| Babble |
-| --- | 
-| **Time frame**: 01/2023 - present |
-| **Research domain**: Faculty of Humanities |
-| **Technologies**: Python, Speech classification, Machine learning| 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
-| Collaboration with [dr. Sita ter Haar](https://www.uu.nl/medewerkers/SMterHaar) and [dr. Heysem Kaya](https://www.uu.nl/staff/HKaya) on automated processing and classification of audio recordings from the [YOUth project](https://youthonderzoek.nl/). |
-
-| [Cognitive Mapping](https://github.com/Fesch-star/cognitivemapr) |
-| --- | 
-| **Time frame**: 03/2023 - present |
-| **Research domain**: Faculty of Law, Economics and Governance |
-| **Technologies**: R, CRAN, Packaging, CI, testing | 
-| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
-| In this project in collaboration with the University Library we give small scale support for publishing an R package on CRAN. The package contains tools for Cognitive mapping analysis developed by [Prof. Femke van Esch](https://www.uu.nl/staff/FAWJvanEsch). |
 
 | Soothreat |
 | --- | 
@@ -242,6 +217,14 @@ written in Python. Our tasks: implement CI, make the model run on any machine, f
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
 | In this project, we aim to create a centralized database by aggregating data points extracted from Health Technology Assessment documents. Our goal is to streamline and enhance the document labeling process through automation. |
 
+| [Cognitive Mapping](https://github.com/Fesch-star/cognitivemapr) |
+| --- | 
+| **Time frame**: 03/2023 - 02/2025 |
+| **Research domain**: Faculty of Law, Economics and Governance |
+| **Technologies**: R, CRAN, Packaging, CI, testing | 
+| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
+| In this project in collaboration with the University Library we give small scale support for publishing an R package on CRAN. The package contains tools for Cognitive mapping analysis developed by [Prof. Femke van Esch](https://www.uu.nl/staff/FAWJvanEsch). |
+
 | Seedlists |
 | --- | 
 | **Time frame**: 10/2023 - 01/2025 |
@@ -265,6 +248,14 @@ written in Python. Our tasks: implement CI, make the model run on any machine, f
 | **Technologies**: Python, machine translation, automated POS-tagging |
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
 | We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on the creation of a database with example sentences, their translation (Dutch-English), and interlinear glosses. The project includes a pipeline for extracting, correcting and annotating glosses from publications. It also aims to automatically generate translations and glosses for new, user-supplied example sentences. |
+
+| [WhisperX VRE](https://utrechtuniversity.github.io/vre-docs/docs/workspaces/whisper.html) |
+| --- |
+| **Time frame**: 06/2023 - 06/2024 |
+| **Research domain**: Faculty of Humanities |
+| **Technologies**: Speech recognition |
+| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep)|
+| We helped several researchers to transcribe large amounts of audio data (~100k hours) using WhisperX (large-v2), a fast implementation of the Whisper model from OpenAI. For these projects we made use of the GPUs available a the national computing infrastructures at Surf: Surf Research Cloud and the supercomputer Snellius. One of the deliverables is a workspace template for Surf Research Cloud with WhisperX preinstalled (and compatible with GPU and CUDA drivers), where users can use a template Jupyter notebook to transcribe audio data. |
 
 | [Precision Nudging](https://github.com/UtrechtUniversity/nudging) |
 | --- | 
