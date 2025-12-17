@@ -5,15 +5,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
-|NTX - Data organisation and treansfer to new Yoda instance|
-|---|
-| **Time frame**: 09/2025 - present |
-| **Research domain**:  DGK, Data management |
-| **Technologies**: Python, iBridges, Yoda |
-| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger)
-| The project came in through Bertil in the course of reducing costs for Yoda users, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
-Next to that it is an educative project. The research group needs some more skills in the technical handling of their data between their local storage (NAS) and Yoda. |
-
 | Noise exposure|
 |---------------| 
 | **Time frame**: 09/2025 - present |
@@ -21,6 +12,15 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies**: R, geospatial data, PostgreSQL/PostGIS | 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) , [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
 | In the Noise exposure project, we aim to run a noise exposure model, developed by a PhD student, for all addresses in Europe. While the model has been applied before, the results contained substantial missing data, likely due to computational limitations. The current input data alone amounts to around 0.5 TB, making the task highly demanding in terms of computation and storage. This project seeks to process the data and execute the model at the European scale, ensuring complete and reliable results. |
+
+|NTX - Data organisation and transfer to new Yoda instance|
+|---|
+| **Time frame**: 09/2025 - present |
+| **Research domain**:  DGK, Data management |
+| **Technologies**: Python, iBridges, Yoda |
+| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger)
+| The aim of the project is to help Yoda users reducing costs, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
+Next to that it is an educative project. The research group needs some more skills in the technical handling of their data between their local storage (NAS) and Yoda. |
 
 |IMAU-FDM - Firn densification model |
 |---|
