@@ -17,8 +17,6 @@ When we were asked to assist, we re-ran the model for a small sample area and we
 | **Technologies** | R, geospatial data, PostGIS, paralellization | 
 | **Project links** | [GitHub](https://github.com/UtrechtUniversity/research-engineering) |
 
-| In the Noise exposure project, we aim to run a noise exposure model, developed by a PhD student, for all addresses in Europe. While the model has been applied before, the results contained substantial missing data, . The current input data alone amounts to around 0.5 TB, making the task highly demanding in terms of computation and storage. This project seeks to process the data and execute the model at the European scale, ensuring complete and reliable results. |
-
 |NTX - Data organisation and transfer to new Yoda instance|
 |---|
 | **Time frame**: 09/2025 - present |
