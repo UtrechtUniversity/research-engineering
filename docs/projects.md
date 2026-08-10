@@ -4,14 +4,18 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 
 ### Current projects
-
-| Noise exposure|
-|---------------| 
-| **Time frame**: 09/2025 - present |
-| **Research domain**: Urban Geography / Environmental Geography |
-| **Technologies**: R, geospatial data, PostgreSQL/PostGIS | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) , [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
-| In the Noise exposure project, we aim to run a noise exposure model, developed by a PhD student, for all addresses in Europe. While the model has been applied before, the results contained substantial missing data, likely due to computational limitations. The current input data alone amounts to around 0.5 TB, making the task highly demanding in terms of computation and storage. This project seeks to process the data and execute the model at the European scale, ensuring complete and reliable results. |
+| **Internal reference name** | Noise exposure |
+| --- | --- |
+| **Project headline** | Streamlining the modelling of traffic noise exposure for all home addresses in the EU |
+| **Time frame** | September 2025 - August 2026 |
+| **Project description** | A PhD student working for the Institute for Risk Assessment Sciences (IRAS) developed an implementation of CNOSSOS-EU, the EU's Common Noise Assessment Methods in Europe, modelling exposure to traffic noise for homes in the EU. In general the model worked well, but researchers doing follow-up work discovered significant, unexplained gaps in the output, which they theorized to be the result of computational limitations during modelling. A second issue was the occurrence of instances of multiple, conflicting output values for the same house.
+<br> <br>
+When we were asked to assist, we re-ran the model for a small sample area and were able to reproduce the problem while staying safely within  computational limits, which lead us to believe the cause lay elsewhere. While streamlining and optimising the code, we identified several issues, both in the code, and in part of the source data and its handling. After fixing these issues and extensively testing the updated version, the researcher concluded the model's output to be complete and correct, and the program to be more reliable in edge-cases. Subsequently, we ran the model for the entirety of The Netherlands with satisfactory results. |
+| **Research domain** | Institute for Risk Assessment Sciences (Veterinary Medicine, Department Population Health Sciences) |
+| **Researcher(s)** | [Lloyd Roga](https://www.uu.nl/staff/LQRoga), [Zimbo Boudewijns](www.uu.nl/medewerkers/ZSRMBoudewijns) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
+| **Technologies** | R, geospatial data, PostGIS, paralellization | 
+| **Project links** | [GitHub](https://github.com/UtrechtUniversity/research-engineering) |
 
 |NTX - Data organisation and transfer to new Yoda instance|
 |---|
@@ -194,13 +198,18 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
 | This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
 
-| GAIM app back-end |
-| --- | 
-| **Time frame**: 09/2024 - 06/2025 |
-| **Research domain**: Copernicus Institute for Sustainable Development |
-| **Technologies**: Python, API, OpenShift | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
-| The GAIM project aims to inform, empower, and research user-oriented sustainable energy systems. As part of a gamification effort, and app was developed to engage individual households. We developed the API and helped develop the database and data retrieval protiocols that feeds it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+| **Internal reference name** | GAIM app back-end |
+| --- | --- |
+| **Project headline** | Providing the back-end for an consumer-facing app as part of the GAIM-project |
+| **Time frame** | September 2024 - August 2026 |
+| **Project description** | 
+The GAIM project aims to inform, empower, and research the use of user-oriented sustainable energy systems. As part of a gamification effort, an app to engage individual households was developed by an external partner. The researchers were looking for a back-end that could provide current energy prices, solar power potential, and other relevant data, harvested from different sources, to a consumer-facing app in a scalable and reliable manner. As part of the solution we designed and developed an API, and helped create the database and data retrieval protocols that feed it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform.
+<br /> A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+| **Research domain** | Copernicus Institute for Sustainable Development |
+| **Researcher(s)** | [Hossein Nasrollahi](https://www.uu.nl/medewerkers/HNasrollahi), [Ioannis Lampropoulos](https://www.uu.nl/medewerkers/ILampropoulos) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
+| **Technologies** | Python, API, OpenShift | 
+| **Project links** | [GAIM: Langdurige empowerment met energie-applicaties door inclusief game-ontwerp, kunstmatige intelligentie en systeemmodellen](https://www.uu.nl/onderzoek/copernicus-institute-of-sustainable-development/gaim-langdurige-empowerment-met-energie-applicaties-door-inclusief-game-ontwerp-kunstmatige), [GitHub](https://github.com/UtrechtUniversity/gaim-api) |
 
 | Workflows for Genetic analysis in Veterinary Sciences |
 | --- | 
