@@ -4,14 +4,20 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 
 ### Current projects
+| **Internal reference name** | Noise exposure |
+| --- | --- |
+| **Project headline** | Streamlining the modelling of traffic noise exposure for all home addresses in the EU |
+| **Time frame** | September 2025 - August 2026 |
+| **Project description** | A PhD student working for the Institute for Risk Assessment Sciences (IRAS) developed an implementation of CNOSSOS-EU, the EU's Common Noise Assessment Methods in Europe, modelling exposure to traffic noise for homes in the EU. In general the model worked well, but researchers doing follow-up work discovered significant, unexplained gaps in the output, which they theorized to be the result of computational limitations during modelling. A second issue was the occurrence of instances of multiple, conflicting output values for the same house.
+<br> <br>
+When we were asked to assist, we re-ran the model for a small sample area and were able to reproduce the problem while staying safely within  computational limits, which lead us to believe the cause lay elsewhere. While streamlining and optimising the code, we identified several issues, both in the code, and in part of the source data and its handling. After fixing these issues and extensively testing the updated version, the researcher concluded the model's output to be complete and correct, and the program to be more reliable in edge-cases. Subsequently, we ran the model for the entirety of The Netherlands with satisfactory results. |
+| **Research domain** | Institute for Risk Assessment Sciences (Veterinary Medicine, Department Population Health Sciences) |
+| **Researcher(s)** | [Lloyd Roga](https://www.uu.nl/staff/LQRoga), [Zimbo Boudewijns](www.uu.nl/medewerkers/ZSRMBoudewijns) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
+| **Technologies** | R, geospatial data, PostGIS, paralellization | 
+| **Project links** | [GitHub](https://github.com/UtrechtUniversity/research-engineering) |
 
-| Noise exposure|
-|---------------| 
-| **Time frame**: 09/2025 - present |
-| **Research domain**: Urban Geography / Environmental Geography |
-| **Technologies**: R, geospatial data, PostgreSQL/PostGIS | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) , [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
-| In the Noise exposure project, we aim to run a noise exposure model, developed by a PhD student, for all addresses in Europe. While the model has been applied before, the results contained substantial missing data, likely due to computational limitations. The current input data alone amounts to around 0.5 TB, making the task highly demanding in terms of computation and storage. This project seeks to process the data and execute the model at the European scale, ensuring complete and reliable results. |
+| In the Noise exposure project, we aim to run a noise exposure model, developed by a PhD student, for all addresses in Europe. While the model has been applied before, the results contained substantial missing data, . The current input data alone amounts to around 0.5 TB, making the task highly demanding in terms of computation and storage. This project seeks to process the data and execute the model at the European scale, ensuring complete and reliable results. |
 
 |NTX - Data organisation and transfer to new Yoda instance|
 |---|
