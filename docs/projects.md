@@ -198,13 +198,18 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
 | This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
 
-| GAIM app back-end |
-| --- | 
-| **Time frame**: 09/2024 - 06/2025 |
-| **Research domain**: Copernicus Institute for Sustainable Development |
-| **Technologies**: Python, API, OpenShift | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
-| The GAIM project aims to inform, empower, and research user-oriented sustainable energy systems. As part of a gamification effort, and app was developed to engage individual households. We developed the API and helped develop the database and data retrieval protiocols that feeds it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+| **Internal reference name** | GAIM app back-end |
+| --- | --- |
+| **Project headline** | Providing the back-end for an consumer-facing app as part of the GAIM-project |
+| **Time frame** | September 2024 - August 2026 |
+| **Project description** | 
+The GAIM project aims to inform, empower, and research the use of user-oriented sustainable energy systems. As part of a gamification effort, an app to engage individual households was developed by an external partner. The researchers were looking for a back-end that could provide current energy prices, solar power potential, and other relevant data, harvested from different sources, to a consumer-facing app in a scalable and reliable manner. As part of the solution we designed and developed an API, and helped create the database and data retrieval protocols that feed it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform.
+<br /> A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+| **Research domain** | Copernicus Institute for Sustainable Development |
+| **Researcher(s)** | [Hossein Nasrollahi](https://www.uu.nl/medewerkers/HNasrollahi), [Ioannis Lampropoulos](https://www.uu.nl/medewerkers/ILampropoulos) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
+| **Technologies** | Python, API, OpenShift | 
+| **Project links** | [GAIM: Langdurige empowerment met energie-applicaties door inclusief game-ontwerp, kunstmatige intelligentie en systeemmodellen](https://www.uu.nl/onderzoek/copernicus-institute-of-sustainable-development/gaim-langdurige-empowerment-met-energie-applicaties-door-inclusief-game-ontwerp-kunstmatige), [GitHub](https://github.com/UtrechtUniversity/gaim-api) |
 
 | Workflows for Genetic analysis in Veterinary Sciences |
 | --- | 
