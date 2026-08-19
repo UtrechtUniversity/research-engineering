@@ -5,6 +5,54 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| **Internal reference name** | Data extraction from Oxford Dictionary of National Biography (XML) |
+| --- | --- |
+| **Project headline** | Extracting data from historical biographies for research on social status |
+| **Time frame** | September 2025 - present |
+| **Project description** | [Prof. M. van Leeuwen](https://www.uu.nl/staff/MHDvanLeeuwen), Professor in historical sociology studies determinants of social status using the Oxford Dictionary of National Biography (ODNB). The ODNB dataset for this study contains biographies of ~40k persons in XML format. To be able to do this research, various potential determinants have to be extracted from the XML files. Prof. van Leeuwen approached us for help in accomplishing this, as the research group lacks the programming skills, as well as skills for using computational infrastructures and AI. In this project we develop a data extraction algorithm using a combination of classical text mining and AI. Because the dataset is proprietary, we use a self hosted LLM for this.  |
+| **Research domain** | History, Sociology |
+| **Researcher(s)** | [Prof. M. van Leeuwen](https://www.uu.nl/staff/MHDvanLeeuwen) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer) , [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
+| **Technologies** | Python, data extraction with AI, cloud computing | 
+| **Project links** |  |
+| **Origin story** | The researcher was forwarded to us by the Ditigal Humanities team. |
+
+| **Internal reference name** | Pesticide Exposure |
+| --- | --- |
+| **Project headline** | Mapping Pesticide Exposure |
+| **Time frame** | 11/2024 - present |
+| **Project description** | [A. Friedman, MSc](https://www.uu.nl/staff/AFriedman1) contacted us to scale out simulations using the pesticide exposure model he developed in R from a few houses to all houses in the Netherlands. Furthermore, the long term ambition is to integrate the model into a larger framework with multiple components. Because of the rich ecosystem of popular geospatial (e.g. `GeoPandas`) as well as parallel computing libraries (e.g. `multiprocessing`) in Python, we ported the R scripts to a modular Python project under version control. The new algorithm scales well on High Performance Computing systems where it can utilize thousands of processors at the same time, reducing runtime from months to a few days. Besides, it follows best practices in software development such as modular design principles, making it easier to integrate with other components in a modelling framework. |
+| **Research domain** | Institute for Risk Assessment Sciences (part of the faculty of Veterinary Sciences) |
+| **Researcher(s)** | [A. Friedman, MSc](https://www.uu.nl/staff/AFriedman1), [Dr. D.M. Figueiredo](https://www.uu.nl/staff/DMFigueiredo)
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep)  |
+| **Technologies**: R, Python, parallellization | 
+| **Origin story** | The researcher initially contacted us for setting up a VRE environment to run the R script on a powerful cloud system. It turned out the initial script was not scaling well and a redesing was needed to enable large scale model runs. |
+
+
+| **Internal reference name** | IPD-MA |
+| --- | --- |
+| **Project headline** | Developing a platform for the analysis of clinical data on medical related harm |
+| **Time frame** | 03/2025 - present |
+| **Project description** | [Dr. D.L. Weir](https://www.uu.nl/medewerkers/DLWeir) has received an Open Science Infra grant to develop a platform for analyzing sensitive data on medication-related harm (MRH). The data will come from various sources (other universities/hospitals) and will be aggregated into an (anonymized) dataset. This project aims to develop a platform using the SURF Secure ANalysis Environment (SANE) to provide secure harmonizing of the data by the data management team, and access to the harmonized dataset for end users. The project entails setting up integration with Yoda, preinstalling data analysis tools and packages and develop user documentation and training material to onboard project members. |
+| **Research domain** | Pharmacology, Data management |
+| **Researcher(s)** | [Dr. D.L. Weir](https://www.uu.nl/medewerkers/DLWeir) |
+| **Research Engineers** | [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto) |
+| **Technologies**| SANE, Python, iBridges, Yoda |
+| **Origin story** | This project was accepted as part of the open call for Research Engineering projects. |
+
+| **Internal reference name** | IMAU-FDM - Firn densification model |
+| --- | --- |
+| **Project headline** | Future proofing the IMAU Firn Densification Model |
+| **Time frame**| 06/2025 - 06/2026 |
+| **Project description** | [Dr. E. Case](https://elizabethcase.github.io/) works with the [IMAU Firn Densification Model (IMAU-FDM)](https://github.com/IMAU-ice-and-climate/IMAU-FDM). The IMAU-FDM models the transformation of snow to ice, and is primarily used to compute firn (old snow) densification over Greenland and Antarctica. [Dr. E. Case](https://elizabethcase.github.io/) contacted us with the ambition to turn the IMAU-FDM, into an up-to-date, well documented, and easy to maintain and run Fortran project. This was an very interesting request as we tend to assume that Fortran projects are often outdated and less actively maintained legacy code from the 1990s, although Fortran is still one of the most performant programming languages. Throughout this project we mainly acted as consultants on best practices in software development, version control, model configuration and Continuous Integration (CI). We also did development work, e.g. CI, implementing a new parallel framework using MPI and configuration using TOML files. 
+| **Research domain** |  BETA (Dynamics Meteorology) |
+| **Researcher(s)** | [Dr. E. Case](https://elizabethcase.github.io/), [Dr. P. Kuipers Munneke](https://www.uu.nl/medewerkers/PKuipersMunneke) |
+| **Research Engineers** | [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto) |
+| **Technologies** | Fortran, Python, MPI |
+| **Origin story** | This project was accepted as part of the open call for Research Engineering projects. |
+
+
+
 | Noise exposure|
 |---------------| 
 | **Time frame**: 09/2025 - present |
@@ -62,21 +110,7 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
 | We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on extracting the data from old linguistic databases from the [LanguageLink project](https://languagelink.sites.uu.nl/). While the technologies used in the LanguageLink project are now largely obsolete, the data is still of potential value to researchers. As part of the extraction process, we convert the data to Cross-Linguistic Data Format, to enhance access and reusability. |
 
-|IPD-MA - Analysis of clinical data on side-effects|
-|---|
-| **Time frame**: 03/2025 - present |
-| **Research domain**:  Pharmacology, Data management |
-| **Technologies**: SANE, Python, iBridges, Yoda |
-| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
-| This project was accepted as part of the open call. The research group will analyze sensitive data on medication-related harm (MRH) from various sources (other universities/hospitals) and aggregate the results into an (anonymized) dataset. This project aims to develop a platform using the SURF Secure ANalysis Environment (SANE) to provide secure access to the data. The project entails setting up a connection to Yoda, preinstalling data analysis tools and packages and develop user documentation and training material to onboard project members. |
 
-| Mapping Pesticide Exposure |
-| --- | 
-| **Time frame**: 11/2024 - present |
-| **Research domain**: Institute for Risk Assessment Sciences (part of the faculty of Veterinary Sciences) |
-| **Technologies**: R, Python, parallellization | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep)  |
-| The project aims to model the possible exposure to pesticides of residential housing in The Netherlands. The researchers developed their model in R; we are helping porting the code to Python, with a focus on enhancing performance as to increase scalability. |
 
 | Workflows for Earth Sciences |
 | --- | 
