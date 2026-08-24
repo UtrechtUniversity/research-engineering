@@ -130,14 +130,17 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Completed projects 
 
-|NTX - Data organisation and transfer to new Yoda instance|
-|---|
-| **Time frame**: 09/2025 - 08/2026 |
-| **Research domain**:  DGK, Data management |
-| **Technologies**: Python, iBridges, Yoda |
-| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger)
-| The aim of the project is to help Yoda users reducing costs, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
+| **Internal reference name** |NTX|
+| --- | --- |
+| **Project headline** | Data organisation, removal of duplicate data and transfer to new Yoda instance|
+| **Time frame** | September 2025 - August 2026 |
+| **Research domain** |  DGK, Data management |
+| **Researcher(s)** | Pepijn Wopken |
+| **Research Engineers**: |[Christine Staiger](https://www.uu.nl/staff/CStaiger)|
+| **Technologies** | Python, iBridges, Yoda |
+| **Project description** | The aim of the project is to help Yoda users reducing costs, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
 Next to that it is an educative project. The research group needs some more skills in the technical handling of their data between their local storage (NAS) and Yoda. |
+| **Origin story** | RE was approached by Bertil Schaart| 
 
 | Workflows for Earth Sciences |
 | --- | 
