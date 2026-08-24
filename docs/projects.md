@@ -70,7 +70,7 @@ Next to that it is an educative project. The research group needs some more skil
 | **Time frame**: 05/2025 - present |
 | **Research domain**: Institute for Language Sciences |
 | **Technologies**: Python, MySQL/MariaDB, SQL, Cross-Linguistic Data Format (CLDF) | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
 | We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on extracting the data from old linguistic databases from the [LanguageLink project](https://languagelink.sites.uu.nl/). While the technologies used in the LanguageLink project are now largely obsolete, the data is still of potential value to researchers. As part of the extraction process, we convert the data to Cross-Linguistic Data Format, to enhance access and reusability. |
 
 |IPD-MA - Analysis of clinical data on side-effects|
