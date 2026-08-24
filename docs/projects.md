@@ -33,13 +33,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | The aim of the project is to help Yoda users reducing costs, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
 Next to that it is an educative project. The research group needs some more skills in the technical handling of their data between their local storage (NAS) and Yoda. |
 
-|IMAU-FDM - Firn densification model |
-|---|
-| **Time frame**: 06/2025 - present |
-| **Research domain**:  BETA (Dynamics Meteorology) |
-| **Technologies**: Fortran, Python, MPI |
-| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
-| The project came in through the open call. The IMAU Firn Densification Model (IMAU-FDM) models the transformation of snow to ice, and is primarily used to compute firn (old snow) densification over Greenland and Antarctica. This project aims to 1) modularize the fortran code, 2) rewrite the job distributor and improving the code's efficiency, 3) implement CI with GitHub Actions, and 4) implement FAIR software good practices. |
 
 | Neurotoxicology - Data Visualization |
 | --- | 
@@ -139,6 +132,25 @@ Next to that it is an educative project. The research group needs some more skil
 
 ### Completed projects 
 
+
+| GAIM app back-end |
+| --- | 
+| **Time frame**: 09/2024 - 08/2026 |
+| **Research domain**: Copernicus Institute for Sustainable Development |
+| **Technologies**: Python, API, OpenShift | 
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
+| The GAIM project aims to inform, empower, and research user-oriented sustainable energy systems. As part of a gamification effort, and app was developed to engage individual households. We developed the API and helped develop the database and data retrieval protiocols that feeds it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+
+
+|IMAU-FDM - Firn densification model |
+|---|
+| **Time frame**: 06/2025 - 06/2026 |
+| **Research domain**:  BETA (Dynamics Meteorology) |
+| **Technologies**: Fortran, Python, MPI |
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
+| The project came in through the open call. The IMAU Firn Densification Model (IMAU-FDM) models the transformation of snow to ice, and is primarily used to compute firn (old snow) densification over Greenland and Antarctica. This project aims to 1) modularize the fortran code, 2) rewrite the job distributor and improving the code's efficiency, 3) implement CI with GitHub Actions, and 4) implement FAIR software good practices. |
+
+
 | Workflows for Earth Sciences |
 | --- | 
 | **Time frame**: 05/2024 - 11/2025 |
@@ -146,6 +158,7 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies**: Workflow frameworks, SnakeMake | 
 | **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram)  |
 | The research project concerns the reconstruction of the geological history of the earth. The researchers have many small software components, some of which are created by the research team itself, others inherited from other groups. We are helping them make this process more automated and less error prone by implementing their workflows using a workflow framework. |
+
 
 | PSE |
 | --- |
@@ -179,14 +192,6 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies**: Python, Data harmonization, Data transformation, Machine learning | 
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
 | This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
-
-| GAIM app back-end |
-| --- | 
-| **Time frame**: 09/2024 - 06/2025 |
-| **Research domain**: Copernicus Institute for Sustainable Development |
-| **Technologies**: Python, API, OpenShift | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
-| The GAIM project aims to inform, empower, and research user-oriented sustainable energy systems. As part of a gamification effort, and app was developed to engage individual households. We developed the API and helped develop the database and data retrieval protiocols that feeds it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
 
 | Workflows for Genetic analysis in Veterinary Sciences |
 | --- | 
