@@ -105,14 +105,6 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
 | As part of the project "Bloed, Zweet & Praten" ("Blood, Sweat, and Talking"), during AMA-sessions at the Lowlands festival, the researchers will collect biosignals from volunteers using smart wristbands. To give the participants insight in their own heartbeat and electrodermal activity during the session, we will create graphs displaying aggregated data in near-realtime, to be displayed on tablet computers. |
 
-| IMAGE Materials |
-|-----------------| 
-| **Time frame**: 04/2024 - present |
-| **Research domain**: Faculty of Geosciences |
-| **Technologies**: Python, Software Engineering | 
-| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi)| 
-| This project aims to contribute to the development of an integrated energy and material model within the IMAGE framework. An existing Python implementation needs to be adapted to fit the Object Oriented Programming style of prism to be connected to the IMAGE energy model and subsequently the IMAGE framework to assess the energy material interactions. | 
-
 | [Kickstarter](https://github.com/UtrechtUniversity/kickstarter) |
 | --- |
 | **Time frame**: 06/2023 - 10/2024 |
@@ -137,7 +129,19 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
 | This project builds upon the  [hist-aware](https://github.com/UtrechtUniversity/hist-aware) project in response to its relatively unsatisfactory results. It aims to establish reliable new standards for (historical) sentiment analysis of newspaper data by applying and evaluating multiple approaches on the same case study. |
 
-### Completed projects 
+### Completed projects
+
+| **Internal reference name** | IMAGE Materials |
+| --------------------------- | --- |
+| **Project headline**        | Refactoring, integrating and expanding models for material demand in several sectors |
+| **Time frame**              | April 2024 - March 2025 and April 2025 - August 2026 (paid extension) |
+| **Project description**     | Two PhD students that worked on improving the materials module of the IMAGE model asked us to help them with the architecture of their module, improving the code, setting up version control and testing, and integrating their module with other parts of the IMAGE model.<br/>The module consisted of a number of sector-specific standalone Python scripts. During the project, we created a Python package that replaces these standalone scripts and refactored the code that was in there. It is now much easier to integrate new sectors in the module. Several new sectors have been and continue to be added. Models have been converted to work with the PRISM framework, developed at the PBL Netherlands Environmental Assassment Agency. IMAGE Materials still works as a standalone model, but can also be coupled with the [TIMER](https://www.pbl.nl/en/models/timer-targets-image-energy-regional-model) model. |
+| **Research domain**         | Environmental Science (Copernicus Institute of Sustainable Developent, faculty of Geosciences) |
+| **Researcher(s)**           | Luja von Köckritz, Frederike Arp, Judith Tettenborn, Marianne Zanon-Zotin, Oreane Edelenbosch |
+| **Research Engineers**      | [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
+| **Technologies**            | Python, Software Engineering |
+| **Project links**           | [Github repository](https://github.com/imagepbl/image-materials/)<br/>[Domain publication 1](https://doi.org/10.1016/j.resconrec.2025.108752)<br/>[Domain publication 2](https://doi.org/10.1088/1748-9326/ae7a92)<br/>[Methods publication (preprint)](https://doi.org/10.5194/egusphere-2026-2348)<br/>[Software publication (zenodo)](https://doi.org/10.5281/zenodo.19696714) |
+| **Origin story**            |  |
 
 | Workflows for Earth Sciences |
 | --- | 
