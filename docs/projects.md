@@ -14,7 +14,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Researcher(s)** | [Dr. Marijn Struiksma](https://www.uu.nl/medewerkers/mstruiksma) |
 | **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer), [Matty Vermet](https://www.uu.nl/medewerkers/MSVermet) |
 | **Technologies** | Python, MNE-Python, EEG/EMG data |
-| **Origin story** | How did the researcher find us for this project? |
+| **Origin story** | The researcher applied to the thematic project call on workflows, which invited UU researchers to improve and automate their data-processing and computational workflows. The call specifically focused on making research pipelines more scalable, reproducible, and reusable with support from research engineering team. |
 
 | Noise exposure|
 |---------------| 
