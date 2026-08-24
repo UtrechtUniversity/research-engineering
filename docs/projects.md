@@ -5,6 +5,17 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| **Internal reference name** | BioPAP - EEG/EMG data processing pipeline |
+| --- | --- |
+| **Project headline** | Recreating a modular EEG/EMG preprocessing pipeline with open-source tools |
+| **Time frame** | September 2025 - present |
+| **Project description** | [Dr. Marijn Struiksma](https://www.uu.nl/medewerkers/mstruiksma) currently preprocesses EEG/EMG data using BrainVision, a commercial software package used in neurophysiological research. The goal of this project is to recreate that preprocessing workflow using open-source tools, primarily MNE-Python. Because preprocessing requirements can differ between experiments and research projects, the pipeline is being developed as a modular system in which individual processing steps can be configured and added as needed. |
+| **Research domain** | Humanities, Language and Communication |
+| **Researcher(s)** | [Dr. Marijn Struiksma](https://www.uu.nl/medewerkers/mstruiksma) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer), [Matty Vermet](https://www.uu.nl/medewerkers/MSVermet) |
+| **Technologies** | Python, MNE-Python, EEG/EMG data |
+| **Origin story** | The researcher applied to the thematic project call on workflows, which invited UU researchers to improve and automate their data-processing and computational workflows. The call specifically focused on making research pipelines more scalable, reproducible, and reusable with support from research engineering team. |
+
 | Noise exposure|
 |---------------| 
 | **Time frame**: 09/2025 - present |
