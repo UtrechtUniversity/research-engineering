@@ -141,7 +141,7 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**      | [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
 | **Technologies**            | Python, Software Engineering |
 | **Project links**           | [Github repository](https://github.com/imagepbl/image-materials/)<br/>[Domain publication 1](https://doi.org/10.1016/j.resconrec.2025.108752)<br/>[Domain publication 2](https://doi.org/10.1088/1748-9326/ae7a92)<br/>[Methods publication (preprint)](https://doi.org/10.5194/egusphere-2026-2348)<br/>[Software publication (zenodo)](https://doi.org/10.5281/zenodo.19696714) |
-| **Origin story**            |  |
+| **Origin story**            | The researchers contacted us because they were interested in submitting an application for our thematic call on workflows. The project did not fit the scope of that call, but did fit our general scope. Because of this, we started it as a 'regular' project, unrelated to the thematic call. |
 
 | Workflows for Earth Sciences |
 | --- | 
