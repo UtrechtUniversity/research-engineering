@@ -9,7 +9,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | --- | --- |
 | **Project headline** | Extracting data from historical biographies for research on social status |
 | **Time frame** | September 2025 - present |
-| **Project description** | [Prof. M. van Leeuwen](https://www.uu.nl/staff/MHDvanLeeuwen), Professor in historical sociology studies determinants of social status using the Oxford Dictionary of National Biography (ODNB). The ODNB dataset for this study contains biographies of ~40k persons in XML format. To be able to do this research, various potential determinants have to be extracted from the XML files. Prof. van Leeuwen approached us for help in accomplishing this, as the research group lacks the programming skills, as well as skills for using computational infrastructures and AI. In this project we develop a data extraction algorithm using a combination of classical text mining and AI. Because the dataset is proprietary, we use a self hosted LLM for this.  |
+| **Project description** | [Prof. M. van Leeuwen](https://www.uu.nl/staff/MHDvanLeeuwen), Professor in historical sociology, studies determinants of social status using the Oxford Dictionary of National Biography (ODNB). The ODNB dataset for this study contains biographies of ~40k persons in XML format. To be able to do this research, various potential determinants have to be extracted from the XML files. Prof. van Leeuwen approached us for help in accomplishing this, as the research group lacks the programming skills, as well as skills for using computational infrastructures and AI. In this project we develop a data extraction algorithm using a combination of classical text mining and AI. Because the dataset is proprietary, we use a self hosted LLM for this.  |
 | **Research domain** | History, Sociology |
 | **Researcher(s)** | [Prof. M. van Leeuwen](https://www.uu.nl/staff/MHDvanLeeuwen) |
 | **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer) , [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
@@ -52,6 +52,16 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Origin story** | This project was accepted as part of the open call for Research Engineering projects. |
 
 
+| **Internal reference name** | BioPAP - EEG/EMG data processing pipeline |
+| --- | --- |
+| **Project headline** | Recreating a modular EEG/EMG preprocessing pipeline with open-source tools |
+| **Time frame** | September 2025 - present |
+| **Project description** | [Dr. Marijn Struiksma](https://www.uu.nl/medewerkers/mstruiksma) currently preprocesses EEG/EMG data using BrainVision, a commercial software package used in neurophysiological research. The goal of this project is to recreate that preprocessing workflow using open-source tools, primarily MNE-Python. Because preprocessing requirements can differ between experiments and research projects, the pipeline is being developed as a modular system in which individual processing steps can be configured and added as needed. |
+| **Research domain** | Humanities, Language and Communication |
+| **Researcher(s)** | [Dr. Marijn Struiksma](https://www.uu.nl/medewerkers/mstruiksma) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer), [Matty Vermet](https://www.uu.nl/medewerkers/MSVermet) |
+| **Technologies** | Python, MNE-Python, EEG/EMG data |
+| **Origin story** | The researcher applied to the thematic project call on workflows, which invited UU researchers to improve and automate their data-processing and computational workflows. The call specifically focused on making research pipelines more scalable, reproducible, and reusable with support from research engineering team. |
 
 | Noise exposure|
 |---------------| 
@@ -60,23 +70,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies**: R, geospatial data, PostgreSQL/PostGIS | 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) , [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
 | In the Noise exposure project, we aim to run a noise exposure model, developed by a PhD student, for all addresses in Europe. While the model has been applied before, the results contained substantial missing data, likely due to computational limitations. The current input data alone amounts to around 0.5 TB, making the task highly demanding in terms of computation and storage. This project seeks to process the data and execute the model at the European scale, ensuring complete and reliable results. |
-
-|NTX - Data organisation and transfer to new Yoda instance|
-|---|
-| **Time frame**: 09/2025 - present |
-| **Research domain**:  DGK, Data management |
-| **Technologies**: Python, iBridges, Yoda |
-| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger)
-| The aim of the project is to help Yoda users reducing costs, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
-Next to that it is an educative project. The research group needs some more skills in the technical handling of their data between their local storage (NAS) and Yoda. |
-
-|IMAU-FDM - Firn densification model |
-|---|
-| **Time frame**: 06/2025 - present |
-| **Research domain**:  BETA (Dynamics Meteorology) |
-| **Technologies**: Fortran, Python, MPI |
-| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
-| The project came in through the open call. The IMAU Firn Densification Model (IMAU-FDM) models the transformation of snow to ice, and is primarily used to compute firn (old snow) densification over Greenland and Antarctica. This project aims to 1) modularize the fortran code, 2) rewrite the job distributor and improving the code's efficiency, 3) implement CI with GitHub Actions, and 4) implement FAIR software good practices. |
 
 | Neurotoxicology - Data Visualization |
 | --- | 
@@ -107,18 +100,10 @@ Next to that it is an educative project. The research group needs some more skil
 | **Time frame**: 05/2025 - present |
 | **Research domain**: Institute for Language Sciences |
 | **Technologies**: Python, MySQL/MariaDB, SQL, Cross-Linguistic Data Format (CLDF) | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
+| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
 | We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on extracting the data from old linguistic databases from the [LanguageLink project](https://languagelink.sites.uu.nl/). While the technologies used in the LanguageLink project are now largely obsolete, the data is still of potential value to researchers. As part of the extraction process, we convert the data to Cross-Linguistic Data Format, to enhance access and reusability. |
 
 
-
-| Workflows for Earth Sciences |
-| --- | 
-| **Time frame**: 05/2024 - present |
-| **Research domain**: Faculty of Geosciences |
-| **Technologies**: Workflow frameworks, SnakeMake | 
-| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram)  |
-| The research project concerns the reconstruction of the geological history of the earth. The researchers have many small software components, some of which are created by the research team itself, others inherited from other groups. We are helping them make this process more automated and less error prone by implementing their workflows using a workflow framework. |
 
 | Interest |
 | --- | 
@@ -136,15 +121,6 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
 | As part of the project "Bloed, Zweet & Praten" ("Blood, Sweat, and Talking"), during AMA-sessions at the Lowlands festival, the researchers will collect biosignals from volunteers using smart wristbands. To give the participants insight in their own heartbeat and electrodermal activity during the session, we will create graphs displaying aggregated data in near-realtime, to be displayed on tablet computers. |
 
-| [AutumnFAIR](https://github.com/UtrechtUniversity/autumn-fair) |
-| --- | 
-| **Time frame**: 02/2024 -  present |
-| **Research domain**: Faculty of Veterinary Medicine, Veterinary Epidemiology |
-| **Technologies**: Ontologies, RDF, Docker, Python, R | 
-| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Christine Staiger](https://www.uu.nl/staff/CStaiger), |
-| **Data Consultants**: [Stefano Rapisarda](https://www.uu.nl/medewerkers/SRapisarda) |
-| The autumnFAIR project is a a follow up on the summerFAIR project. It aims to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We improve on the previously built pipeline which maps data to a shared vocabulary and perform integrated analyses. | 
-
 | IMAGE Materials |
 |-----------------| 
 | **Time frame**: 04/2024 - present |
@@ -152,14 +128,6 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies**: Python, Software Engineering | 
 | **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Roel Brouwer](https://www.uu.nl/staff/RJJBrouwer), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi)| 
 | This project aims to contribute to the development of an integrated energy and material model within the IMAGE framework. An existing Python implementation needs to be adapted to fit the Object Oriented Programming style of prism to be connected to the IMAGE energy model and subsequently the IMAGE framework to assess the energy material interactions. | 
-
-| PSE |
-| --- |
-| **Time frame**: 07/2023 - present |
-| **Research domain**: Faculty of Science | 
-| **Technologies**: Python, Jax, packaging |
-| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
-| We are collaborating with [William Torre](https://www.uu.nl/staff/KWTorre) to revive a molecular dynamics simulation plugin. We will put the functionality of the plugin into its own standalone package that will be much easier to install than the current state of the project. |
 
 | [Kickstarter](https://github.com/UtrechtUniversity/kickstarter) |
 | --- |
@@ -169,30 +137,13 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
 | We use generative AI (OpenAI's ChatGPT API) to assign industry codes ([NAICS](https://www.census.gov/naics/)) to Kickstarter projects. [Kickstarter](https://www.kickstarter.com/) is a crowdfunding website for raising money for creative projects. We are working with [dr. Nicola Cortinovis](https://www.uu.nl/staff/NCortinovis) who is using this information to investigate whether Kickstarter projects contribute to local economic growth at the county level in the United States, for various industry sectors. |
 
-| Soothreat |
-| --- | 
-| **Time frame**: 12/2022 - present |
-| **Research domain**: Clinical Psychology |
-| **Technologies**: Python, Machine Learning, Natural Language Processing, Topic Modeling, LDA | 
-| **Research Engineers**: [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Raoul Schram](https://www.uu.nl/staff/RDSchram), Ken Krige | 
-| In this project we are developing methods to help researchers to improve the understanding of threats and soothers for people with a central sensitivity syndrome (i.e., irritable bowel syndrome, fibromyalgia, or chronic fatigue syndrome). Threats create experiences of danger, harm, damage, or unsafety and may worsen patients' physical symptoms. Soothers on the other hand create feelings of calmness, well-being, safety, or social connectedness and that may alleviate patients' physical symptoms. We are dealing with multiple topics and short texts in this project. |
-
 | [metasyn](https://github.com/sodascience/metasyn) |
 | --- | 
 | **Time frame**: 04/2022 - present |
 | **Research domain**: Department of Methodology & Statistics |
 | **Technologies**: Python, Machine Learning, Synthetic data, Privacy | 
-| **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram) | 
+| **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) | 
 | Privacy and proper disclosure control is a hot topic at the moment. This project aims to create a standard to share statistical information and generate synthetic data. Metasyn fits a distribution to each of the variables, while it also generates a synthetic dataset from this information. In between, there is a generative metadata file that contains the condensed information as a human-readable JSON file. | 
-
-| [Breakthrough patents](https://github.com/UtrechtUniversity/patent-breakthrough) |
-| --- | 
-| **Time frame**: 06/2022 - present |
-| **Research domain**: Faculty of Law, Economics and Governance |
-| **Technologies**: Python, Machine Learning, Natural Language Processing, BERT, TfIdf | 
-| **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Maarten Schermer](https://github.com/maartenschermer) | 
-| We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. | 
-
 
 | [Interest](https://github.com/UtrechtUniversity/historical-news-sentiment) |
 |----------------------------------| 
@@ -203,6 +154,35 @@ Next to that it is an educative project. The research group needs some more skil
 | This project builds upon the  [hist-aware](https://github.com/UtrechtUniversity/hist-aware) project in response to its relatively unsatisfactory results. It aims to establish reliable new standards for (historical) sentiment analysis of newspaper data by applying and evaluating multiple approaches on the same case study. |
 
 ### Completed projects 
+
+| **Internal reference name** |NTX|
+| --- | --- |
+| **Project headline** | Data organisation, removal of duplicate data and transfer to new Yoda instance|
+| **Time frame** | September 2025 - August 2026 |
+| **Research domain** |  DGK, Data management |
+| **Researcher(s)** | Pepijn Wopken |
+| **Research Engineers**: |[Christine Staiger](https://www.uu.nl/staff/CStaiger)|
+| **Technologies** | Python, iBridges, Yoda |
+| **Project description** | The aim of the project is to help Yoda users reducing costs, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
+Next to that it is an educative project. The research group needs  more skills in the technical handling of their data between their local storage (NAS) and Yoda. |
+| **Origin story** | RE was approached by Bertil Schaart| 
+
+| Workflows for Earth Sciences |
+| --- | 
+| **Time frame**: 05/2024 - 11/2025 |
+| **Research domain**: Faculty of Geosciences |
+| **Technologies**: Workflow frameworks, SnakeMake | 
+| **Research Engineers**: [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Raoul Schram](https://www.uu.nl/staff/RDSchram)  |
+| The research project concerns the reconstruction of the geological history of the earth. The researchers have many small software components, some of which are created by the research team itself, others inherited from other groups. We are helping them make this process more automated and less error prone by implementing their workflows using a workflow framework. |
+
+| PSE |
+| --- |
+| **Time frame**: 07/2023 - 10/2025 |
+| **Research domain**: Faculty of Science | 
+| **Technologies**: Python, Jax, packaging |
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
+| We are collaborating with [William Torre](https://www.uu.nl/staff/KWTorre) to revive a molecular dynamics simulation plugin. We have put the functionality of the plugin into its own standalone package which makes it much easier to install than the previous state of the project. |
+
 
 | Microbiome - Multiomics visualization |
 | --- | 
@@ -268,6 +248,14 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Christine Staiger](https://www.uu.nl/staff/CStaiger), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
 | The Botanical Gardens has a collection of historical seed lists dating back to 1837, in the form of PDF's and scanned documents. The project aims to help unlock the information in these seedlists and make it available to researchers, enabling them to study collection policies over the centuries and detect possible effects of climate change on the collection. Ideally, the project results in a pipeline that can be used by other botanical institutes. |
 
+| [Breakthrough patents](https://github.com/UtrechtUniversity/patent-breakthrough) |
+| --- | 
+| **Time frame**: 06/2022 - 01/2025 |
+| **Research domain**: Faculty of Law, Economics and Governance |
+| **Technologies**: Python, Machine Learning, Natural Language Processing, BERT, TfIdf | 
+| **Research Engineers**:  [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Maarten Schermer](https://github.com/maartenschermer) | 
+| We use multiple Natural Language Processing ML methods to predict whether a particular patent is a breakthrough innovation or not. This project includes work to simplify the whole pipeline from reading the patents, preprocessing, prediction and analysis. | 
+
 | Lichess chess data |
 | --- | 
 | **Time frame**: 04/2024 - 12/2024 |
@@ -276,6 +264,17 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
 | Downloading and postprocessing data of over 5 billion chess matches from Lichess.org, making the data available for future research. |
 
+
+| [AutumnFAIR](https://github.com/UtrechtUniversity/autumn-fair) |
+| --- | 
+| **Time frame**: 02/2024 -  11/2024 |
+| **Research domain**: Faculty of Veterinary Medicine, Veterinary Epidemiology |
+| **Technologies**: Ontologies, RDF, Docker, Python, R | 
+| **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Christine Staiger](https://www.uu.nl/staff/CStaiger), |
+| **Data Consultants**: [Stefano Rapisarda](https://www.uu.nl/medewerkers/SRapisarda) |
+| The autumnFAIR project is a a follow up on the summerFAIR project. It aimed to integrate existing data sets on transmission experiments to enable reanalysis and meta-analysis. We improve on the previously built pipeline which maps data to a shared vocabulary and perform integrated analyses. | 
+
+
 | Excalibur (Example sentences Calibrated for Use in Research)|
 | --- | 
 | **Time frame**: 03/2023 - 09/2024 |
@@ -283,6 +282,14 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies**: Python, machine translation, automated POS-tagging |
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
 | We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on the creation of a database with example sentences, their translation (Dutch-English), and interlinear glosses. The project includes a pipeline for extracting, correcting and annotating glosses from publications. It also aims to automatically generate translations and glosses for new, user-supplied example sentences. |
+
+| Soothreat |
+| --- | 
+| **Time frame**: 12/2022 - 09/2024 |
+| **Research domain**: Clinical Psychology |
+| **Technologies**: Python, Machine Learning, Natural Language Processing, Topic Modeling, LDA | 
+| **Research Engineers**: [Shiva Nadi](https://www.uu.nl/medewerkers/SNadiNajafabadi), [Raoul Schram](https://www.uu.nl/staff/RDSchram), Ken Krige | 
+| In this project we are developing methods to help researchers to improve the understanding of threats and soothers for people with a central sensitivity syndrome (i.e., irritable bowel syndrome, fibromyalgia, or chronic fatigue syndrome). Threats create experiences of danger, harm, damage, or unsafety and may worsen patients' physical symptoms. Soothers on the other hand create feelings of calmness, well-being, safety, or social connectedness and that may alleviate patients' physical symptoms. We are dealing with multiple topics and short texts in this project. |
 
 | [WhisperX VRE](https://utrechtuniversity.github.io/vre-docs/docs/workspaces/whisper.html) |
 | --- |
