@@ -15,7 +15,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer) , [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
 | **Technologies** | Python, data extraction with AI, cloud computing | 
 | **Project links** |  |
-| **Origin story** | The researcher was forwarded to us by the Ditigal Humanities team. |
+| **Origin story** | The researcher was forwarded to us by the Digital Humanities team. |
 
 | **Internal reference name** | Pesticide Exposure |
 | --- | --- |
