@@ -8,9 +8,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | --- | --- |
 | **Project headline** | Streamlining the modelling of traffic noise exposure for all home addresses in the EU |
 | **Time frame** | September 2025 - August 2026 |
-| **Project description** | A PhD student working for the Institute for Risk Assessment Sciences (IRAS) developed an implementation of CNOSSOS-EU, the EU's Common Noise Assessment Methods in Europe, modelling exposure to traffic noise for homes in the EU. In general the model worked well, but researchers doing follow-up work discovered significant, unexplained gaps in the output, which they theorized to be the result of computational limitations during modelling. A second issue was the occurrence of instances of multiple, conflicting output values for the same house.
-<br> <br>
-When we were asked to assist, we re-ran the model for a small sample area and were able to reproduce the problem while staying safely within  computational limits, which lead us to believe the cause lay elsewhere. While streamlining and optimising the code, we identified several issues, both in the code, and in part of the source data and its handling. After fixing these issues and extensively testing the updated version, the researcher concluded the model's output to be complete and correct, and the program to be more reliable in edge-cases. Subsequently, we ran the model for the entirety of The Netherlands with satisfactory results. |
+| **Project description** | A PhD student working for the Institute for Risk Assessment Sciences (IRAS) developed an implementation of CNOSSOS-EU, the EU's Common Noise Assessment Methods in Europe, modelling exposure to traffic noise for homes in the EU. In general the model worked well, but researchers doing follow-up work discovered significant, unexplained gaps in the output, which they theorized to be the result of computational limitations during modelling. A second issue was the occurrence of instances of multiple, conflicting output values for the same house. When we were asked to assist, we re-ran the model for a small sample area and were able to reproduce the problem while staying safely within  computational limits, which lead us to believe the cause lay elsewhere. While streamlining and optimising the code, we identified several issues, both in the code, and in part of the source data and its handling. After fixing these issues and extensively testing the updated version, the researcher concluded the model's output to be complete and correct, and the program to be more reliable in edge-cases. Subsequently, we ran the model for the entirety of The Netherlands with satisfactory results. |
 | **Research domain** | Institute for Risk Assessment Sciences (Veterinary Medicine, Department Population Health Sciences) |
 | **Researcher(s)** | [Lloyd Roga](https://www.uu.nl/staff/LQRoga), [Zimbo Boudewijns](www.uu.nl/medewerkers/ZSRMBoudewijns) |
 | **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
@@ -42,13 +40,17 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Arjan Mossel](https://www.uu.nl/staff/AMossel) |
 | The Neurotoxicology Research Group at the Institute for Risk Assessment Sciences (IRAS) investigates the effects of environmental chemicals on brain function using microelectrode array (MEA) technology. This technique generates large-scale electrophysiological data (terabytes in size) by recording neuronal activity across multiple exposure scenarios, concentrations, and time points. Currently, data processing relies on inefficient MS Excel macros. The aim of this project is to develop an automated workflow for processing, analyzing, and visualizing these complex data. This will enhance efficiency, enable clear and effective visual representation for both scientific and general audiences, and facilitate pattern recognition for chemical effects. The processed data and visualizations will be integrated into a user-friendly database for better data tracking and accessibility. |
 
-| Large-scale scoping review for Young people's geographies |
-| --- | 
-| **Time frame**: 06/2025 - present |
-| **Research domain**: Human Geography and Spatial Planning (Social Geography and Planology) |
-| **Technologies**: LLM, Python, data extraction, Zotero | 
-| **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
-| The researcher is developing a framework for young people's geographies, aiming to put young people's perspective in the center. We assist with creating software pipeline for computer-assisted qualitative text analysis for this large-scale scoping review. This software will analyze a large body of literature (as PDFs) to extract relevant meta-data. Additionally, we will help with automated tagging documents in a Zotero-instance. |
+
+| **Internal reference name** | Scoping review |
+| --- | --- |
+| **Project headline** | Large-scale scoping review for Young people's geographies |
+| **Time frame** | June 2025 - present |
+| **Project description** | A researcher is developing a framework for young people's geographies, aiming to put young people's perspective in the center. Currently, such a research field does not exist, and we are assisting the researcher with a scoping review. A large body of existing academic literature that may contain research relevant to the researcher's focus area was collected usimng ASReview. To further narrow down this selection, and to classify and summarize the documents' content, we assist with creating a software pipeline for computer-assisted qualitative text analysis. This software will analyze a large body of literature (as PDFs) to extract relevant meta-data, and flag each document's relevance. Furthemore, we will help with automated tagging documents in a Zotero-instance, as well as keyword-based network analysis using VOSviewer. |
+| **Research domain** | Human Geography and Spatial Planning (Social Geography and Planology) |
+| **Researcher(s)** | [Anna Smits](https://www.uu.nl/staff/ALSmits) |
+| **Research Engineers** | [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
+| **Technologies** | LLM, Python, data extraction, Zotero, VOSviewer |
+| **Project links** | [GitHub](https://github.com/UtrechtUniversity/scoping-review) |
 
 | Interactive Dashboard for Users of the YOUth dataset |
 | --- | 
@@ -74,13 +76,46 @@ Next to that it is an educative project. The research group needs some more skil
 | **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
 | This project was accepted as part of the open call. The research group will analyze sensitive data on medication-related harm (MRH) from various sources (other universities/hospitals) and aggregate the results into an (anonymized) dataset. This project aims to develop a platform using the SURF Secure ANalysis Environment (SANE) to provide secure access to the data. The project entails setting up a connection to Yoda, preinstalling data analysis tools and packages and develop user documentation and training material to onboard project members. |
 
-| Mapping Pesticide Exposure |
-| --- | 
-| **Time frame**: 11/2024 - present |
-| **Research domain**: Institute for Risk Assessment Sciences (part of the faculty of Veterinary Sciences) |
-| **Technologies**: R, Python, parallellization | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep)  |
-| The project aims to model the possible exposure to pesticides of residential housing in The Netherlands. The researchers developed their model in R; we are helping porting the code to Python, with a focus on enhancing performance as to increase scalability. |
+
+
+
+
+
+
+| **Internal reference name** | Mapping Pesticide Exposure |
+| --- | --- |
+| **Project headline** | Modelling possible exposure to pesticides of residential housing in The Netherlands |
+| **Time frame** | November 2024 - present |
+| **Project description** | 
+
+
+The project aims to model the possible exposure to pesticides of residential housing in The Netherlands. The researchers developed their model in R; we are helping porting the code to Python, with a focus on enhancing performance as to increase scalability.
+
+
+[[*Researcher*]], PhD student in Urban Geography / Environmental Geography, developed a noise exposure model to measure noise exposure levels in homes and businesses across Europe. The model worked well, but [[*researcher*]] noticed gaps in the data collected when running at scale. <br> <br> When *he/she/they* came to us, we realized this was likely due to the high demands of the model in terms of computation and storage, so we worked on a solution to [[*technology in brief*]]. This enabled complete and reliable data processing even when the model was running at a scale of all of Europe, and [[*researcher*]] was able to explore [[RQ in brief]] with confidence in the data collected through their model. |
+| **Research domain** | Institute for Risk Assessment Sciences (Veterinary Medicine, Department Population Health Sciences) |
+| **Researcher(s)** | [Assif Friedman](https://research-portal.uu.nl/en/persons/assif-friedman/) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
+| **Technologies** | R, Python, parallellization | 
+| **Project links** | [GitHub repository](https://github.com/UtrechtUniversity/pesticide-exposure) |
+| **Origin story** | How did the researchers find us for this project? |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 | Workflows for Earth Sciences |
 | --- | 
