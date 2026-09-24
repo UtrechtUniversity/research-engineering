@@ -14,7 +14,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Researcher(s)** | [dr. Alraune Zech](a.zech@uu.nl), [Valerie de Rijk](v.derijk@uu.nl) |
 | **Research Engineers** | [Raoul Schram](https://www.uu.nl/staff/RDSchram) and [Christine Staiger](https://www.uu.nl/staff/CStaiger) |
 | **Technologies** | Python, simulation, analytical solver | 
-| **Project links** | github.com/UU-PFAS-Living-Lab/pfas |
+| **Project links** | [github.com/UU-PFAS-Living-Lab/pfas](htps://github.com/UU-PFAS-Living-Lab/pfas) |
 | **Origin story** | The researcher found us through our talk on IMAGE-Materials in the Geoscience departement.  |
 
 
