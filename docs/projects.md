@@ -14,6 +14,8 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
 | **Technologies** | R, geospatial data, PostGIS, paralellization | 
 | **Project links** | [GitHub](https://github.com/UtrechtUniversity/research-engineering) |
+| **Origin story** | We have worked with researchers from IRAS several times previously, and past experiences made them reach out to us again. |
+
 
 |NTX - Data organisation and transfer to new Yoda instance|
 |---|
@@ -24,6 +26,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | The aim of the project is to help Yoda users reducing costs, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
 Next to that it is an educative project. The research group needs some more skills in the technical handling of their data between their local storage (NAS) and Yoda. |
 
+
 |IMAU-FDM - Firn densification model |
 |---|
 | **Time frame**: 06/2025 - present |
@@ -31,6 +34,7 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies**: Fortran, Python, MPI |
 | **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
 | The project came in through the open call. The IMAU Firn Densification Model (IMAU-FDM) models the transformation of snow to ice, and is primarily used to compute firn (old snow) densification over Greenland and Antarctica. This project aims to 1) modularize the fortran code, 2) rewrite the job distributor and improving the code's efficiency, 3) implement CI with GitHub Actions, and 4) implement FAIR software good practices. |
+
 
 | Neurotoxicology - Data Visualization |
 | --- | 
@@ -52,21 +56,29 @@ Next to that it is an educative project. The research group needs some more skil
 | **Technologies** | LLM, Python, data extraction, Zotero, VOSviewer |
 | **Project links** | [GitHub](https://github.com/UtrechtUniversity/scoping-review) |
 
-| Interactive Dashboard for Users of the YOUth dataset |
-| --- | 
-| **Time frame**: 05/2025 - present |
-| **Research domain**: Institute for Language Sciences |
-| **Technologies**: Python, Javascript, data visualization | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
-| To enhance the findability and accessibility of the dataset from the [YOUth project](https://youthonderzoek.nl/) cohort studies, we collaborated with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on a project to restructure and enhance the YOUth website and data catalogue. |
 
-| Recovering LanguageLink databases |
-| --- | 
-| **Time frame**: 05/2025 - present |
-| **Research domain**: Institute for Language Sciences |
-| **Technologies**: Python, MySQL/MariaDB, SQL, Cross-Linguistic Data Format (CLDF) | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
-| We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on extracting the data from old linguistic databases from the [LanguageLink project](https://languagelink.sites.uu.nl/). While the technologies used in the LanguageLink project are now largely obsolete, the data is still of potential value to researchers. As part of the extraction process, we convert the data to Cross-Linguistic Data Format, to enhance access and reusability. |
+| **Internal reference name** | YOUth dashboard |
+| --- | --- |
+| **Project headline** | Interactive Dashboard for Users of the YOUth dataset |
+| **Time frame** | May 2025 - present |
+| **Project description** | YOUth is a large scale, longitudinal cohort following nearly 4,000 Dutch children in their development from pregnancy until early adulthood. Data collection having finished in 2025, the unique dataset is now available to researchers. To enhance the findability and accessibility of the dataset, we collaborated with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on a project to restructure and enhance the YOUth website and data catalogue. |
+| **Research domain** | Social and Behavioural Sciences |
+| **Researcher(s)** | [Chantal Kemner](https://www.uu.nl/medewerkers/CKemner) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
+| **Technologies** | Javascript, data visualization, Wordpress |
+| **Project links** | [YOUth Cohort Study](https://www.uu.nl/en/research/youth-cohort-study), [YOUth project](https://youthonderzoek.nl/) |
+| **Origin story** | The researchers responded to our thematic visualization call. |
+
+
+| **Internal reference name** | LanguageLink |
+| --- | --- |
+| **Project headline** | Recovering LanguageLink databases |
+| **Time frame** | May 2025 - present |
+| **Project description** | We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on extracting the data from old linguistic databases from the [LanguageLink project](https://languagelink.sites.uu.nl/). While the technologies used in the LanguageLink project are now largely obsolete, the data is still of potential value to researchers. As part of the extraction process, we convert the data to Cross-Linguistic Data Format, to enhance access and reusability. |
+| **Research domain** | Institute for Language Sciences |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
+| **Technologies** | Python, MySQL/MariaDB, SQL, Cross-Linguistic Data Format (CLDF) | 
+
 
 |IPD-MA - Analysis of clinical data on side-effects|
 |---|
@@ -77,44 +89,16 @@ Next to that it is an educative project. The research group needs some more skil
 | This project was accepted as part of the open call. The research group will analyze sensitive data on medication-related harm (MRH) from various sources (other universities/hospitals) and aggregate the results into an (anonymized) dataset. This project aims to develop a platform using the SURF Secure ANalysis Environment (SANE) to provide secure access to the data. The project entails setting up a connection to Yoda, preinstalling data analysis tools and packages and develop user documentation and training material to onboard project members. |
 
 
-
-
-
-
-
-| **Internal reference name** | Mapping Pesticide Exposure |
+| **Internal reference name** | Pesticide Exposure |
 | --- | --- |
-| **Project headline** | Modelling possible exposure to pesticides of residential housing in The Netherlands |
-| **Time frame** | November 2024 - present |
-| **Project description** | 
-
-
-The project aims to model the possible exposure to pesticides of residential housing in The Netherlands. The researchers developed their model in R; we are helping porting the code to Python, with a focus on enhancing performance as to increase scalability.
-
-
-[[*Researcher*]], PhD student in Urban Geography / Environmental Geography, developed a noise exposure model to measure noise exposure levels in homes and businesses across Europe. The model worked well, but [[*researcher*]] noticed gaps in the data collected when running at scale. <br> <br> When *he/she/they* came to us, we realized this was likely due to the high demands of the model in terms of computation and storage, so we worked on a solution to [[*technology in brief*]]. This enabled complete and reliable data processing even when the model was running at a scale of all of Europe, and [[*researcher*]] was able to explore [[RQ in brief]] with confidence in the data collected through their model. |
-| **Research domain** | Institute for Risk Assessment Sciences (Veterinary Medicine, Department Population Health Sciences) |
-| **Researcher(s)** | [Assif Friedman](https://research-portal.uu.nl/en/persons/assif-friedman/) |
-| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep) |
+| **Project headline** | Mapping Pesticide Exposure |
+| **Time frame** | 11/2024 - present |
+| **Project description** | [A. Friedman, MSc](https://www.uu.nl/staff/AFriedman1) contacted us to scale out simulations using the pesticide exposure model he developed in R from a few houses to all houses in the Netherlands. Furthermore, the long term ambition is to integrate the model into a larger framework with multiple components. Because of the rich ecosystem of popular geospatial (e.g. `GeoPandas`) as well as parallel computing libraries (e.g. `multiprocessing`) in Python, we ported the R scripts to a modular Python project under version control. The new algorithm scales well on High Performance Computing systems where it can utilize thousands of processors at the same time, reducing runtime from months to a few days. Besides, it follows best practices in software development such as modular design principles, making it easier to integrate with other components in a modelling framework. |
+| **Research domain** | Institute for Risk Assessment Sciences (part of the faculty of Veterinary Sciences) |
+| **Researcher(s)** | [A. Friedman, MSc](https://www.uu.nl/staff/AFriedman1), [Dr. D.M. Figueiredo](https://www.uu.nl/staff/DMFigueiredo)
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep)  |
 | **Technologies** | R, Python, parallellization | 
-| **Project links** | [GitHub repository](https://github.com/UtrechtUniversity/pesticide-exposure) |
-| **Origin story** | How did the researchers find us for this project? |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| **Origin story** | The researcher initially contacted us for setting up a VRE environment to run the R script on a powerful cloud system. It turned out the initial script was not scaling well and a redesing was needed to enable large scale model runs. |
 
 
 | Workflows for Earth Sciences |
@@ -238,13 +222,14 @@ The project aims to model the possible exposure to pesticides of residential hou
 | **Project headline** | Providing the back-end for an consumer-facing app as part of the GAIM-project |
 | **Time frame** | September 2024 - August 2026 |
 | **Project description** | 
-The GAIM project aims to inform, empower, and research the use of user-oriented sustainable energy systems. As part of a gamification effort, an app to engage individual households was developed by an external partner. The researchers were looking for a back-end that could provide current energy prices, solar power potential, and other relevant data, harvested from different sources, to a consumer-facing app in a scalable and reliable manner. As part of the solution we designed and developed an API, and helped create the database and data retrieval protocols that feed it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform.
-<br /> A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+The GAIM project aims to inform, empower, and research the use of user-oriented sustainable energy systems. As part of a gamification effort, an app to engage individual households was developed by an external partner. The researchers were looking for a back-end that could provide current energy prices, solar power potential, and other relevant data, harvested from different sources, to a consumer-facing app in a scalable and reliable manner. As part of the solution we designed and developed an API, and helped create the database and data retrieval protocols that feed it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
 | **Research domain** | Copernicus Institute for Sustainable Development |
+| **Technologies** | Python, API, PostgreSQL, OpenShift | 
 | **Researcher(s)** | [Hossein Nasrollahi](https://www.uu.nl/medewerkers/HNasrollahi), [Ioannis Lampropoulos](https://www.uu.nl/medewerkers/ILampropoulos) |
 | **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
-| **Technologies** | Python, API, OpenShift | 
+
 | **Project links** | [GAIM: Langdurige empowerment met energie-applicaties door inclusief game-ontwerp, kunstmatige intelligentie en systeemmodellen](https://www.uu.nl/onderzoek/copernicus-institute-of-sustainable-development/gaim-langdurige-empowerment-met-energie-applicaties-door-inclusief-game-ontwerp-kunstmatige), [GitHub](https://github.com/UtrechtUniversity/gaim-api) |
+
 
 | Workflows for Genetic analysis in Veterinary Sciences |
 | --- | 
