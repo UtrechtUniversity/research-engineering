@@ -78,7 +78,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | --- | --- |
 | **Project headline** | Large-scale scoping review for Young people's geographies |
 | **Time frame** | June 2025 - present |
-| **Project description** | A researcher is developing a framework for young people's geographies, aiming to put young people's perspective in the center. Currently, such a research field does not exist, and we are assisting the researcher with a scoping review. A large body of existing academic literature that may contain research relevant to the researcher's focus area was collected usimng ASReview. To further narrow down this selection, and to classify and summarize the documents' content, we assist with creating a software pipeline for computer-assisted qualitative text analysis. This software will analyze a large body of literature (as PDFs) to extract relevant meta-data, and flag each document's relevance. Furthemore, we will help with automated tagging documents in a Zotero-instance, as well as keyword-based network analysis using VOSviewer. |
+| **Project description** | A researcher is developing a framework for young people's geographies, aiming to put young people's perspective in the center. Currently, such a research field does not exist, and we are assisting the researcher with a scoping review. A large body of existing academic literature that may contain research relevant to the researcher's focus area was collected using ASReview. To further narrow down this selection, and to classify and summarize the documents' content, we assist with creating a software pipeline for computer-assisted qualitative text analysis. This software will analyze a large body of literature (as PDFs) to extract relevant meta-data, and flag each document's relevance. Furthermore, we will help with automated tagging documents in a Zotero-instance, as well as keyword-based network analysis using VOSviewer. |
 | **Research domain** | Human Geography and Spatial Planning (Social Geography and Planology) |
 | **Researcher(s)** | [Anna Smits](https://www.uu.nl/staff/ALSmits) |
 | **Research Engineers** | [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
@@ -127,7 +127,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Researcher(s)** | [A. Friedman, MSc](https://www.uu.nl/staff/AFriedman1), [Dr. D.M. Figueiredo](https://www.uu.nl/staff/DMFigueiredo)
 | **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep)  |
 | **Technologies** | R, Python, parallellization | 
-| **Origin story** | The researcher initially contacted us for setting up a VRE environment to run the R script on a powerful cloud system. It turned out the initial script was not scaling well and a redesing was needed to enable large scale model runs. |
+| **Origin story** | The researcher initially contacted us for setting up a VRE environment to run the R script on a powerful cloud system. It turned out the initial script was not scaling well and a redesign was needed to enable large scale model runs. |
 
 | Interest |
 | --- | 
