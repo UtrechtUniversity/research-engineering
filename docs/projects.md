@@ -24,7 +24,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Time frame** | August 2026 - present |
 | **Project description** | AdOpt-NET0 is an open-source Python package for energy system optimization. We will help with creating a framework to parallelize computation. This will take into account the memory and computational requirements of the individual jobs to ensure that the nodes are maximally utilized without running out of memory.  |
 | **Research domain** | Geoscience |
-| **Researcher(s)** | [Matteo Gazzani](m.gazzani@uu.nl ), [Matteo Massera ](m.massera@uu.nl ) |
+| **Researcher(s)** | [Matteo Gazzani](m.gazzani@uu.nl), [Matteo Massera](m.massera@uu.nl) |
 | **Research Engineers** | [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
 | **Technologies** | Python, MILP, Gurobi, Optimization | 
 | **Project links** | https://github.com/UU-ER/AdOpT-NET0 |
