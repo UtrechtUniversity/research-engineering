@@ -4,6 +4,17 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 
 ### Current projects
+| **Internal reference name** | Noise exposure |
+| --- | --- |
+| **Project headline** | Streamlining the modelling of traffic noise exposure for all home addresses in the EU |
+| **Time frame** | September 2025 - August 2026 |
+| **Project description** | A PhD student working for the Institute for Risk Assessment Sciences (IRAS) developed an implementation of CNOSSOS-EU, the EU's Common Noise Assessment Methods in Europe, modelling exposure to traffic noise for homes in the EU. In general the model worked well, but researchers doing follow-up work discovered significant, unexplained gaps in the output, which they theorized to be the result of resource limitations during modelling. A second issue was the occurrence of multiple, conflicting output values for the same house. When we were asked to assist, we re-ran the model for a small sample area and were able to reproduce the problem while staying safely within limits of memory and compute, which lead us to believe the cause lay elsewhere. While streamlining and optimising the code, we identified several issues, both in the code, and in part of the source data and its handling. After fixing these issues and extensively testing the updated version, the researcher concluded that the model's output was complete and correct. The program has also proven to be more reliable in edge-cases. Subsequently, we ran the model for the entirety of The Netherlands with satisfactory results. |
+| **Research domain** | Institute for Risk Assessment Sciences (Veterinary Medicine, Department Population Health Sciences) |
+| **Researcher(s)** | [Lloyd Roga](https://www.uu.nl/staff/LQRoga), [Zimbo Boudewijns](www.uu.nl/medewerkers/ZSRMBoudewijns) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/staff/MDSchermer), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
+| **Technologies** | R, geospatial data, PostGIS, paralellization | 
+| **Project links** | [GitHub](https://github.com/UtrechtUniversity/research-engineering) |
+| **Origin story** | We have worked with researchers from IRAS several times previously, and past experiences made them reach out to us again. |
 
 | **Internal reference name** | PFAS |
 | --- | --- |
@@ -43,17 +54,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Project links** |  |
 | **Origin story** | The researcher was forwarded to us by the Digital Humanities team. |
 
-| **Internal reference name** | Pesticide Exposure |
-| --- | --- |
-| **Project headline** | Mapping Pesticide Exposure |
-| **Time frame** | 11/2024 - present |
-| **Project description** | [A. Friedman, MSc](https://www.uu.nl/staff/AFriedman1) contacted us to scale out simulations using the pesticide exposure model he developed in R from a few houses to all houses in the Netherlands. Furthermore, the long term ambition is to integrate the model into a larger framework with multiple components. Because of the rich ecosystem of popular geospatial (e.g. `GeoPandas`) as well as parallel computing libraries (e.g. `multiprocessing`) in Python, we ported the R scripts to a modular Python project under version control. The new algorithm scales well on High Performance Computing systems where it can utilize thousands of processors at the same time, reducing runtime from months to a few days. Besides, it follows best practices in software development such as modular design principles, making it easier to integrate with other components in a modelling framework. |
-| **Research domain** | Institute for Risk Assessment Sciences (part of the faculty of Veterinary Sciences) |
-| **Researcher(s)** | [A. Friedman, MSc](https://www.uu.nl/staff/AFriedman1), [Dr. D.M. Figueiredo](https://www.uu.nl/staff/DMFigueiredo)
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep)  |
-| **Technologies**: R, Python, parallellization | 
-| **Origin story** | The researcher initially contacted us for setting up a VRE environment to run the R script on a powerful cloud system. It turned out the initial script was not scaling well and a redesing was needed to enable large scale model runs. |
-
 
 | **Internal reference name** | IPD-MA |
 | --- | --- |
@@ -65,6 +65,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers** | [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto) |
 | **Technologies**| SANE, Python, iBridges, Yoda |
 | **Origin story** | This project was accepted as part of the open call for Research Engineering projects. |
+
 
 | **Internal reference name** | IMAU-FDM - Firn densification model |
 | --- | --- |
@@ -89,13 +90,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies** | Python, MNE-Python, EEG/EMG data |
 | **Origin story** | The researcher applied to the thematic project call on workflows, which invited UU researchers to improve and automate their data-processing and computational workflows. The call specifically focused on making research pipelines more scalable, reproducible, and reusable with support from research engineering team. |
 
-| Noise exposure|
-|---------------| 
-| **Time frame**: 09/2025 - present |
-| **Research domain**: Urban Geography / Environmental Geography |
-| **Technologies**: R, geospatial data, PostgreSQL/PostGIS | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) , [Parisa Zahedi](https://www.uu.nl/staff/PZahedi) |
-| In the Noise exposure project, we aim to run a noise exposure model, developed by a PhD student, for all addresses in Europe. While the model has been applied before, the results contained substantial missing data, likely due to computational limitations. The current input data alone amounts to around 0.5 TB, making the task highly demanding in terms of computation and storage. This project seeks to process the data and execute the model at the European scale, ensuring complete and reliable results. |
 
 | Neurotoxicology - Data Visualization |
 | --- | 
@@ -105,31 +99,61 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi), [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Arjan Mossel](https://www.uu.nl/staff/AMossel) |
 | The Neurotoxicology Research Group at the Institute for Risk Assessment Sciences (IRAS) investigates the effects of environmental chemicals on brain function using microelectrode array (MEA) technology. This technique generates large-scale electrophysiological data (terabytes in size) by recording neuronal activity across multiple exposure scenarios, concentrations, and time points. Currently, data processing relies on inefficient MS Excel macros. The aim of this project is to develop an automated workflow for processing, analyzing, and visualizing these complex data. This will enhance efficiency, enable clear and effective visual representation for both scientific and general audiences, and facilitate pattern recognition for chemical effects. The processed data and visualizations will be integrated into a user-friendly database for better data tracking and accessibility. |
 
-| Large-scale scoping review for Young people's geographies |
-| --- | 
-| **Time frame**: 06/2025 - present |
-| **Research domain**: Human Geography and Spatial Planning (Social Geography and Planology) |
-| **Technologies**: LLM, Python, data extraction, Zotero | 
-| **Research Engineers**: [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
-| The researcher is developing a framework for young people's geographies, aiming to put young people's perspective in the center. We assist with creating software pipeline for computer-assisted qualitative text analysis for this large-scale scoping review. This software will analyze a large body of literature (as PDFs) to extract relevant meta-data. Additionally, we will help with automated tagging documents in a Zotero-instance. |
 
-| Interactive Dashboard for Users of the YOUth dataset |
-| --- | 
-| **Time frame**: 05/2025 - present |
-| **Research domain**: Institute for Language Sciences |
-| **Technologies**: Python, Javascript, data visualization | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
-| To enhance the findability and accessibility of the dataset from the [YOUth project](https://youthonderzoek.nl/) cohort studies, we collaborated with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on a project to restructure and enhance the YOUth website and data catalogue. |
-
-| Recovering LanguageLink databases |
-| --- | 
-| **Time frame**: 05/2025 - present |
-| **Research domain**: Institute for Language Sciences |
-| **Technologies**: Python, MySQL/MariaDB, SQL, Cross-Linguistic Data Format (CLDF) | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
-| We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on extracting the data from old linguistic databases from the [LanguageLink project](https://languagelink.sites.uu.nl/). While the technologies used in the LanguageLink project are now largely obsolete, the data is still of potential value to researchers. As part of the extraction process, we convert the data to Cross-Linguistic Data Format, to enhance access and reusability. |
+| **Internal reference name** | Scoping review |
+| --- | --- |
+| **Project headline** | Large-scale scoping review for Young people's geographies |
+| **Time frame** | June 2025 - present |
+| **Project description** | A researcher is developing a framework for young people's geographies, aiming to put young people's perspective in the center. Currently, such a research field does not exist, and we are assisting the researcher with a scoping review. A large body of existing academic literature that may contain research relevant to the researcher's focus area was collected using ASReview. To further narrow down this selection, and to classify and summarize the documents' content, we assist with creating a software pipeline for computer-assisted qualitative text analysis. This software will analyze a large body of literature (as PDFs) to extract relevant meta-data, and flag each document's relevance. Furthermore, we will help with automated tagging documents in a Zotero-instance, as well as keyword-based network analysis using VOSviewer. |
+| **Research domain** | Human Geography and Spatial Planning (Social Geography and Planology) |
+| **Researcher(s)** | [Anna Smits](https://www.uu.nl/staff/ALSmits) |
+| **Research Engineers** | [Modhurita Mitra](https://www.uu.nl/staff/MMitra), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
+| **Technologies** | LLM, Python, data extraction, Zotero, VOSviewer |
+| **Project links** | [GitHub](https://github.com/UtrechtUniversity/scoping-review) |
 
 
+| **Internal reference name** | YOUth dashboard |
+| --- | --- |
+| **Project headline** | Interactive Dashboard for Users of the YOUth dataset |
+| **Time frame** | May 2025 - present |
+| **Project description** | YOUth is a large scale, longitudinal cohort following nearly 4,000 Dutch children in their development from pregnancy until early adulthood. Data collection having finished in 2025, the unique dataset is now available to researchers. To enhance the findability and accessibility of the dataset, we collaborated with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on a project to restructure and enhance the YOUth website and data catalogue. |
+| **Research domain** | Social and Behavioural Sciences |
+| **Researcher(s)** | [Chantal Kemner](https://www.uu.nl/medewerkers/CKemner) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) |
+| **Technologies** | Javascript, data visualization, Wordpress |
+| **Project links** | [YOUth Cohort Study](https://www.uu.nl/en/research/youth-cohort-study), [YOUth project](https://youthonderzoek.nl/) |
+| **Origin story** | The researchers responded to our thematic visualization call. |
+
+
+| **Internal reference name** | LanguageLink |
+| --- | --- |
+| **Project headline** | Recovering LanguageLink databases |
+| **Time frame** | May 2025 - present |
+| **Project description** | We are collaborating with [Digital Humanities IT](https://intranet.uu.nl/kennisbank/digital-humanities-it) on extracting the data from old linguistic databases from the [LanguageLink project](https://languagelink.sites.uu.nl/). While the technologies used in the LanguageLink project are now largely obsolete, the data is still of potential value to researchers. As part of the extraction process, we convert the data to Cross-Linguistic Data Format, to enhance access and reusability. |
+| **Research domain** | Institute for Language Sciences |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
+| **Technologies** | Python, MySQL/MariaDB, SQL, Cross-Linguistic Data Format (CLDF) | 
+
+
+|IPD-MA - Analysis of clinical data on side-effects|
+|---|
+| **Time frame**: 03/2025 - present |
+| **Research domain**:  Pharmacology, Data management |
+| **Technologies**: SANE, Python, iBridges, Yoda |
+| **Research Engineers**: [Jelle Treep](https://www.uu.nl/staff/HJTreep), [Dawa Ometto](https://www.uu.nl/staff/DLAOmetto)
+| This project was accepted as part of the open call. The research group will analyze sensitive data on medication-related harm (MRH) from various sources (other universities/hospitals) and aggregate the results into an (anonymized) dataset. This project aims to develop a platform using the SURF Secure ANalysis Environment (SANE) to provide secure access to the data. The project entails setting up a connection to Yoda, preinstalling data analysis tools and packages and develop user documentation and training material to onboard project members. |
+
+
+| **Internal reference name** | Pesticide Exposure |
+| --- | --- |
+| **Project headline** | Mapping Pesticide Exposure |
+| **Time frame** | 11/2024 - present |
+| **Project description** | [A. Friedman, MSc](https://www.uu.nl/staff/AFriedman1) contacted us to scale out simulations using the pesticide exposure model he developed in R from a few houses to all houses in the Netherlands. Furthermore, the long term ambition is to integrate the model into a larger framework with multiple components. Because of the rich ecosystem of popular geospatial (e.g. `GeoPandas`) as well as parallel computing libraries (e.g. `multiprocessing`) in Python, we ported the R scripts to a modular Python project under version control. The new algorithm scales well on High Performance Computing systems where it can utilize thousands of processors at the same time, reducing runtime from months to a few days. Besides, it follows best practices in software development such as modular design principles, making it easier to integrate with other components in a modelling framework. |
+| **Research domain** | Institute for Risk Assessment Sciences (part of the faculty of Veterinary Sciences) |
+| **Researcher(s)** | [A. Friedman, MSc](https://www.uu.nl/staff/AFriedman1), [Dr. D.M. Figueiredo](https://www.uu.nl/staff/DMFigueiredo)
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Jelle Treep](https://www.uu.nl/staff/HJTreep)  |
+| **Technologies** | R, Python, parallellization | 
+| **Origin story** | The researcher initially contacted us for setting up a VRE environment to run the R script on a powerful cloud system. It turned out the initial script was not scaling well and a redesign was needed to enable large scale model runs. |
 
 | Interest |
 | --- | 
@@ -238,13 +262,19 @@ Next to that it is an educative project. The research group needs  more skills i
 | **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
 | This project, in collaboration with the ODISSEI Social Data Science Team (SoDa), aims to leverage data from multiple cohort studies to create a harmonized dataset for investigating the scope mental health (non)-recovery in the Dutch population after the COVID-19 pandemic. |
 
-| GAIM app back-end |
-| --- | 
-| **Time frame**: 09/2024 - 06/2025 |
-| **Research domain**: Copernicus Institute for Sustainable Development |
-| **Technologies**: Python, API, OpenShift | 
-| **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
-| The GAIM project aims to inform, empower, and research user-oriented sustainable energy systems. As part of a gamification effort, and app was developed to engage individual households. We developed the API and helped develop the database and data retrieval protiocols that feeds it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+| **Internal reference name** | GAIM app back-end |
+| --- | --- |
+| **Project headline** | Providing the back-end for an consumer-facing app as part of the GAIM-project |
+| **Time frame** | September 2024 - August 2026 |
+| **Project description** | 
+The GAIM project aims to inform, empower, and research the use of user-oriented sustainable energy systems. As part of a gamification effort, an app to engage individual households was developed by an external partner. The researchers were looking for a back-end that could provide current energy prices, solar power potential, and other relevant data, harvested from different sources, to a consumer-facing app in a scalable and reliable manner. As part of the solution we designed and developed an API, and helped create the database and data retrieval protocols that feed it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+| **Research domain** | Copernicus Institute for Sustainable Development |
+| **Technologies** | Python, API, PostgreSQL, OpenShift | 
+| **Researcher(s)** | [Hossein Nasrollahi](https://www.uu.nl/medewerkers/HNasrollahi), [Ioannis Lampropoulos](https://www.uu.nl/medewerkers/ILampropoulos) |
+| **Research Engineers** | [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Dawa Ometto](https://www.uu.nl/medewerkers/DLAOmetto) |
+
+| **Project links** | [GAIM: Langdurige empowerment met energie-applicaties door inclusief game-ontwerp, kunstmatige intelligentie en systeemmodellen](https://www.uu.nl/onderzoek/copernicus-institute-of-sustainable-development/gaim-langdurige-empowerment-met-energie-applicaties-door-inclusief-game-ontwerp-kunstmatige), [GitHub](https://github.com/UtrechtUniversity/gaim-api) |
+
 
 | Workflows for Genetic analysis in Veterinary Sciences |
 | --- | 
