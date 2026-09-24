@@ -5,6 +5,32 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 ### Current projects
 
+| **Internal reference name** | PFAS |
+| --- | --- |
+| **Project headline** | Creating a PFAS analysis package |
+| **Time frame** | September 2025 - present |
+| **Project description** | The researchers are using several scripts and methods to analytically or numerically solve PFAS adsorption. These scripts are written by different people, and while there has been an attempt before to create a framework for solving these equations, a new attempt is being made to create a Python package available on PyPI to make this easier. |
+| **Research domain** | Geoscience |
+| **Researcher(s)** | [dr. Alraune Zech](a.zech@uu.nl), [Valerie de Rijk](v.derijk@uu.nl) |
+| **Research Engineers** | [Raoul Schram](https://www.uu.nl/staff/RDSchram) and [Christine Staiger](https://www.uu.nl/staff/CStaiger) |
+| **Technologies** | Python, simulation, analytical solver | 
+| **Project links** | [github.com/UU-PFAS-Living-Lab/pfas](htps://github.com/UU-PFAS-Living-Lab/pfas) |
+| **Origin story** | The researcher found us through our talk on IMAGE-Materials in the Geoscience departement.  |
+
+
+| **Internal reference name** | Adopt-net-zero |
+| --- | --- |
+| **Project headline** | Improving a network optimization tool |
+| **Time frame** | August 2026 - present |
+| **Project description** | AdOpt-NET0 is an open-source Python package for energy system optimization. We will help with creating a framework to parallelize computation. This will take into account the memory and computational requirements of the individual jobs to ensure that the nodes are maximally utilized without running out of memory.  |
+| **Research domain** | Geoscience |
+| **Researcher(s)** | [Matteo Gazzani](m.gazzani@uu.nl), [Matteo Massera](m.massera@uu.nl) |
+| **Research Engineers** | [Raoul Schram](https://www.uu.nl/staff/RDSchram) |
+| **Technologies** | Python, MILP, Gurobi, Optimization | 
+| **Project links** | https://github.com/UU-ER/AdOpT-NET0 |
+| **Origin story** | The researcher found our parallelization call.  |
+
+
 | **Internal reference name** | Data extraction from Oxford Dictionary of National Biography (XML) |
 | --- | --- |
 | **Project headline** | Extracting data from historical biographies for research on social status |
