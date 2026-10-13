@@ -155,14 +155,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Technologies** | R, Python, parallellization | 
 | **Origin story** | The researcher initially contacted us for setting up a VRE environment to run the R script on a powerful cloud system. It turned out the initial script was not scaling well and a redesign was needed to enable large scale model runs. |
 
-| Interest |
-| --- | 
-| **Time frame**: 02/2024 - present |
-| **Research domain**: Faculty of Humanities, History and Art History |
-| **Technologies**: Python, NLP, Deep learning, Huggingface Transformers | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
-| This project builds upon the  [hist-aware](https://github.com/UtrechtUniversity/hist-aware) project in response to its relatively unsatisfactory results. It aims to establish reliable new standards for (historical) sentiment analysis of newspaper data by applying and evaluating multiple approaches on the same case study. |
-
 | Biosignal-data visualisation |
 | --- | 
 | **Time frame**: 06/2024 - 08/2024 |
@@ -187,13 +179,6 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**:  [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Matty Vermet](https://www.uu.nl/staff/MSVermet), [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer) | 
 | Privacy and proper disclosure control is a hot topic at the moment. This project aims to create a standard to share statistical information and generate synthetic data. Metasyn fits a distribution to each of the variables, while it also generates a synthetic dataset from this information. In between, there is a generative metadata file that contains the condensed information as a human-readable JSON file. | 
 
-| [Interest](https://github.com/UtrechtUniversity/historical-news-sentiment) |
-|----------------------------------| 
-| **Time frame**: 02/2024 - present|
-| **Research domain**: Faculty of Humanities, History and Art History |
-| **Technologies**: Python, NLP, Deep learning, Huggingface Transformers | 
-| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
-| This project builds upon the  [hist-aware](https://github.com/UtrechtUniversity/hist-aware) project in response to its relatively unsatisfactory results. It aims to establish reliable new standards for (historical) sentiment analysis of newspaper data by applying and evaluating multiple approaches on the same case study. |
 
 ### Completed projects
 
@@ -236,6 +221,13 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Research Engineers**: [Raoul Schram](https://www.uu.nl/staff/RDSchram), [Modhurita Mitra](https://www.uu.nl/staff/MMitra) |
 | We are collaborating with [William Torre](https://www.uu.nl/staff/KWTorre) to revive a molecular dynamics simulation plugin. We have put the functionality of the plugin into its own standalone package which makes it much easier to install than the previous state of the project. |
 
+| [Interest](https://github.com/UtrechtUniversity/historical-news-sentiment) |
+|----------------------------------| 
+| **Time frame**: 02/2024 - 09/2025|
+| **Research domain**: Faculty of Humanities, History and Art History |
+| **Technologies**: Python, NLP, Deep learning, Huggingface Transformers | 
+| **Research Engineers**: [Parisa Zahedi](https://www.uu.nl/staff/PZahedi), [Shiva Nadi](https://www.uu.nl/staff/SNadiNajafabadi) |
+| This project builds upon the  [hist-aware](https://github.com/UtrechtUniversity/hist-aware) project in response to its relatively unsatisfactory results. It aims to establish reliable new standards for (historical) sentiment analysis of newspaper data by applying and evaluating multiple approaches on the same case study. |
 
 | Microbiome - Multiomics visualization |
 | --- | 
