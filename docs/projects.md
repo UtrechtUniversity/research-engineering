@@ -82,7 +82,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Internal reference name** | BioPAP - EEG/EMG data processing pipeline |
 | --- | --- |
 | **Project headline** | Recreating a modular EEG/EMG preprocessing pipeline with open-source tools |
-| **Time frame** | September 2025 - present |
+| **Time frame** | September 2025 - October 2026 |
 | **Project description** | [Dr. Marijn Struiksma](https://www.uu.nl/medewerkers/mstruiksma) currently preprocesses EEG/EMG data using BrainVision, a commercial software package used in neurophysiological research. The goal of this project is to recreate that preprocessing workflow using open-source tools, primarily MNE-Python. Because preprocessing requirements can differ between experiments and research projects, the pipeline is being developed as a modular system in which individual processing steps can be configured and added as needed. |
 | **Research domain** | Humanities, Language and Communication |
 | **Researcher(s)** | [Dr. Marijn Struiksma](https://www.uu.nl/medewerkers/mstruiksma) |
@@ -165,7 +165,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 
 | Biosignal-data visualisation |
 | --- | 
-| **Time frame**: 06/2024 - present |
+| **Time frame**: 06/2024 - 08/2024 |
 | **Research domain**: Faculty of Social and Behavioural Sciences |
 | **Technologies**: Python, Javascript, Observable, visualisation, webserver | 
 | **Research Engineers**: [Maarten Schermer](https://www.uu.nl/medewerkers/MDSchermer), [Matty Vermet](https://www.uu.nl/staff/MSVermet) |
@@ -217,8 +217,7 @@ Here you find an overview of our [current](#current-projects) and [completed pro
 | **Researcher(s)** | Pepijn Wopken |
 | **Research Engineers**: |[Christine Staiger](https://www.uu.nl/staff/CStaiger)|
 | **Technologies** | Python, iBridges, Yoda |
-| **Project description** | The aim of the project is to help Yoda users reducing costs, finding duplicate data in Yoda instances and moving data to the new SURF instance. 
-Next to that it is an educative project. The research group needs  more skills in the technical handling of their data between their local storage (NAS) and Yoda. |
+| **Project description** | The aim of the project is to help Yoda users reducing costs, finding duplicate data in Yoda instances and moving data to the new SURF instance. Next to that it is an educative project. The research group needs  more skills in the technical handling of their data between their local storage (NAS) and Yoda. |
 | **Origin story** | RE was approached by Bertil Schaart| 
 
 | Workflows for Earth Sciences |
@@ -266,8 +265,7 @@ Next to that it is an educative project. The research group needs  more skills i
 | --- | --- |
 | **Project headline** | Providing the back-end for an consumer-facing app as part of the GAIM-project |
 | **Time frame** | September 2024 - August 2026 |
-| **Project description** | 
-The GAIM project aims to inform, empower, and research the use of user-oriented sustainable energy systems. As part of a gamification effort, an app to engage individual households was developed by an external partner. The researchers were looking for a back-end that could provide current energy prices, solar power potential, and other relevant data, harvested from different sources, to a consumer-facing app in a scalable and reliable manner. As part of the solution we designed and developed an API, and helped create the database and data retrieval protocols that feed it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
+| **Project description** | The GAIM project aims to inform, empower, and research the use of user-oriented sustainable energy systems. As part of a gamification effort, an app to engage individual households was developed by an external partner. The researchers were looking for a back-end that could provide current energy prices, solar power potential, and other relevant data, harvested from different sources, to a consumer-facing app in a scalable and reliable manner. As part of the solution we designed and developed an API, and helped create the database and data retrieval protocols that feed it, which together form the back-end of the GAIM app. As part of the development, we deployed the various programs in the UU's OpenShift (Kubernetes) platform. A collaboration with [Garrett Speed](https://www.uu.nl/staff/GTSpeed) from GEO-ICT. |
 | **Research domain** | Copernicus Institute for Sustainable Development |
 | **Technologies** | Python, API, PostgreSQL, OpenShift | 
 | **Researcher(s)** | [Hossein Nasrollahi](https://www.uu.nl/medewerkers/HNasrollahi), [Ioannis Lampropoulos](https://www.uu.nl/medewerkers/ILampropoulos) |
